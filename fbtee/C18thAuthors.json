@@ -1,2161 +1,2151 @@
 {
   "description": "Authors published by the 18th-century publishing house, the Société typographique de Neuchâtel",
   "values": [
-    "[Bible]",
-    "Chambre de charité de la ville de Neuchâtel",
-    "Neuchâtel (principauté)",
-    "Neuchâtel (ville)",
-    "[Neuchâtel]",
-    "Société typographique de Neuchâtel",
-    "Société des sciences physiques de Lausanne",
-    "Suisse. Diète fédérale",
-    "[Encyclopédie]",
-    "#various#",
-    "Abauzit, Firmin",
-    "Abbizzi de Pise, Barthélemy",
-    "Abercrombie, John",
-    "Abélard, Pierre",
-    "Accarias de Sérionne, Jacques",
-    "Adam, Antoine",
-    "Addison, Joseph",
-    "Aguesseau, Henri François [d']",
-    "Albert [Mademoiselle d']",
-    "Alberti di Villanova, Francesco",
-    "Alberus, Erasmus",
-    "Albon, Claude-Camille-François [d']",
-    "Alembert, Jean le Rond [d']",
-    "Alemán, Mateo",
-    "Algarotti, Francesco",
-    "Alletz, Pons-Augustin",
-    "Altmann, Johann Georg",
-    "Angoulême, Marguerite [d']",
-    "Annet, Peter",
-    "Ardène, Jean-Paul de Rome [d']",
-    "Argens, Jean-Baptiste de Boyer [marquis d']",
-    "Arnaud, François-Thomas-Marie de Baculard [d']",
-    "Arnault de Nobleville, Louis-Daniel",
-    "Arçon, Jean-Claude-Eléonore le Michaud [d']",
-    "Aucour, Claude Godard [d']",
-    "Augeard, Jacques-Mathieu",
-    "Augier du Fot, Anne-Amable",
-    "Aulnoy, Marie-Catherine Le Jumel de Barneville",
-    "Aunillon, Pierre-Charles-Fabiot",
-    "Baer, Frédéric-Charles",
-    "Ballière, Denis",
-    "Barbé-Marbois, François [marquis de]",
-    "Barrin, Jean",
-    "Barruel, Augustin",
-    "Barrême, François Bertrand [de]",
-    "Barthez de Marmorières, Antoine",
-    "Bartholin, Thomas",
-    "Basedow, Johann Bernhard",
-    "Bastide, Jean François [de]",
-    "Baudrand, Barthélemy",
-    "Baurans, Pierre",
-    "Bauvin, Jean-Grégoire",
-    "Bayle, Pierre",
-    "Beauchamps, Pierre-François Godard [de]",
-    "Beaumarchais, Pierre Augustin Caron [de]",
-    "Leprince de Beaumont, Jeanne-Marie",
-    "Beauvais, Jean-Baptiste-Charles-Marie [de]",
+    "Firmin Abauzit"
+    "Barthélemy Abbizzi de Pise"
+    "John Abercrombie"
+    "Pierre Abélard"
+    "Jacques Accarias de Sérionne"
+    "Antoine Adam"
+    "Joseph Addison"
+    "Henri François d'Aguesseau"
+    "Mademoiselle d'Albert",
+    "Francesco Alberti di Villanova"
+    "Erasmus Alberus"
+    "Claude-Camille-François d'Albon"
+    "Jean le Rond d'Alembert"
+    "Mateo Alemán"
+    "Francesco Algarotti"
+    "Pons-Augustin Alletz"
+    "Johann Georg Altmann"
+    "Marguerite d'Angoulême"
+    "Peter Annet"
+    "Jean-Paul de Rome d'Ardène"
+    "Jean-Baptiste de Boyer marquis d'Argens"
+    "François-Thomas-Marie de Baculard d'Arnaud"
+    "Louis-Daniel Arnault de Nobleville"
+    "Jean-Claude-Eléonore le Michaud d'Arçon"
+    "Claude Godard d'Aucour"
+    "Jacques-Mathieu Augeard"
+    "Anne-Amable Augier du Fot"
+    "Marie-Catherine Le Jumel de Barneville Aulnoy"
+    "Pierre-Charles-Fabiot Aunillon"
+    "Frédéric-Charles Baer"
+    "Denis Ballière"
+    "François marquis de Barbé-Marbois"
+    "Jean Barrin"
+    "Augustin Barruel"
+    "François Bertrand de Barrême"
+    "Antoine Barthez de Marmorières"
+    "Thomas Bartholin"
+    "Johann Bernhard Basedow"
+    "Jean François de Bastide"
+    "Barthélemy Baudrand"
+    "Pierre Baurans"
+    "Jean-Grégoire Bauvin"
+    "Pierre Bayle"
+    "Pierre-François Godard de Beauchamps"
+    "Pierre Augustin Caron de Beaumarchais"
+    "Jeanne-Marie Leprince de Beaumont"
+    "Jean-Baptiste-Charles-Marie de Beauvais"
     "Bebescourt",
-    "Beccaria, César Bonesana [marquis de]",
-    "Beccary, Madame",
-    "Bechtel, Jean-Christophe",
-    "Beguillet, Edme",
-    "Bellecour, abbé",
-    "Benoist, Françoise-Albine",
-    "Bernard, François",
-    "Bernard, Jean-Frédéric",
-    "Bernardin de Saint-Pierre, Henri",
-    "Berquin, Arnaud",
-    "Berthaud, Claude-Louis",
-    "Berthelot, Jean-François",
-    "Bertrand, Elie",
-    "Besançon, Etienne Modeste",
-    "Betskij, Ivan Ivanovic",
-    "Beuvius, Adam",
-    "Bienville, J.-D.-T. [de]",
-    "Bilguer, Johann Ulrich",
-    "Bion, Jean",
-    "Blair, Hugh",
-    "Blanc de Guillet, Antoine",
-    "Boccaccio, Giovanni",
-    "Boerhaave, Herman",
-    "Bohan, Baron François-Phillipe Loubat [de]",
-    "Boindin, Nicolas",
-    "Boismont, Nicolas Thyrel [de]",
-    "Boissier de la Croix de Sauvages, François",
-    "Boissy, Louis [de]",
-    "Bolingbroke, Henri Paulet de Saint-Jean [vicomte de]",
-    "Bond, Thomas",
-    "Bonnegarde, M. [de]",
-    "Bonnet, Charles",
-    "Bons, Charles-Louis [de]",
-    "Bons, Francois Louis [de]",
-    "Borch, Michel-Jean [comte de]",
-    "Borde, Charles",
-    "Bossuet, Jacques Bénigne",
-    "Boswell, James",
-    "Boucher-d'Argis, André-Jean-Baptiste",
-    "Boufflers, Stanislas-Jean [de]",
-    "Bougainville, Louis Antoine [de]",
-    "Bougeant, Guillaume-Hyacinthe",
-    "Bouhours, Dominique",
-    "Bouillé, Judith Elisabeth",
-    "Boulanger, Nicolas-Antoine",
-    "Boulainvilliers, Henri [comte de]",
-    "Imbert de Boudeaux, Guillaume",
-    "Bourdet, Bernard",
-    "Boureau-Deslandes, André-François",
-    "Bourgelat, Claude",
-    "Bourgoing, Jean-François [de]",
-    "Bourrit, Marc-Théodore",
-    "Boussanelle, Louis [de]",
-    "Boutauld, Michel",
-    "Boutet de Monvel, Jacques-Marie",
-    "Boutrolle, J.-G.",
-    "Boyve, Jérôme-Emmanuel",
-    "Brac, fils",
-    "Lauraguais, Louis-Léon-Félicité de Brancas [comte de]",
-    "Brenellerie, Paul-Phillipe Gaudin [de la]",
-    "Bret, Antonie",
-    "Brezé, Gioacchino Bonaventura Argentero",
-    "Bridel, Jean-Philippe-Louis",
-    "Bridel, Philippe Sirice",
-    "Briel, J.-H.-D.",
-    "Brissot de Warville, Félicité",
-    "Brissot de Warville, Jacques-Pierre",
-    "Brooke, Frances Moore",
-    "Brown, John",
-    "Brydone, Patrick",
-    "Brébeuf, Georges [de]",
-    "Buc'hoz, Pierre-Joseph",
-    "Buchan, William",
-    "Buffon, Georges-Louis Leclerc [comte de]",
-    "Burigny, Jean Lévesque [de]",
-    "Burlamaqui, Jean-Jacques",
-    "Burnaby, Andrew",
-    "Burney, Fanny",
-    "Bussy-Rabutin, Roger [de]",
-    "Butini, Jean-Antoine",
-    "Butini, Jean-François",
-    "Butret, Charles [de]",
-    "Bèrage [de]",
+    "César Bonesana marquis de Beccaria"
+    "Madame Beccary"
+    "Jean-Christophe Bechtel"
+    "Edme Beguillet"
+    "abbé Bellecour"
+    "Françoise-Albine Benoist"
+    "François Bernard"
+    "Jean-Frédéric Bernard"
+    "Henri Bernardin de Saint-Pierre"
+    "Arnaud Berquin"
+    "Claude-Louis Berthaud"
+    "Jean-François Berthelot"
+    "Elie Bertrand"
+    "Etienne Modeste Besançon"
+    "Ivan Ivanovic Betskij"
+    "Adam Beuvius"
+    "J.-D.-T. de Bienville"
+    "Johann Ulrich Bilguer"
+    "Jean Bion"
+    "Hugh Blair"
+    "Antoine Blanc de Guillet"
+    "Giovanni Boccaccio"
+    "Herman Boerhaave"
+    "Baron François-Phillipe Loubat de Bohan"
+    "Nicolas Boindin"
+    "Nicolas Thyrel de Boismont"
+    "François Boissier de la Croix de Sauvages"
+    "Louis de Boissy"
+    "Henri Paulet de Saint-Jean vicomte de Bolingbroke"
+    "Thomas Bond"
+    "M. de Bonnegarde"
+    "Charles Bonnet"
+    "Charles-Louis de Bons"
+    "Francois Louis de Bons"
+    "Michel-Jean comte de Borch"
+    "Charles Borde"
+    "Jacques Bénigne Bossuet"
+    "James Boswell"
+    "André-Jean-Baptiste Boucher-d'Argis"
+    "Stanislas-Jean de Boufflers"
+    "Louis Antoine de Bougainville"
+    "Guillaume-Hyacinthe Bougeant"
+    "Dominique Bouhours"
+    "Judith Elisabeth Bouillé"
+    "Nicolas-Antoine Boulanger"
+    "Henri comte de Boulainvilliers"
+    "Guillaume Imbert de Boudeaux"
+    "Bernard Bourdet"
+    "André-François Boureau-Deslandes"
+    "Claude Bourgelat"
+    "Jean-François de Bourgoing"
+    "Marc-Théodore Bourrit"
+    "Louis de Boussanelle"
+    "Michel Boutauld"
+    "Jacques-Marie Boutet de Monvel"
+    "J.-G. Boutrolle"
+    "Jérôme-Emmanuel Boyve"
+    "fils Brac"
+    "Louis-Léon-Félicité de Brancas comte de Lauraguais"
+    "Paul-Phillipe Gaudin de la Brenellerie"
+    "Antonie Bret"
+    "Gioacchino Bonaventura Argentero Brezé"
+    "Jean-Philippe-Louis Bridel"
+    "Philippe Sirice Bridel"
+    "J.-H.-D. Briel"
+    "Félicité Brissot de Warville"
+    "Jacques-Pierre Brissot de Warville"
+    "Frances Moore Brooke"
+    "John Brown"
+    "Patrick Brydone"
+    "Georges de Brébeuf"
+    "Pierre-Joseph Buc'hoz"
+    "William Buchan"
+    "Georges-Louis Leclerc comte de Buffon"
+    "Jean Lévesque de Burigny"
+    "Jean-Jacques Burlamaqui"
+    "Andrew Burnaby"
+    "Fanny Burney"
+    "Roger de Bussy-Rabutin"
+    "Jean-Antoine Butini"
+    "Jean-François Butini"
+    "Charles de Butret"
+    "Bèrage de",
     "Bénéch",
-    "Bérenger, Jean-Pierre",
-    "Büsching, Anton-Friedrich",
-    "Caillard, Antoine-Bernard",
-    "Caillard, Gaspar",
-    "Cailleau, André-Charles",
-    "Calonne, Charles-Alexandre [de]",
-    "Camoëns, Louis",
-    "Campe, Joachim Heinrich",
-    "Carra, Jean-Louis",
-    "Caraccioli, Louis-Antoine [de]",
-    "Du Carla-Bonifas, Marcellin",
-    "Carmontelle, Louis Carrogis [de]",
-    "Carver, Jonathan",
-    "Castilhon, Jean-Louis",
-    "Cato, Dionysius",
-    "Caylus, Anne Claude Philippe",
-    "Celsius, Olof O.",
-    "Cerisier, Antoine-Marie",
-    "Cervantes Saavedra, Miguel [de]",
-    "Chaillet, Henri-David",
-    "Chais, Charles",
-    "Chais, P.",
-    "Chambon [receveur des fermes]",
-    "Chapat, Louis [de]",
-    "Chardon, Daniel-Marc-Antoine",
+    "Jean-Pierre Bérenger"
+    "Anton-Friedrich Büsching"
+    "Antoine-Bernard Caillard"
+    "Gaspar Caillard"
+    "André-Charles Cailleau"
+    "Charles-Alexandre de Calonne"
+    "Louis Camoëns"
+    "Joachim Heinrich Campe"
+    "Jean-Louis Carra"
+    "Louis-Antoine de Caraccioli"
+    "Marcellin Du Carla-Bonifas"
+    "Louis Carrogis de Carmontelle"
+    "Jonathan Carver"
+    "Jean-Louis Castilhon"
+    "Dionysius Cato"
+    "Anne Claude Philippe Caylus"
+    "Olof O. Celsius"
+    "Antoine-Marie Cerisier"
+    "Miguel de Cervantes Saavedra"
+    "Henri-David Chaillet"
+    "Charles Chais"
+    "P. Chais"
+    "Chambon receveur des fermes",
+    "Louis de Chapat"
+    "Daniel-Marc-Antoine Chardon"
     "Charlier",
-    "Charrière, Isabelle [de]",
-    "Chas, François",
-    "Chassaignon, Jean-Marie",
-    "Chastellux, François-Jean [marquis de]",
-    "Chatelain, Henri-Abraham",
-    "Chaudon, Esprit-Joseph",
-    "Chaudon, Louis Maïeul",
-    "Chaufepié, Jaques George [de]",
-    "Chavanette, Perrin de",
-    "Chavannes, Gaudard de",
-    "Chevrier, François-Antoine",
-    "Choderlos de Laclos, Pierre-Ambroise-François",
-    "Chompré, Pierre",
-    "Chorier, Nicolas",
-    "Christin, Charles-Gabriel-Frédéric",
-    "Château-Lyon, Pierre Louis d'Aquin [de]",
-    "Claproth, Johann Christian",
-    "Cleland, John",
-    "Cluny, Alexander",
+    "Isabelle de Charrière"
+    "François Chas"
+    "Jean-Marie Chassaignon"
+    "François-Jean marquis de Chastellux"
+    "Henri-Abraham Chatelain"
+    "Esprit-Joseph Chaudon"
+    "Louis Maïeul Chaudon"
+    "Jaques George de Chaufepié"
+    "Perrin de Chavanette"
+    "Gaudard de Chavannes"
+    "François-Antoine Chevrier"
+    "Pierre-Ambroise-François Choderlos de Laclos"
+    "Pierre Chompré"
+    "Nicolas Chorier"
+    "Charles-Gabriel-Frédéric Christin"
+    "Pierre Louis d'Aquin de Château-Lyon"
+    "Johann Christian Claproth"
+    "John Cleland"
+    "Alexander Cluny"
     "Clément XIV",
-    "Clément, Jean Marie Bernard de Dijon",
-    "Clément, Pierre",
-    "Cochin, Charles Nicolas",
-    "Colletet, Guillaume",
-    "Collins, Anthony",
-    "Collé, Charles",
-    "Condillac, Etienne Bonnot [de]",
-    "Condorcet, Jean-Antoine-Nicolas de Caritat [marquis de]",
-    "Cook, James",
-    "Cooper, Ashley",
-    "Coquereau, Jean-Baptiste-Louis",
-    "Cormiliolle [abbé]",
-    "Corneille, Pierre",
-    "Corneille, Thomas",
-    "Cortés, Hernán",
-    "Corvinus, Joannes Fridericus",
-    "Cotelli, Michel",
-    "Courvoisier, Jean Baptiste",
-    "Cousin-Despréaux, Louis",
-    "Coxe, Daniel",
-    "Coxe, William",
-    "Coyer, Gabriel-François",
-    "Crevier, Jean-Baptiste-Louis",
-    "Crugot, Martin",
-    "Crèvecoeur, St. John de",
-    "Crébillon fils, Claude-Prosper Jolyot [de]",
-    "Cubières-Palmézeaux, Michel [de]",
-    "Cuppé, Pierre",
-    "Dacier, André",
-    "Dalrymple, W.",
-    "Damiens de Gomicourt, Auguste-Pierre",
-    "Daquin, Joseph",
-    "Daubenton, Marguerite",
-    "David, Jean-Pierre",
-    "Defoe, Daniel",
-    "Delauney, Remy",
-    "Deleyre, Alexandre",
-    "Delille, Jacques",
-    "Delisle de Sales, Jean-Baptiste-Claude Izoard",
+    "Jean Marie Bernard de Dijon Clément"
+    "Pierre Clément"
+    "Charles Nicolas Cochin"
+    "Guillaume Colletet"
+    "Anthony Collins"
+    "Charles Collé"
+    "Etienne Bonnot de Condillac"
+    "Jean-Antoine-Nicolas de Caritat marquis de Condorcet"
+    "James Cook"
+    "Ashley Cooper"
+    "Jean-Baptiste-Louis Coquereau"
+    "Cormiliolle abbé",
+    "Pierre Corneille"
+    "Thomas Corneille"
+    "Hernán Cortés"
+    "Joannes Fridericus Corvinus"
+    "Michel Cotelli"
+    "Jean Baptiste Courvoisier"
+    "Louis Cousin-Despréaux"
+    "Daniel Coxe"
+    "William Coxe"
+    "Gabriel-François Coyer"
+    "Jean-Baptiste-Louis Crevier"
+    "Martin Crugot"
+    "St. John de Crèvecoeur"
+    "Claude-Prosper Jolyot de Crébillon fils"
+    "Michel de Cubières-Palmézeaux"
+    "Pierre Cuppé"
+    "André Dacier"
+    "W. Dalrymple"
+    "Auguste-Pierre Damiens de Gomicourt"
+    "Joseph Daquin"
+    "Marguerite Daubenton"
+    "Jean-Pierre David"
+    "Daniel Defoe"
+    "Remy Delauney"
+    "Alexandre Deleyre"
+    "Jacques Delille"
+    "Jean-Baptiste-Claude Izoard Delisle de Sales"
     "Delormois",
     "Delsuc",
-    "Denina, Carlo",
-    "Desfontaines [abbé]",
-    "Deslandes, M.",
-    "Destouches, Néricault",
-    "Devillaine, Antoine Louis",
-    "Diderot, Denis",
-    "Dinouart, Joseph-Antoine-Toussaint",
-    "Dionis, Pierre",
-    "Doddridge, M.P.",
-    "Dodsley, Robert",
-    "Domairon, Louis",
-    "Dorat, Claude-Joseph",
-    "Du Laurens, Henri-Joseph",
-    "Dubois, François-Nicolas",
-    "Duchet, François Xavier",
+    "Carlo Denina"
+    "Desfontaines abbé",
+    "M. Deslandes"
+    "Néricault Destouches"
+    "Antoine Louis Devillaine"
+    "Denis Diderot"
+    "Joseph-Antoine-Toussaint Dinouart"
+    "Pierre Dionis"
+    "M.P. Doddridge"
+    "Robert Dodsley"
+    "Louis Domairon"
+    "Claude-Joseph Dorat"
+    "Henri-Joseph Du Laurens"
+    "François-Nicolas Dubois"
+    "François Xavier Duchet"
     "Ducrot",
-    "Duff, William",
-    "Duguay-Trouin, René",
-    "Duguet, Jacques Joseph",
-    "Dulon, Isaac",
-    "Dumas, Jean-François",
-    "Dumouriez, Charles-François",
-    "Durand, François-Jacques",
-    "Dussaulx, Jean",
-    "Dutens, Louis",
-    "Duval-Pyrau, Henri François [abbé]",
-    "Duvigneau, Pierre Hyacinthe",
-    "Echard, Laurence",
-    "Echavarri, Bernardo Ibañez [de]",
-    "Eidous, Marc-Antoine",
-    "Engel, Samuel",
-    "Eon de Beaumont, Charles-Geneviève-Louis-Auguste-André-Timothée [d']",
-    "Escherny, François Louis [d']",
-    "Espagnac, Jean-Baptiste-Joseph Damarzit de Sahuguet [d']",
-    "Estaing [d']",
-    "Estendoux, Jean-François Cailhava [de l']",
-    "Estienne, Robert",
+    "William Duff"
+    "René Duguay-Trouin"
+    "Jacques Joseph Duguet"
+    "Isaac Dulon"
+    "Jean-François Dumas"
+    "Charles-François Dumouriez"
+    "François-Jacques Durand"
+    "Jean Dussaulx"
+    "Louis Dutens"
+    "Henri François abbé Duval-Pyrau"
+    "Pierre Hyacinthe Duvigneau"
+    "Laurence Echard"
+    "Bernardo Ibañez de Echavarri"
+    "Marc-Antoine Eidous"
+    "Samuel Engel"
+    "Charles-Geneviève-Louis-Auguste-André-Timothée d'Eon de Beaumont"
+    "François Louis d'Escherny"
+    "Jean-Baptiste-Joseph Damarzit de Sahuguet d'Espagnac"
+    "Estaing d'",
+    "Jean-François Cailhava de l' Estendoux"
+    "Robert Estienne"
     "Euclide",
-    "Euler, Leonhard",
-    "Faber, Mme",
-    "Fabrice, Friedrich Ernst [bon von]",
-    "Faiguet de Villeneuve, Jaochim",
-    "Falconet, Étienne-Maurice",
-    "Falques, Marianne-Agnès",
-    "Faucher, Chrysostôme",
-    "Faujas de Saint-Fond, Barthélemy",
-    "Favre [abbé de]",
-    "Fenouillot de Falbaire de Quingey, Charles-Georges",
-    "Ferguson, Adam",
-    "Fermin, Philippe",
-    "Ferrières, Charles Elie [marquis de]",
-    "Feutry, Aimé-Ambroise-Joseph",
-    "Fielding, Henry",
-    "Fielding, Sarah",
-    "Flamsteed, John",
-    "Fleuriot, Jean-Marie-Jérôme",
-    "Fleury, Claude",
-    "Florian, Jean-Pierre Claris [de]",
-    "Fléchier, Valentin Esprit",
-    "Fontenai, L. A. Bonafous [abbé de]",
-    "Fontenelle, Bernard Le Bouvier [de]",
-    "Fordyce, James",
-    "Formey, Johann Heinrich Samuel",
-    "Fortin, J.",
-    "Fortis, Alberto",
-    "Fourcroy, Jean-Louis [de]",
-    "Fournier, Pierre-Simon",
-    "Francillon, Jacob",
-    "Franco, Niccolò",
-    "Frenais, Joseph-Pierre",
-    "Fromaget, Nicolas",
-    "Fréret, Nicolas",
-    "Fréron, Élie-Catherine",
-    "Félix de Balthasar, Jospeh-Antoine",
-    "Fénelon, François de Salignac de La Mothe",
-    "Gaillard, Pierre-Alexandre",
-    "Galiani, Ferdinando",
-    "Garnier, Jean-Jacques",
-    "Garrigue, N.",
-    "Gaudin, Jacques-Maurice",
-    "Gautruche, Pierre",
-    "Genlis, Stéphanie Félicité [comtesse de]",
-    "Gessner, Salomon",
-    "Geuss, Joachim Michael",
-    "Gilibert, Jean-Emmanuel",
-    "Gin, Pierre-Louis-Claude",
-    "Girardet, Samuel",
-    "Girod-Chantrans, Justin",
-    "Godard d'Aucour, Claude",
-    "Godard, Louis",
-    "Goethe, Johann Wolfgang [von]",
-    "Goldsmith, Oliver",
-    "Gomez, Madeleine-Angélique Poisson Gabriel [de]",
-    "Gordon, Thomas",
-    "Gorjy, Jean-Claude",
-    "Gorsas, Antoine-Joseph",
-    "Gosse, Pieter",
-    "Gottsched, Johann Christoph",
-    "Goudar, Ange",
-    "Goudar, Sara",
-    "Gouge de Cessières, François-Étienne",
-    "Goupil de Pallières, Pierre-Etienne-Auguste",
-    "Gouvest, Jean-Henril Maubert [de]",
-    "Gracián, Baltasar",
-    "Graffigny, Françoise [de]",
-    "Peter II, Tsar of Russia",
-    "Grand-Jacquet, Pierre-Augustin",
-    "Grandval, Charles-François Racot [de]",
-    "Gregory, John",
-    "Gresset, Jean-Baptiste-Louis",
-    "Grimoard, Philippe-Henri [comte de]",
-    "Grivel, Guillaume",
-    "Grosley, Pierre-Jean",
-    "Gruner, Gottlieb Sigmund",
-    "Gruner, Johann Rudolf",
-    "Grécourt, Jean-Baptiste-Joseph Willart [de]",
-    "Guiard, Dom Antoine",
-    "Guidi, Louis",
-    "Guigoud-Pigale, Pierre",
-    "Guillard de Beaurieu, Gaspard",
-    "Guillaume, Jean-Baptiste",
-    "Guinot [abbé]",
-    "Guyton de Morveau, Louis Bernard",
-    "Guémadeuc, Baudouin [de]",
-    "Gélieu, Jonas [de]",
-    "Gérard, Philippe Louis",
-    "Goëzman, Louis Valentin [de]",
-    "Hale, Thomas",
-    "Halifax, George Savile",
-    "Haller, Albrecht [von]",
-    "Hamilton, Mary",
-    "Hamilton, William",
-    "Hancarville, Pierre-François Hugues [d']",
-    "Hardion, J.",
-    "Hardy, J.P.",
-    "Harel, Marie Maximilien",
-    "Harpur [le chevalier]",
-    "Hawkesworth, John",
-    "Haywood, Eliza Fowler",
-    "Hector, J.",
-    "Heger, Franz Joseph",
-    "Heinzmann, Johann Georg",
-    "Helvétius, Claude-Adrien",
-    "Herbelot de Molainville, Barthélemy [d']",
-    "Hermilly, Vaquette [d']",
-    "Hertzberg, Ewald Friedrich [von]",
-    "Heidegger, Heinrich",
-    "Hilliard d’Auberteuil, Michel-René",
-    "Hippolyte de Guilbert, Jacques-Antoine",
-    "Hirzel, Hans Caspar",
-    "Hobbes, Thomas",
-    "Hoffmann, Friedrich",
-    "Holbach, Paul Henri Dietrich [d']",
-    "Holland, Georg Jonathan [von]",
+    "Leonhard Euler"
+    "Mme Faber"
+    "Friedrich Ernst bon von Fabrice"
+    "Jaochim Faiguet de Villeneuve"
+    "Étienne-Maurice Falconet"
+    "Marianne-Agnès Falques"
+    "Chrysostôme Faucher"
+    "Barthélemy Faujas de Saint-Fond"
+    "Favre abbé de",
+    "Charles-Georges Fenouillot de Falbaire de Quingey"
+    "Adam Ferguson"
+    "Philippe Fermin"
+    "Charles Elie marquis de Ferrières"
+    "Aimé-Ambroise-Joseph Feutry"
+    "Henry Fielding"
+    "Sarah Fielding"
+    "John Flamsteed"
+    "Jean-Marie-Jérôme Fleuriot"
+    "Claude Fleury"
+    "Jean-Pierre Claris de Florian"
+    "Valentin Esprit Fléchier"
+    "L. A. Bonafous abbé de Fontenai"
+    "Bernard Le Bouvier de Fontenelle"
+    "James Fordyce"
+    "Johann Heinrich Samuel Formey"
+    "J. Fortin"
+    "Alberto Fortis"
+    "Jean-Louis de Fourcroy"
+    "Pierre-Simon Fournier"
+    "Jacob Francillon"
+    "Niccolò Franco"
+    "Joseph-Pierre Frenais"
+    "Nicolas Fromaget"
+    "Nicolas Fréret"
+    "Élie-Catherine Fréron"
+    "Jospeh-Antoine Félix de Balthasar"
+    "François de Salignac de La Mothe Fénelon"
+    "Pierre-Alexandre Gaillard"
+    "Ferdinando Galiani"
+    "Jean-Jacques Garnier"
+    "N. Garrigue"
+    "Jacques-Maurice Gaudin"
+    "Pierre Gautruche"
+    "Stéphanie Félicité comtesse de Genlis"
+    "Salomon Gessner"
+    "Joachim Michael Geuss"
+    "Jean-Emmanuel Gilibert"
+    "Pierre-Louis-Claude Gin"
+    "Samuel Girardet"
+    "Justin Girod-Chantrans"
+    "Claude Godard d'Aucour"
+    "Louis Godard"
+    "Johann Wolfgang von Goethe"
+    "Oliver Goldsmith"
+    "Madeleine-Angélique Poisson Gabriel de Gomez"
+    "Thomas Gordon"
+    "Jean-Claude Gorjy"
+    "Antoine-Joseph Gorsas"
+    "Pieter Gosse"
+    "Johann Christoph Gottsched"
+    "Ange Goudar"
+    "Sara Goudar"
+    "François-Étienne Gouge de Cessières"
+    "Pierre-Etienne-Auguste Goupil de Pallières"
+    "Jean-Henril Maubert de Gouvest"
+    "Baltasar Gracián"
+    "Françoise de Graffigny"
+    "Tsar of Russia Peter II"
+    "Pierre-Augustin Grand-Jacquet"
+    "Charles-François Racot de Grandval"
+    "John Gregory"
+    "Jean-Baptiste-Louis Gresset"
+    "Philippe-Henri comte de Grimoard"
+    "Guillaume Grivel"
+    "Pierre-Jean Grosley"
+    "Gottlieb Sigmund Gruner"
+    "Johann Rudolf Gruner"
+    "Jean-Baptiste-Joseph Willart de Grécourt"
+    "Dom Antoine Guiard"
+    "Louis Guidi"
+    "Pierre Guigoud-Pigale"
+    "Gaspard Guillard de Beaurieu"
+    "Jean-Baptiste Guillaume"
+    "Guinot abbé",
+    "Louis Bernard Guyton de Morveau"
+    "Baudouin de Guémadeuc"
+    "Jonas de Gélieu"
+    "Philippe Louis Gérard"
+    "Louis Valentin de Goëzman"
+    "Thomas Hale"
+    "George Savile Halifax"
+    "Albrecht von Haller"
+    "Mary Hamilton"
+    "William Hamilton"
+    "Pierre-François Hugues d'Hancarville"
+    "J. Hardion"
+    "J.P. Hardy"
+    "Marie Maximilien Harel"
+    "Harpur le chevalier",
+    "John Hawkesworth"
+    "Eliza Fowler Haywood"
+    "J. Hector"
+    "Franz Joseph Heger"
+    "Johann Georg Heinzmann"
+    "Claude-Adrien Helvétius"
+    "Barthélemy d'Herbelot de Molainville"
+    "Vaquette d'Hermilly"
+    "Ewald Friedrich von Hertzberg"
+    "Heinrich Heidegger"
+    "Michel-René Hilliard d’Auberteuil"
+    "Jacques-Antoine Hippolyte de Guilbert"
+    "Hans Caspar Hirzel"
+    "Thomas Hobbes"
+    "Friedrich Hoffmann"
+    "Paul Henri Dietrich d'Holbach"
+    "Georg Jonathan von Holland"
     "Horace",
-    "Hornot, Antoine",
-    "Housset, E. J. P.",
-    "Huber, Marie",
-    "Huillier, Pierre [l']",
-    "Hume, David",
-    "Hélaine [abbé]",
-    "Hübner, Johann",
-    "Imbert, J.",
-    "Imer, Jean-Jacques",
-    "Imhoof, Jean-Jacques",
-    "Isle André, Yves Marie [de l']",
-    "Janiçon, François-Michel",
-    "Jaquelot, Isaac",
-    "Jardin [abbé]",
-    "Jenyns, Soame",
-    "Joly, Joseph-Romain",
-    "Jones, Jean Paul",
-    "Joubert, Pierre",
-    "Jourdan, Jean-Baptiste",
-    "Jurieu, Pierre",
-    "Kauffmann [interpreter at the Châtelet]",
-    "Kimber, Edward",
-    "Kleemann, Nicolaus Ernst",
-    "Koenig, F. L.",
-    "Koppen, Karl-Friedrich",
-    "L'Épée, Charles-Michel [de]",
-    "La Beaumelle, Laurent Anglivie [de]",
-    "La Bruyère, Jean [de]",
-    "La Caille, Nicolas-Louis [de] [abbé]",
-    "La Fite de Pelleport, Anne-Gédéon",
-    "La Fontaine, Jean [de]",
-    "La Harpe, Jean François [de]",
-    "La Lande, Jérôme [de]",
-    "La Mettrie, Julien Offray [de]",
-    "La Monnoye, Bernard [de]",
-    "La Mothe, François-Charles Huerne [de]",
-    "La Place, Pierre-Antoine [de]",
-    "La Porte, Joseph [de]",
-    "La Roche, Charles [de]",
-    "La Roche, Georg Michael Frank [von]",
-    "La Roche, Michel [de]",
-    "La Roche, Sophie [von]",
-    "La Rochefoucauld, François [de]",
-    "La Sale, Antoine [de]",
-    "La Solle, Henri-François [de]",
-    "La Suze [de]",
-    "Laffrey, Arnoux",
-    "Laget, Guillaume",
-    "Lallemant, Nicolas",
-    "Lalouette, Pierre",
-    "Lamberg, Maximilian [graf von]",
-    "Lambert de Saumery, Pierre",
-    "Lambert, Johann Heinrich",
-    "Lampsaque, N.",
-    "Langeac, Égide de Lespinasse",
-    "Langhans, Daniel",
-    "Lanjuinais, Joseph",
-    "Latouche, Jean-Charles Gervaise [de]",
-    "Lau, Théodore-Louis",
-    "Lavater, Johann Caspar",
-    "Laveaux, Jean-Charles",
-    "Le Beau, Charles",
-    "Le Berryais, René",
-    "Le Bretonnière, François de Chavigny [de]",
-    "Le Brun, Denis",
-    "Le Bègue de Presle, Achille-Guillaume",
-    "Le Camus de Mézières, Nicolas",
-    "Le Cat, Claude-Nicolas",
-    "Le Clerc, Nicolas-Gabriel",
-    "Le Ferron, Arnoul",
-    "Le Fébure de Saint-Ildephont, Guillaume-René",
-    "Le Gendre, F.",
-    "Le Gentil de La Galaisière, Guillaume-Joseph-Hyacinthe-Jean-Baptiste",
-    "Le Gentil, François",
-    "Le Gras, Philippe",
-    "Le Maçon, Antoine-Jean",
-    "Le Maître de Claville, Charles-François-Nicolas",
-    "Le Monnier, Pierre-Charles",
-    "Le Roux, Philibert-Joseph",
-    "Le Roy, Charles Georges",
-    "Le Roy, Pierre Louis",
-    "Le Scène-Desmaisons, Jacques",
-    "Le Tourneur, Pierre-Prime-Félicien",
-    "Lediard, Thomas",
-    "Leland, Thomas",
-    "Lenglet Du Fresnoy, Nicolas",
-    "Leopolds, C.",
-    "Leresche, Samuel",
-    "Leroy, Antoine",
-    "Leroy, Dejean",
-    "Lesage, Alain-René",
-    "Lettsom, John Coakley",
-    "Levacher de Charnois, Jean-Charles",
-    "Levesque, Pierre-Charles",
-    "Lichtwer, Magnus Cottfried",
-    "Lieberkühn, Philipp Julius",
-    "Lindsey, Theophilus",
-    "Linguet, Simon-Nicolas-Henri",
-    "Linnaeus, Carolus",
-    "Liomin, Georges Auguste",
-    "Lioy, Félix",
+    "Antoine Hornot"
+    "E. J. P. Housset"
+    "Marie Huber"
+    "Pierre l' Huillier"
+    "David Hume"
+    "Hélaine abbé",
+    "Johann Hübner"
+    "J. Imbert"
+    "Jean-Jacques Imer"
+    "Jean-Jacques Imhoof"
+    "Yves Marie de l' Isle André"
+    "François-Michel Janiçon"
+    "Isaac Jaquelot"
+    "Jardin abbé",
+    "Soame Jenyns"
+    "Joseph-Romain Joly"
+    "Jean Paul Jones"
+    "Pierre Joubert"
+    "Jean-Baptiste Jourdan"
+    "Pierre Jurieu"
+    "Kauffmann interpreter at the Châtelet",
+    "Edward Kimber"
+    "Nicolaus Ernst Kleemann"
+    "F. L. Koenig"
+    "Karl-Friedrich Koppen"
+    "Charles-Michel de L'Épée"
+    "Laurent Anglivie de La Beaumelle"
+    "Jean de La Bruyère"
+    "Nicolas-Louis de abbé La Caille"
+    "Anne-Gédéon La Fite de Pelleport"
+    "Jean de La Fontaine"
+    "Jean François de La Harpe"
+    "Jérôme de La Lande"
+    "Julien Offray de La Mettrie"
+    "Bernard de La Monnoye"
+    "François-Charles Huerne de La Mothe"
+    "Pierre-Antoine de La Place"
+    "Joseph de La Porte"
+    "Charles de La Roche"
+    "Georg Michael Frank von La Roche"
+    "Michel de La Roche"
+    "Sophie von La Roche"
+    "François de La Rochefoucauld"
+    "Antoine de La Sale"
+    "Henri-François de La Solle"
+    "La Suze de",
+    "Arnoux Laffrey"
+    "Guillaume Laget"
+    "Nicolas Lallemant"
+    "Pierre Lalouette"
+    "Maximilian graf von Lamberg"
+    "Pierre Lambert de Saumery"
+    "Johann Heinrich Lambert"
+    "N. Lampsaque"
+    "Égide de Lespinasse Langeac"
+    "Daniel Langhans"
+    "Joseph Lanjuinais"
+    "Jean-Charles Gervaise de Latouche"
+    "Théodore-Louis Lau"
+    "Johann Caspar Lavater"
+    "Jean-Charles Laveaux"
+    "Charles Le Beau"
+    "René Le Berryais"
+    "François de Chavigny de Le Bretonnière"
+    "Denis Le Brun"
+    "Achille-Guillaume Le Bègue de Presle"
+    "Nicolas Le Camus de Mézières"
+    "Claude-Nicolas Le Cat"
+    "Nicolas-Gabriel Le Clerc"
+    "Arnoul Le Ferron"
+    "Guillaume-René Le Fébure de Saint-Ildephont"
+    "F. Le Gendre"
+    "Guillaume-Joseph-Hyacinthe-Jean-Baptiste Le Gentil de La Galaisière"
+    "François Le Gentil"
+    "Philippe Le Gras"
+    "Antoine-Jean Le Maçon"
+    "Charles-François-Nicolas Le Maître de Claville"
+    "Pierre-Charles Le Monnier"
+    "Philibert-Joseph Le Roux"
+    "Charles Georges Le Roy"
+    "Pierre Louis Le Roy"
+    "Jacques Le Scène-Desmaisons"
+    "Pierre-Prime-Félicien Le Tourneur"
+    "Thomas Lediard"
+    "Thomas Leland"
+    "Nicolas Lenglet Du Fresnoy"
+    "C. Leopolds"
+    "Samuel Leresche"
+    "Antoine Leroy"
+    "Dejean Leroy"
+    "Alain-René Lesage"
+    "John Coakley Lettsom"
+    "Jean-Charles Levacher de Charnois"
+    "Pierre-Charles Levesque"
+    "Magnus Cottfried Lichtwer"
+    "Philipp Julius Lieberkühn"
+    "Theophilus Lindsey"
+    "Simon-Nicolas-Henri Linguet"
+    "Carolus Linnaeus"
+    "Georges Auguste Liomin"
+    "Félix Lioy"
     "Dupré de Lisle",
-    "Lloyd, Henry",
-    "Lockhard, George",
-    "Lolme, Jean-Louis [de]",
-    "Longchamps, Pierre [de]",
+    "Henry Lloyd"
+    "George Lockhard"
+    "Jean-Louis de Lolme"
+    "Pierre de Longchamps"
     "Longus",
     "Lorinet",
-    "Louis, Dom",
-    "Luc, J. A. [de]",
-    "Lucca, Gaudentio di",
-    "Luchet, Jean-Pierre-Louis de La Roche du Marin [marquis de]",
+    "Dom Louis"
+    "J. A. de Luc"
+    "Gaudentio di Lucca"
+    "Jean-Pierre-Louis de La Roche du Marin marquis de Luchet"
     "Lucrèce",
-    "Lussan, Marguerite [de]",
-    "Léonard, Nicolas Germain",
-    "Lévy, Jean-Baptiste-Michel [de]",
-    "Mably, Gabriel Bonnot [de]",
-    "Macquer, Philippe",
-    "Macquer, Pierre-Joseph",
-    "Magnien-Grandpré, Vivent",
-    "Mague de Saint-Aubin, Jacques-Thomas",
-    "Mailly, Jean-Baptiste",
-    "Mainvilliers, Genu Soalhat [chevalier de]",
-    "Malarme, Charlotte de Bournon [comtesse de]",
-    "Maleteste de Villey, Jean-Louis [de]",
-    "Malisset d'Hertereau, J.-A.-B.",
-    "Mallet Du Pan, Jacques",
-    "Mallet, Paul Henri",
-    "Mandrillon, Joseph",
-    "Mangenot, Louis",
-    "Manuel, Louis-Pierre",
+    "Marguerite de Lussan"
+    "Nicolas Germain Léonard"
+    "Jean-Baptiste-Michel de Lévy"
+    "Gabriel Bonnot de Mably"
+    "Philippe Macquer"
+    "Pierre-Joseph Macquer"
+    "Vivent Magnien-Grandpré"
+    "Jacques-Thomas Mague de Saint-Aubin"
+    "Jean-Baptiste Mailly"
+    "Genu Soalhat chevalier de Mainvilliers"
+    "Charlotte de Bournon comtesse de Malarme"
+    "Jean-Louis de Maleteste de Villey"
+    "J.-A.-B. Malisset d'Hertereau"
+    "Jacques Mallet Du Pan"
+    "Paul Henri Mallet"
+    "Joseph Mandrillon"
+    "Louis Mangenot"
+    "Louis-Pierre Manuel"
     "Marbault",
-    "Marchand, Etienne",
-    "Marchand, Jean-Henri",
-    "Marchand, Prosper",
-    "Marius, Johannes Mayer",
-    "Marivaux, Martin [de]",
-    "Marivaux, Pierre [de]",
-    "Marmontel, Jean-François",
-    "Saint-Aulaire, Jean-Yrieix de Beaupoil [Marquis de]",
-    "Marsy, François-Marie [de]",
-    "Maréchal, Sylvain",
-    "Maupertuis, Pierre-Louis Moreau [de]",
+    "Etienne Marchand"
+    "Jean-Henri Marchand"
+    "Prosper Marchand"
+    "Johannes Mayer Marius"
+    "Martin de Marivaux"
+    "Pierre de Marivaux"
+    "Jean-François Marmontel"
+    "Jean-Yrieix de Beaupoil Marquis de Saint-Aulaire"
+    "François-Marie de Marsy"
+    "Sylvain Maréchal"
+    "Pierre-Louis Moreau de Maupertuis"
     "Maupin",
-    "Maury, Cardinal Jean-Siffrein",
-    "Mauvillon, Éléazar [de]",
-    "Mazel, David",
-    "Meerwein, Carl Friedrich",
-    "Meilhan, Gabriel Sénac [de]",
-    "Meissner, August Gottlieb",
-    "Meister, Jakob Heinrich",
-    "Mendelssohn, Moses",
+    "Cardinal Jean-Siffrein Maury"
+    "Éléazar de Mauvillon"
+    "David Mazel"
+    "Carl Friedrich Meerwein"
+    "Gabriel Sénac de Meilhan"
+    "August Gottlieb Meissner"
+    "Jakob Heinrich Meister"
+    "Moses Mendelssohn"
     "Menon",
-    "Mercier de Compiègne, Claude-François-Xavier",
-    "Mercier, Louis-Sébastien",
-    "Merzahn von Klingstöd, Timotheus",
-    "Meslier, Jean",
-    "Mesnier [abbé]",
-    "Mettayer, J.",
-    "Meusnier de Querlon, Anne-Gabriel",
-    "Mey, Claude",
-    "Mignot, Vincent",
-    "Milleran, René",
+    "Claude-François-Xavier Mercier de Compiègne"
+    "Louis-Sébastien Mercier"
+    "Timotheus Merzahn von Klingstöd"
+    "Jean Meslier"
+    "Mesnier abbé",
+    "J. Mettayer"
+    "Anne-Gabriel Meusnier de Querlon"
+    "Claude Mey"
+    "Vincent Mignot"
+    "René Milleran"
     "Millon (avocat)",
-    "Millot, Claude-François-Xavier",
-    "Milot, Michel",
-    "Milton, John",
-    "Mirabaud, Jean-Baptiste",
-    "Mirabeau, Honoré-Gabriel Riqueti [comte de]",
-    "Mirabeau, Victor de Riquetti [marquis de]",
+    "Claude-François-Xavier Millot"
+    "Michel Milot"
+    "John Milton"
+    "Jean-Baptiste Mirabaud"
+    "Honoré-Gabriel Riqueti comte de Mirabeau"
+    "Victor de Riquetti marquis de Mirabeau"
     "Molière",
-    "Monbron, Charles-Louis Fougeret [de]",
-    "Moncrif, François-Augustin Paradis [de]",
-    "Monnet, Jean",
-    "Montaigne, Michel [de]",
-    "Montalembert, Marc-René [marquis de]",
-    "Montesquieu, Charles-Louis de Secondat baron [de]",
-    "Montigny, X. d'Arles [de]",
-    "Montpensier, Anne-Marie-Louise d'Orléans [duchesse de]",
-    "Montucla, Jean-Étienne",
-    "Théveneau de Morande, Charles",
-    "Morel, Jean-Marie",
-    "Morellet, André",
-    "Morelly, Étienne Gabriel",
-    "Moreri, Louis",
-    "Mosheim, Johann Lorenz [von]",
-    "Moufle d'Angerville, Berthélemy-François-Joseph",
-    "Mouhy, Charles de Fieux",
-    "Moules, [abbé de]",
-    "Mourier, Ferdinand-Louis",
-    "Muret, Jean-Louis",
-    "Musset, Louis-Alexandre-Marie [de]",
-    "Mérian, Jean-Baptiste [de]",
-    "Métra, Louis François",
-    "Müller, Johannes [von]",
-    "Münter, Balthasar",
-    "Naigeon, Jacques-André",
-    "Necker, Jacques",
-    "Nepos, Cornelius",
-    "Andréa de Nerciat, André-Robert",
-    "Nevers, Philippe-Julien Mancini-Mazarini",
-    "Newton, Isaac",
-    "Nicolai, Friedrich",
-    "Nicolas, Jean",
-    "Niebuhr, Carsten",
-    "Noailles, Adrien-Maurice [de]",
-    "Nougaret, Pierre-Jean-Baptiste",
-    "Nourry, Charles",
-    "Noyer, Anne-Marguerite Petit [dame du]",
-    "Nény, Patrice [de]",
-    "Olivet, Pierre-Joseph Thoulier",
-    "Olivier, J.",
-    "Orbessan, Anne-Marie Daignan",
-    "Orme, Paul Boesnier [de l']",
-    "Ormoy, Charlotte Chaumet [d']",
-    "Orobio, Isaac",
-    "Ostervald, Frédéric-Samuel",
-    "Ostervald, Jean-Frédéric",
-    "Ostervald, Jean-Rodolphe",
-    "Oxenstierna, Johan Turesson",
-    "Pacaud, Pierre",
-    "Pagès, Pierre Marie François",
-    "Pajon de Moncets, Louis-Esaïe",
-    "Palairet, Jean",
-    "Palissot de Montenoy, Charles",
-    "Pallas, Peter Simon",
-    "Parmentier, Antoine-Augustin",
-    "Parvi, Alberti",
-    "Pascal, Blaise",
-    "Pasumot, François",
-    "Patono, Benoît",
-    "Patot, Simon Tyssot [de]",
-    "Paulian, Aimé-Henri",
-    "Pauw, Cornelius [de]",
-    "Pazzi de Bonneville, Zacharie [de]",
-    "Pecquet, Antoine",
-    "Pellissery, Roch-Antoine [de]",
-    "Pelt [de]",
-    "Penn, Lewis",
-    "Pennington, Sarah",
-    "Brossais du Perray, Joseph Marie",
-    "Perreau, Jean-André",
-    "Perrin, Jacques-Antoine-René",
-    "Pestalozzi, Henri",
-    "Petitpierre, Ferdinand-Olivier",
-    "Petity, Jean Raymond [de]",
-    "Pezzl, Johann",
-    "Pfeil, Johann Gottlob Benjamin",
-    "Philipon de La Madelaine, Louis",
-    "Philippe de Prétot, Étienne-André",
-    "Phipps, Constantin-Jean",
+    "Charles-Louis Fougeret de Monbron"
+    "François-Augustin Paradis de Moncrif"
+    "Jean Monnet"
+    "Michel de Montaigne"
+    "Marc-René marquis de Montalembert"
+    "Charles-Louis de Secondat baron de Montesquieu"
+    "X. d'Arles de Montigny"
+    "Anne-Marie-Louise d'Orléans duchesse de Montpensier"
+    "Jean-Étienne Montucla"
+    "Charles Théveneau de Morande"
+    "Jean-Marie Morel"
+    "André Morellet"
+    "Étienne Gabriel Morelly"
+    "Louis Moreri"
+    "Johann Lorenz von Mosheim"
+    "Berthélemy-François-Joseph Moufle d'Angerville"
+    "Charles de Fieux Mouhy"
+    "abbé de Moules"
+    "Ferdinand-Louis Mourier"
+    "Jean-Louis Muret"
+    "Louis-Alexandre-Marie de Musset"
+    "Jean-Baptiste de Mérian"
+    "Louis François Métra"
+    "Johannes von Müller"
+    "Balthasar Münter"
+    "Jacques-André Naigeon"
+    "Jacques Necker"
+    "Cornelius Nepos"
+    "André-Robert Andréa de Nerciat"
+    "Philippe-Julien Mancini-Mazarini Nevers"
+    "Isaac Newton"
+    "Friedrich Nicolai"
+    "Jean Nicolas"
+    "Carsten Niebuhr"
+    "Adrien-Maurice de Noailles"
+    "Pierre-Jean-Baptiste Nougaret"
+    "Charles Nourry"
+    "Anne-Marguerite Petit dame du Noyer"
+    "Patrice de Nény"
+    "Pierre-Joseph Thoulier Olivet"
+    "J. Olivier"
+    "Anne-Marie Daignan Orbessan"
+    "Paul Boesnier de l' Orme"
+    "Charlotte Chaumet d'Ormoy"
+    "Isaac Orobio"
+    "Frédéric-Samuel Ostervald"
+    "Jean-Frédéric Ostervald"
+    "Jean-Rodolphe Ostervald"
+    "Johan Turesson Oxenstierna"
+    "Pierre Pacaud"
+    "Pierre Marie François Pagès"
+    "Louis-Esaïe Pajon de Moncets"
+    "Jean Palairet"
+    "Charles Palissot de Montenoy"
+    "Peter Simon Pallas"
+    "Antoine-Augustin Parmentier"
+    "Alberti Parvi"
+    "Blaise Pascal"
+    "François Pasumot"
+    "Benoît Patono"
+    "Simon Tyssot de Patot"
+    "Aimé-Henri Paulian"
+    "Cornelius de Pauw"
+    "Zacharie de Pazzi de Bonneville"
+    "Antoine Pecquet"
+    "Roch-Antoine de Pellissery"
+    "Pelt de",
+    "Lewis Penn"
+    "Sarah Pennington"
+    "Joseph Marie Brossais du Perray"
+    "Jean-André Perreau"
+    "Jacques-Antoine-René Perrin"
+    "Henri Pestalozzi"
+    "Ferdinand-Olivier Petitpierre"
+    "Jean Raymond de Petity"
+    "Johann Pezzl"
+    "Johann Gottlob Benjamin Pfeil"
+    "Louis Philipon de La Madelaine"
+    "Étienne-André Philippe de Prétot"
+    "Constantin-Jean Phipps"
     "Phèdre",
-    "Pictet, Benedict",
-    "Pidansat de Mairobert, Mathieu-François",
-    "Pidou de Saint-Olan, Isidore-François",
-    "Pillichody, Jean Georges",
-    "Piron, Alexis",
+    "Benedict Pictet"
+    "Mathieu-François Pidansat de Mairobert"
+    "Isidore-François Pidou de Saint-Olan"
+    "Jean Georges Pillichody"
+    "Alexis Piron"
     "Pithoud",
-    "Pluquet, François-André-Adrien",
+    "François-André-Adrien Pluquet"
     "Plutarch",
-    "Pococke, Richard",
-    "Poederlé, Eugène-Joseph-Charles-Gilain-Hubert d'Olmen [bon de]",
-    "Poisson, M.-C.",
+    "Richard Pococke"
+    "Eugène-Joseph-Charles-Gilain-Hubert d'Olmen bon de Poederlé"
+    "M.-C. Poisson"
     "Pomaret",
-    "Pomier, L.",
-    "Pommereul, François-René-Jean [de]",
-    "Pope, Alexander",
-    "Portal, Antoine",
-    "Porter, James",
-    "Pott, Jules-Henri",
-    "Powerer [chevalier]",
-    "Poyet, Guillaume",
-    "Prault, Louis-Laurent",
-    "Price, Richard",
-    "Prideaux, Humphrey",
-    "Provence, Louis Stanislas Xavier [comte de]",
-    "Proyart, Liévin-Bonaventure",
-    "Prévost, Antoine François",
-    "Puisieux, Philippe-Florent [de]",
-    "Puységur, François-Jacques-Maximilien de Chastenet [marquis de]",
-    "Pérau, Gabriel-Louis",
-    "Pérau, Gabriel-Louis-Calabre",
-    "Pöllnitz, Karl Ludwig [von]",
-    "Querlon, Anne-Gabriel Meusnier [de]",
-    "Quesnay, François",
-    "Quesnel, Pasquier",
-    "Quesnel, Pierre",
-    "Racine, Bonaventure",
-    "Racine, Jean",
-    "Racine, Louis",
-    "Ragot de Grandval, Charles-François",
-    "Ramond de Carbonnières, Louis-François-Elisabeth",
-    "Raulin, Joseph",
-    "Raymond, François",
-    "Raynal, Guillaume-Thomas-François",
-    "Rayneval, Joseph-Mathias Gérard [de]",
-    "Razoumowsky, Grégoire [de]",
-    "Reeve, Clara",
-    "Reid, Andrew",
-    "Caroline-Mathilde, Reine de Danemark",
-    "Renoult, Jean-Baptiste",
-    "Restaut, Pierre",
-    "Restif de la Bretonne, Nicolas-Edmé",
-    "Reyre, Joseph",
-    "Riccoboni, Marie-Jeanne Laboras de Mézières",
-    "Richardson, Samuel",
-    "Richer, Adrien",
-    "Richer, François",
-    "Rieu, Henri",
-    "Rilliet de Saussure, Théodore",
-    "Rivarol, Antoine [de]",
-    "Rivarol, Claude-François [de]",
-    "Robert, Louise-Félicité Guinement de Keralio, madame",
-    "Robertson, William",
-    "Robinet, Jean-Baptiste-René",
-    "Rochette de La Morlière, Charles-Jacques-Louis-Auguste",
-    "Rochow, Friedrich Eberhard [von]",
-    "Roe, Richard",
-    "Roger, Urbain",
-    "Roland de La Platière, Jean-Marie",
-    "Rollin, Charles",
-    "May de Romainmotier, Emmanuel",
-    "Romangnesi, Jean-Antoine",
-    "Rose, Jean-Baptiste",
-    "Rose, Louis",
-    "Rossel [avocat]",
-    "Rosset, François [de]",
-    "Roucher, Jean-Antoine",
-    "Rousseau, Jean-Jacques",
-    "Rowe, Elizabeth Singer",
-    "Roy, Jean",
-    "Rozier, François",
-    "Ruchat, Abraham",
-    "Rue, Jean Joubert [de la]",
-    "Rulhière, Claude-Carloman [de]",
-    "Rutledge, Jean Jacques [chevalier]",
-    "Réguis, François-Léon",
-    "Rémi, Joseph-Honoré",
-    "Sabatier de Castres, Antoine",
-    "Sacy, Claude-Louis-Michel [de]",
-    "Saige, Joseph",
-    "Saint-Brisson, Seguier [de]",
-    "Saint-Foix, Germain-François Poullain [de]",
-    "Saint-Hyacinthe, Thémiseul [de]",
-    "Saint-Ildephont, Guillaume-René Lefébure [baron de]",
-    "Saint-Just, Simon-Pierre Mérard [de]",
-    "Saint-Lambert, Jean-François [de]",
-    "Saint-Martin, Louis-Claude [de]",
-    "Saint-Paul, François-Marie Mayeur [de]",
-    "Saint-Pierre, Charles-Irène Castel [de]",
-    "Saint-Valier, Joly [de]",
-    "Saint-Victor, Guillemain [de]",
-    "Salchli, Jean",
-    "Salerne, François",
-    "Salvemini da Castiglione, Giovanni Francesco Mauro Melchior",
-    "San Severino, Giulio Roberto [di]",
+    "L. Pomier"
+    "François-René-Jean de Pommereul"
+    "Alexander Pope"
+    "Antoine Portal"
+    "James Porter"
+    "Jules-Henri Pott"
+    "Powerer chevalier",
+    "Guillaume Poyet"
+    "Louis-Laurent Prault"
+    "Richard Price"
+    "Humphrey Prideaux"
+    "Louis Stanislas Xavier comte de Provence"
+    "Liévin-Bonaventure Proyart"
+    "Antoine François Prévost"
+    "Philippe-Florent de Puisieux"
+    "François-Jacques-Maximilien de Chastenet marquis de Puységur"
+    "Gabriel-Louis Pérau"
+    "Gabriel-Louis-Calabre Pérau"
+    "Karl Ludwig von Pöllnitz"
+    "Anne-Gabriel Meusnier de Querlon"
+    "François Quesnay"
+    "Pasquier Quesnel"
+    "Pierre Quesnel"
+    "Bonaventure Racine"
+    "Jean Racine"
+    "Louis Racine"
+    "Charles-François Ragot de Grandval"
+    "Louis-François-Elisabeth Ramond de Carbonnières"
+    "Joseph Raulin"
+    "François Raymond"
+    "Guillaume-Thomas-François Raynal"
+    "Joseph-Mathias Gérard de Rayneval"
+    "Grégoire de Razoumowsky"
+    "Clara Reeve"
+    "Andrew Reid"
+    "Reine de Danemark Caroline-Mathilde"
+    "Jean-Baptiste Renoult"
+    "Pierre Restaut"
+    "Nicolas-Edmé Restif de la Bretonne"
+    "Joseph Reyre"
+    "Marie-Jeanne Laboras de Mézières Riccoboni"
+    "Samuel Richardson"
+    "Adrien Richer"
+    "François Richer"
+    "Henri Rieu"
+    "Théodore Rilliet de Saussure"
+    "Antoine de Rivarol"
+    "Claude-François de Rivarol"
+    "madame Robert, Louise-Félicité Guinement de Keralio"
+    "William Robertson"
+    "Jean-Baptiste-René Robinet"
+    "Charles-Jacques-Louis-Auguste Rochette de La Morlière"
+    "Friedrich Eberhard von Rochow"
+    "Richard Roe"
+    "Urbain Roger"
+    "Jean-Marie Roland de La Platière"
+    "Charles Rollin"
+    "Emmanuel May de Romainmotier"
+    "Jean-Antoine Romangnesi"
+    "Jean-Baptiste Rose"
+    "Louis Rose"
+    "Rossel avocat",
+    "François de Rosset"
+    "Jean-Antoine Roucher"
+    "Jean-Jacques Rousseau"
+    "Elizabeth Singer Rowe"
+    "Jean Roy"
+    "François Rozier"
+    "Abraham Ruchat"
+    "Jean Joubert de la Rue"
+    "Claude-Carloman de Rulhière"
+    "Jean Jacques chevalier Rutledge"
+    "François-Léon Réguis"
+    "Joseph-Honoré Rémi"
+    "Antoine Sabatier de Castres"
+    "Claude-Louis-Michel de Sacy"
+    "Joseph Saige"
+    "Seguier de Saint-Brisson"
+    "Germain-François Poullain de Saint-Foix"
+    "Thémiseul de Saint-Hyacinthe"
+    "Guillaume-René Lefébure baron de Saint-Ildephont"
+    "Simon-Pierre Mérard de Saint-Just"
+    "Jean-François de Saint-Lambert"
+    "Louis-Claude de Saint-Martin"
+    "François-Marie Mayeur de Saint-Paul"
+    "Charles-Irène Castel de Saint-Pierre"
+    "Joly de Saint-Valier"
+    "Guillemain de Saint-Victor"
+    "Jean Salchli"
+    "François Salerne"
+    "Giovanni Francesco Mauro Melchior Salvemini da Castiglione"
+    "Giulio Roberto di San Severino"
     "Deschamps de Saucourt",
-    "Saussure, Horace-Bénédict [de]",
-    "Saussure, Nicolas [de]",
-    "Scarron, Paul",
-    "Schabol, Roger",
-    "Scheurléer, Henri",
-    "Schmidt, Anton Wilhelm",
-    "Schmidt, Georg Ludwig",
-    "Schuvalov, Count Andrei Petrovich",
-    "Schwan, Christian Friedrich",
-    "Schérer, Jean-Benoît",
-    "Seigneur, François",
-    "Seigneux de Correvon, Gabriel",
-    "Senebier, Pierre",
-    "Sepp, Christiaan",
-    "Sept-Chênes, Leclerc de",
-    "Servan de Gerbey, Joseph [de]",
-    "Servan, Antoine-Joseph-Michel",
-    "Servan, Joseph-Michel-Antoine",
-    "Serviez, Jacques Roergas [de]",
-    "Servigné, Jean-Baptiste Guiard [de]",
-    "Servin, Antoine-Nicolas",
-    "Sherlock, Martin",
-    "Sherlock, William",
-    "Sigaud de La Fond, Joseph-Aignan",
-    "Sinner de Ballaigues, Jean-Rudolphe",
-    "Smeets, A. L.",
-    "Smith, Adam",
-    "Smith, Hugh",
-    "Smollett, Tobias George",
-    "Sonnerat, Pierre",
-    "Soret, G.-Jean",
-    "Spallanzani, Lazzaro",
-    "St. Germain, Claude-Louis [comte de]",
+    "Horace-Bénédict de Saussure"
+    "Nicolas de Saussure"
+    "Paul Scarron"
+    "Roger Schabol"
+    "Henri Scheurléer"
+    "Anton Wilhelm Schmidt"
+    "Georg Ludwig Schmidt"
+    "Count Andrei Petrovich Schuvalov"
+    "Christian Friedrich Schwan"
+    "Jean-Benoît Schérer"
+    "François Seigneur"
+    "Gabriel Seigneux de Correvon"
+    "Pierre Senebier"
+    "Christiaan Sepp"
+    "Leclerc de Sept-Chênes"
+    "Joseph de Servan de Gerbey"
+    "Antoine-Joseph-Michel Servan"
+    "Joseph-Michel-Antoine Servan"
+    "Jacques Roergas de Serviez"
+    "Jean-Baptiste Guiard de Servigné"
+    "Antoine-Nicolas Servin"
+    "Martin Sherlock"
+    "William Sherlock"
+    "Joseph-Aignan Sigaud de La Fond"
+    "Jean-Rudolphe Sinner de Ballaigues"
+    "A. L. Smeets"
+    "Adam Smith"
+    "Hugh Smith"
+    "Tobias George Smollett"
+    "Pierre Sonnerat"
+    "G.-Jean Soret"
+    "Lazzaro Spallanzani"
+    "Claude-Louis comte de St. Germain"
     "Stace",
-    "Stanyan, Abraham",
-    "Sterne, Laurence",
-    "Suard, Jean-Baptiste-Antoine",
-    "Suhm, Ulrich Friedrich [von]",
-    "Sully, Maximilien de Béthune [duc de]",
-    "Superville, Daniel [de]",
-    "Swift, Jonathan",
-    "Sélis, Nicolas-Joseph",
-    "Sénebier, Jean",
-    "Sévigné, Marie de Rabutin-Chantal",
-    "Tailhé, Jacques",
-    "Tardy de Montravel, A.-A.",
-    "Tencin, Claudine-Alexandrine Guérin",
-    "Terray, Joseph-Marie [abbé]",
-    "Thiroux d' Arconville, Marie-Geneviève-Charlotte",
-    "Thiébault, Dieudonné",
-    "Thomas, Antoine-Léonard",
-    "Thomassin, Jean-François",
-    "Thümmel, Moritz August [von]",
-    "Tillotson, John",
-    "Tissot, Samuel Auguste André David",
-    "Toland, John",
-    "Torcia, Michele",
-    "Torée, Olof",
-    "Tott, François [de]",
-    "Tourneur, Pierre [le]",
-    "Toussaint, François-Vincent",
-    "Toustain-Richebourg, Charles-Gaspard [de]",
-    "Trembley, Abraham",
-    "Trembley, Jean",
-    "Trenchard, John",
-    "Tressan, Louis-Élisabeth de La Vergne [comte de]",
-    "Trivié, Wicardel de Fleury [marquis de]",
-    "Tronson Du Coudray, Charles",
-    "Trublet, Nicolas-Charles-Joseph",
-    "Tscharner, Vincenz Bernhard [von]",
-    "Tubières de Grimoard de Pestels de Levy, Anne-Claude-Philippe",
-    "Tucker, Josiah",
-    "Turgot, Anne Robert Jacques",
-    "Turrettini, Jean Alphonse",
-    "Twiss, Richard",
-    "Tyard, Pontus [de]",
+    "Abraham Stanyan"
+    "Laurence Sterne"
+    "Jean-Baptiste-Antoine Suard"
+    "Ulrich Friedrich von Suhm"
+    "Maximilien de Béthune duc de Sully"
+    "Daniel de Superville"
+    "Jonathan Swift"
+    "Nicolas-Joseph Sélis"
+    "Jean Sénebier"
+    "Marie de Rabutin-Chantal Sévigné"
+    "Jacques Tailhé"
+    "A.-A. Tardy de Montravel"
+    "Claudine-Alexandrine Guérin Tencin"
+    "Joseph-Marie abbé Terray"
+    "Marie-Geneviève-Charlotte Thiroux d'Arconville"
+    "Dieudonné Thiébault"
+    "Antoine-Léonard Thomas"
+    "Jean-François Thomassin"
+    "Moritz August von Thümmel"
+    "John Tillotson"
+    "Samuel Auguste André David Tissot"
+    "John Toland"
+    "Michele Torcia"
+    "Olof Torée"
+    "François de Tott"
+    "Pierre le Tourneur"
+    "François-Vincent Toussaint"
+    "Charles-Gaspard de Toustain-Richebourg"
+    "Abraham Trembley"
+    "Jean Trembley"
+    "John Trenchard"
+    "Louis-Élisabeth de La Vergne comte de Tressan"
+    "Wicardel de Fleury marquis de Trivié"
+    "Charles Tronson Du Coudray"
+    "Nicolas-Charles-Joseph Trublet"
+    "Vincenz Bernhard von Tscharner"
+    "Anne-Claude-Philippe Tubières de Grimoard de Pestels de Levy"
+    "Josiah Tucker"
+    "Anne Robert Jacques Turgot"
+    "Jean Alphonse Turrettini"
+    "Richard Twiss"
+    "Pontus de Tyard"
     "Térence",
-    "Téron, Jean",
-    "Ussieux, Louis [d']",
-    "Neuchâtel et Valangin, Compagnie des pasteurs de la souveraineté de",
-    "Valmont de Bomare, Jacques Christophe",
-    "Van Kniphausen, George Willem",
-    "Vanel, Claude",
-    "Vasse, Cornélie-Pétronille-Bénédicte Wouters [baronne de]",
-    "Vattel, Emer [de]",
-    "Venel, Gabriel-François",
-    "Venel, Jean-André",
-    "Veneroni, Jean Vigneron",
-    "Venette, Nicolas",
-    "Veratti, Gio. Giuseppe",
-    "Verdy Du Vernois, Adrien-Marie-François [de]",
-    "Vernes, François",
-    "Vernes, Jacob",
-    "Vernet, Jacob",
-    "Vertot, René Aubert [de]",
-    "Viard, T.",
-    "Viaud, Pierre",
-    "Vicat, Béat Philippe",
-    "Vicat, Philippe Rodolphe",
-    "Villaret, Claude",
-    "Villeneuve, Gabrielle-Suzanne [de]",
-    "Villeneuve, Joachim Faiguet [de]",
-    "Vincent, N.",
-    "Vivetières, Benoît-Joseph Marsollier [des]",
-    "Vogel, F. Adam",
-    "Voiron, B.",
-    "Voiron, Vincent-Hippolyte",
-    "Voisenon, Claude-Henri de Fusée [de]",
+    "Jean Téron"
+    "Louis d'Ussieux"
+    "Compagnie des pasteurs de la souveraineté de Neuchâtel et Valangin"
+    "Jacques Christophe Valmont de Bomare"
+    "George Willem Van Kniphausen"
+    "Claude Vanel"
+    "Cornélie-Pétronille-Bénédicte Wouters baronne de Vasse"
+    "Emer de Vattel"
+    "Gabriel-François Venel"
+    "Jean-André Venel"
+    "Jean Vigneron Veneroni"
+    "Nicolas Venette"
+    "Gio. Giuseppe Veratti"
+    "Adrien-Marie-François de Verdy Du Vernois"
+    "François Vernes"
+    "Jacob Vernes"
+    "Jacob Vernet"
+    "René Aubert de Vertot"
+    "T. Viard"
+    "Pierre Viaud"
+    "Béat Philippe Vicat"
+    "Philippe Rodolphe Vicat"
+    "Claude Villaret"
+    "Gabrielle-Suzanne de Villeneuve"
+    "Joachim Faiguet de Villeneuve"
+    "N. Vincent"
+    "Benoît-Joseph Marsollier des Vivetières"
+    "F. Adam Vogel"
+    "B. Voiron"
+    "Vincent-Hippolyte Voiron"
+    "Claude-Henri de Fusée de Voisenon"
     "Voltaire",
-    "Vroesen, Jan",
-    "Wailly, Noël François [de]",
-    "Wargemont [marquis de]",
-    "Watteville, Alexandre Louis [de]",
-    "Watts, Isaac",
-    "Wezel, Johann Karl",
-    "Whytt, Robert",
-    "Wieland, Christoph Martin",
-    "Williams, Charlotte",
-    "Winckelmann, Johann Joachim",
-    "Woolston, Thomas",
-    "Young, Edward",
-    "Yvon, Claude",
-    "Zannowich, Stephano",
-    "d'Emèse, Héliodore",
-    "Épinay, Louise Tardieu d'Esclavelles",
-    "Erasmus, Desiderius",
-    "Bedos de Celles, François",
-    "La Barbinais Le Gentil, Étienne [de]",
-    "Chappe d'Auteroche, Jean [abbé]",
+    "Jan Vroesen"
+    "Noël François de Wailly"
+    "Wargemont marquis de",
+    "Alexandre Louis de Watteville"
+    "Isaac Watts"
+    "Johann Karl Wezel"
+    "Robert Whytt"
+    "Christoph Martin Wieland"
+    "Charlotte Williams"
+    "Johann Joachim Winckelmann"
+    "Thomas Woolston"
+    "Edward Young"
+    "Claude Yvon"
+    "Stephano Zannowich"
+    "Héliodore d'Emèse"
+    "Louise Tardieu d'Esclavelles Épinay"
+    "Desiderius Erasmus"
+    "François Bedos de Celles"
+    "Étienne de La Barbinais Le Gentil"
+    "Jean abbé Chappe d'Auteroche"
     "Epictetus",
-    "Sautreau de Marsy, C. S.",
+    "C. S. Sautreau de Marsy"
     "Bourboulon",
-    "Duchesne, Henri-Gabriel",
-    "Castella, Jean-Nicolas-Andre [de]",
+    "Henri-Gabriel Duchesne"
+    "Jean-Nicolas-Andre de Castella"
     "Eutropius",
-    "Velly, Paul-François",
-    "Boškovic, Ruder Josip",
-    "Hennin, P.-M.",
+    "Paul-François Velly"
+    "Ruder Josip Boškovic"
+    "P.-M. Hennin"
     "Aulus Persius Flaccus",
-    "Le Rebours, Marie-Angélique",
-    "Verri, Pietro",
-    "Bordier, André-César",
-    "Deluc, André",
-    "Dentand, Jean",
+    "Marie-Angélique Le Rebours"
+    "Pietro Verri"
+    "André-César Bordier"
+    "André Deluc"
+    "Jean Dentand"
     "Gin d'Ossery",
-    "Doray de Longrais, P.-J.-B.",
-    "Démeunier, Jean-Nicolas",
-    "Hottinger, Johann Jakob",
-    "Du Coudray, Alexandre-Jacques",
-    "Zimmermann, Johann Georg [von]",
-    "Lefebvre de Villebrune, Jean-Baptiste",
-    "Chavagnac, Claude [de]",
-    "Antonini, Hannibal",
-    "Hoyle, Edmond",
-    "Philidor, F. D.",
-    "Garsault, François-Alexandre-Pierre [de]",
-    "Duhamel du Monceau, Henri Louis",
-    "[Berne]",
-    "Walser, Gabriel",
-    "Flachat, Jean-Claude",
-    "Keralio, Louis-Félix Guinement",
-    "Wolff, Christian",
-    "Bernis, François-Joachim de Pierre [Cardinal de]",
-    "Cook, John",
-    "Guyot, Pierre-Jean-Jacques-Guillaume",
-    "Chamfort, Sébastien-Roch-Nicolas [de]",
+    "P.-J.-B. Doray de Longrais"
+    "Jean-Nicolas Démeunier"
+    "Johann Jakob Hottinger"
+    "Alexandre-Jacques Du Coudray"
+    "Johann Georg von Zimmermann"
+    "Jean-Baptiste Lefebvre de Villebrune"
+    "Claude de Chavagnac"
+    "Hannibal Antonini"
+    "Edmond Hoyle"
+    "F. D. Philidor"
+    "François-Alexandre-Pierre de Garsault"
+    "Henri Louis Duhamel du Monceau"
+    "Berne",
+    "Gabriel Walser"
+    "Jean-Claude Flachat"
+    "Louis-Félix Guinement Keralio"
+    "Christian Wolff"
+    "François-Joachim de Pierre Cardinal de Bernis"
+    "John Cook"
+    "Pierre-Jean-Jacques-Guillaume Guyot"
+    "Sébastien-Roch-Nicolas de Chamfort"
     "Eglise catholique. Diocèse (Auxerre)",
-    "Marchisio, Michelangelo",
-    "Gossard [le Père]",
-    "Blackford, Dominique [de]",
-    "Miller, Philip",
-    "Bertrand, Jean [pasteur à Orbe]",
-    "André, Yves-Marie",
-    "Poivre, Pierre",
-    "Schwabe, Johann Joachim",
-    "Dehaye-Polet, Ponce",
-    "Belloy, Pierre Laurent [de]",
-    "Rousselot de Surgy, Jacques-Philibert",
-    "Rochemont, Daniel [de]",
-    "Catherine II, Empress of Russia",
-    "Crousaz, Jean-Pierre [de]",
-    "Félice, Fortunato Bartholomeo [de]",
-    "Açarq, Jean-Pierre [d']",
-    "La Chapelle, Joannes Baptista [abbé de]",
-    "Vandermonde, Charles-Augustin",
-    "Forbes, Duncan [of Culloden]",
-    "Houbigant, Charles-François",
-    "Decker, Matthew",
-    "Hooke, Andrew",
-    "Anderson, Adam",
-    "Poullin de Lumina, Étienne-Joseph",
-    "Thou, Jaques-Auguste [de]",
-    "Home, Francis",
-    "Haller, Gottlieb Emanuel von",
-    "Balthasar, Joseph Anton Felix [von]",
-    "Lavie, Jean Charles [de]",
-    "Vitet, Louis",
-    "Julian \"the Apostate\", Emperor of Rome",
-    "Arclais de Montamy, Didier-François [d']",
-    "Gellert, Christian Fuerchtegott",
-    "Schmidt, Friedrich Samuel [von]",
-    "Vasco, Giambattista",
-    "Sedaine, Michel Jean",
-    "Pinel, Michel",
-    "Bitaubé, Paul Jérémie",
-    "Stryk, Samuel",
-    "Giannone, Pietro",
-    "Frey des Landres, Jean Rodolphe",
-    "Laget, Charles Henri",
-    "Coteneuve, [Madame de]",
-    "Drelincourt, Charles",
-    "Court, Antoine",
-    "Bovier, Gaspard",
-    "Saurin, Jacques",
-    "Bertrand, Jean",
-    "Castel de Saint-Pierre, Charles-Irénée",
-    "Allamand, François-Louis",
-    "Chavannes, Emmanuel-Louis",
-    "Clavel de Brenles, Jacques-Abram-Elie-Daniel",
-    "Polier de Saint-Germain, Antoine",
-    "Rapin-Thoyras, Marie",
-    "Wurtemberg, Louis Eugène [de]",
-    "NIekamp, Johann Lucas",
-    "Gaudard, B.",
-    "Huber, Michael",
-    "Puisieux, Madeleine d'Arsant [de]",
-    "Gorani, Giuseppe",
-    "Meades, Anna",
-    "Hull, Thomas",
-    "Risi, Paul",
+    "Michelangelo Marchisio"
+    "Gossard le Père",
+    "Dominique de Blackford"
+    "Philip Miller"
+    "Jean pasteur à Orbe Bertrand"
+    "Yves-Marie André"
+    "Pierre Poivre"
+    "Johann Joachim Schwabe"
+    "Ponce Dehaye-Polet"
+    "Pierre Laurent de Belloy"
+    "Jacques-Philibert Rousselot de Surgy"
+    "Daniel de Rochemont"
+    "Empress of Russia Catherine II"
+    "Jean-Pierre de Crousaz"
+    "Fortunato Bartholomeo de Félice"
+    "Jean-Pierre d'Açarq"
+    "Joannes Baptista abbé de La Chapelle"
+    "Charles-Augustin Vandermonde"
+    "Duncan of Culloden Forbes"
+    "Charles-François Houbigant"
+    "Matthew Decker"
+    "Andrew Hooke"
+    "Adam Anderson"
+    "Étienne-Joseph Poullin de Lumina"
+    "Jaques-Auguste de Thou"
+    "Francis Home"
+    "Gottlieb Emanuel von Haller"
+    "Joseph Anton Felix von Balthasar"
+    "Jean Charles de Lavie"
+    "Louis Vitet"
+    "Emperor of Rome Julian \"the Apostate\""
+    "Didier-François d'Arclais de Montamy"
+    "Christian Fuerchtegott Gellert"
+    "Friedrich Samuel von Schmidt"
+    "Giambattista Vasco"
+    "Michel Jean Sedaine"
+    "Michel Pinel"
+    "Paul Jérémie Bitaubé"
+    "Samuel Stryk"
+    "Pietro Giannone"
+    "Jean Rodolphe Frey des Landres"
+    "Charles Henri Laget"
+    "Madame de Coteneuve"
+    "Charles Drelincourt"
+    "Antoine Court"
+    "Gaspard Bovier"
+    "Jacques Saurin"
+    "Jean Bertrand"
+    "Charles-Irénée Castel de Saint-Pierre"
+    "François-Louis Allamand"
+    "Emmanuel-Louis Chavannes"
+    "Jacques-Abram-Elie-Daniel Clavel de Brenles"
+    "Antoine Polier de Saint-Germain"
+    "Marie Rapin-Thoyras"
+    "Louis Eugène de Wurtemberg"
+    "Johann Lucas NIekamp"
+    "B. Gaudard"
+    "Michael Huber"
+    "Madeleine d'Arsant de Puisieux"
+    "Giuseppe Gorani"
+    "Anna Meades"
+    "Thomas Hull"
+    "Paul Risi"
     "Thomas à Kempis",
-    "Poiret, Pierre",
-    "Beaufort, Louis [de]",
-    "Béreaud, M.J.J.",
-    "Nietzki, Adam",
-    "Rosset, Jean Alphonse",
-    "Lacroix, Louis-Antoine Nicolle [de]",
-    "Banks, Joseph",
-    "Zinzendorf, Nikolaus Ludwig [von]",
-    "Wildman, Thomas",
-    "Soresi, Pier-Domenico",
-    "Pasor, Georg",
-    "Stevens, Joseph",
-    "Morvan de Bellegarde, Jean-Baptiste",
-    "Domat, Jean",
-    "Loriot, Antoine-Joseph",
-    "Combles [de]",
-    "Rondet, Laurent-Étienne",
+    "Pierre Poiret"
+    "Louis de Beaufort"
+    "M.J.J. Béreaud"
+    "Adam Nietzki"
+    "Jean Alphonse Rosset"
+    "Louis-Antoine Nicolle de Lacroix"
+    "Joseph Banks"
+    "Nikolaus Ludwig von Zinzendorf"
+    "Thomas Wildman"
+    "Pier-Domenico Soresi"
+    "Georg Pasor"
+    "Joseph Stevens"
+    "Jean-Baptiste Morvan de Bellegarde"
+    "Jean Domat"
+    "Antoine-Joseph Loriot"
+    "Combles de",
+    "Laurent-Étienne Rondet"
     "Archange de Saint-Gabriel",
-    "Adolphus, Joy",
-    "Reverdil, Élie Salomon François",
-    "Bunyan, John",
-    "Daran, Jacques",
-    "Bourru, Edme-Claude",
+    "Joy Adolphus"
+    "Élie Salomon François Reverdil"
+    "John Bunyan"
+    "Jacques Daran"
+    "Edme-Claude Bourru"
     "Alexandre de Tralles",
     "Aretaeus (Cappadocius)",
     "Caelius Aurelianus",
-    "Celsus, Aulus Cornelius",
+    "Aulus Cornelius Celsus"
     "Hippocrates",
-    "Razi, Mohamed-abou-Beker-ibn-Zacaria Er",
+    "Mohamed-abou-Beker-ibn-Zacaria Er Razi"
     "Gustaf III (roi de Suède)",
-    "Guibert, Jacques Antoine Hippolyte [de]",
-    "Thomas-Lavalette [de]",
-    "Keate, George",
-    "Lorovich, Antoine",
-    "Fougereux, Jean",
-    "Beauclair, Paul Louis [de]",
-    "Beauregard, Nicolas",
-    "Gerdil, Giacinto Sigismondo",
-    "Vaultier [Commissaire de l'artillerie]",
-    "Pitaval, François Gayot [de]",
-    "La Brousse [de]",
-    "Tasso, Torquato",
-    "Whately, Thomas",
-    "Latapie, François de Paule",
-    "Giraudeau, Pierre",
-    "Gardane, Joseph Jacques [de]",
-    "Gamet, Jean-Marie",
-    "Planchon, Antoine",
-    "Bullet, Jean-Baptiste",
-    "Neufforge, Jean François [de]",
-    "Boutillier, Maximilien Jean",
+    "Jacques Antoine Hippolyte de Guibert"
+    "Thomas-Lavalette de",
+    "George Keate"
+    "Antoine Lorovich"
+    "Jean Fougereux"
+    "Paul Louis de Beauclair"
+    "Nicolas Beauregard"
+    "Giacinto Sigismondo Gerdil"
+    "Vaultier Commissaire de l'artillerie",
+    "François Gayot de Pitaval"
+    "La Brousse de",
+    "Torquato Tasso"
+    "Thomas Whately"
+    "François de Paule Latapie"
+    "Pierre Giraudeau"
+    "Joseph Jacques de Gardane"
+    "Jean-Marie Gamet"
+    "Antoine Planchon"
+    "Jean-Baptiste Bullet"
+    "Jean François de Neufforge"
+    "Maximilien Jean Boutillier"
     "Palaephatus",
-    "Polier de Bottens, Charles Godefroy",
-    "Lyttelton, George",
-    "Des Champs, Jean",
-    "Berthoud, Ferdinand",
-    "Imbert, Barthélemy",
-    "Scot, Alexander",
-    "Heineccius, Johann Gottlieb",
-    "Ferrignus, Paschalis",
-    "Calvinus, Joannes",
-    "Brisson, Barnabé",
-    "Pernety, Antoine-Joseph",
-    "Rousseau, Jean-Baptiste",
-    "Forteguerri, Niccolò",
-    "Duperrier-Dumouriez, Anne-François ",
-    "Moore, Edward",
-    "Fouquet, Henri",
-    "Loyseau de Mauléon, Alexandre Jérôme",
-    "Reisser, [l’aîne]",
-    "Caradeuc de la Chalotais, Louis René [de]",
-    "Sorriba, Pedro Rodríguez Campomanes y",
-    "Burton, John",
-    "Le Moine, François Marie",
-    "Isla, José Francisco [de]",
-    "Rochon de Chabannes, Marc Antoine Jacques",
-    "Lessing, Gotthold Ephraim",
-    "Le More [abbé]",
-    "Reynier, Jean-François",
-    "Ariosto, Ludovico",
+    "Charles Godefroy Polier de Bottens"
+    "George Lyttelton"
+    "Jean Des Champs"
+    "Ferdinand Berthoud"
+    "Barthélemy Imbert"
+    "Alexander Scot"
+    "Johann Gottlieb Heineccius"
+    "Paschalis Ferrignus"
+    "Joannes Calvinus"
+    "Barnabé Brisson"
+    "Antoine-Joseph Pernety"
+    "Jean-Baptiste Rousseau"
+    "Niccolò Forteguerri"
+    "Anne-François  Duperrier-Dumouriez"
+    "Edward Moore"
+    "Henri Fouquet"
+    "Alexandre Jérôme Loyseau de Mauléon"
+    "l’aîne Reisser"
+    "Louis René de Caradeuc de la Chalotais"
+    "Pedro Rodríguez Campomanes y Sorriba"
+    "John Burton"
+    "François Marie Le Moine"
+    "José Francisco de Isla"
+    "Marc Antoine Jacques Rochon de Chabannes"
+    "Gotthold Ephraim Lessing"
+    "Le More abbé",
+    "Jean-François Reynier"
+    "Ludovico Ariosto"
     "Virgil",
-    "Wallace, Robert",
-    "Janin, Jean",
-    "Massillon, Jean-Baptiste",
-    "Bordeu, Théophile [de]",
-    "Joubert, Joseph",
-    "Imhoff, Gustaaf Willem",
-    "Gaillard, Gabriel-Henri",
-    "Gourdin, François-Philippe",
+    "Robert Wallace"
+    "Jean Janin"
+    "Jean-Baptiste Massillon"
+    "Théophile de Bordeu"
+    "Joseph Joubert"
+    "Gustaaf Willem Imhoff"
+    "Gabriel-Henri Gaillard"
+    "François-Philippe Gourdin"
     "Carpentier",
-    "Villiers, Jacques-François [de]",
-    "Gauthier, Hugues",
-    "Debouis [baron]",
-    "Poitevin, François Louis",
+    "Jacques-François de Villiers"
+    "Hugues Gauthier"
+    "Debouis baron",
+    "François Louis Poitevin"
     "Gräff",
-    "Cailhava de L'Estandoux, Jean-François",
-    "Hurtaut, Pierre-Thomas-Nicolas",
-    "Compan, Charles",
-    "Prezel, Honoré Lacombe [de]",
-    "Hénault, Charles Jean François",
-    "Miroudot, Jean-Baptiste",
-    "Blount, Charles",
+    "Jean-François Cailhava de L'Estandoux"
+    "Pierre-Thomas-Nicolas Hurtaut"
+    "Charles Compan"
+    "Honoré Lacombe de Prezel"
+    "Charles Jean François Hénault"
+    "Jean-Baptiste Miroudot"
+    "Charles Blount"
     "Philostrate l'Athénien",
-    "Créquy, Charles Marie [de]",
-    "Schellenberg, Johann Rudolf",
-    "Watelet, Claude Henri",
-    "Montgon, Charles Alexandre [de]",
-    "Villars, Claude Louis Hector [de]",
-    "Du Bocage, Anne-Marie",
-    "Chouppes, Aymar [de]",
+    "Charles Marie de Créquy"
+    "Johann Rudolf Schellenberg"
+    "Claude Henri Watelet"
+    "Charles Alexandre de Montgon"
+    "Claude Louis Hector de Villars"
+    "Anne-Marie Du Bocage"
+    "Aymar de Chouppes"
     "Trécourt",
-    "Iselin, Isaak",
-    "Cicero, Marcus Tullius",
+    "Isaak Iselin"
+    "Marcus Tullius Cicero"
     "Albert le Grand",
-    "Galland, Antoine",
-    "La Rivière, Henri-François [de]",
-    "Machiavelli, Niccolò",
-    "Trümpi, Christoph",
-    "Florus, Lucius Annaeus",
-    "Dubois-Fontanelle, Jean Gaspard",
-    "Beaux de Maguielles, Justin",
-    "Werkmeister, Benedikt Maria Leonhard [von]",
-    "Halle, Johann Samuel",
-    "Cousanges [marquis de]",
-    "Guérinière, François Robichon (de la)",
-    "Genssane, Antoine [de]",
-    "Pilati di Tassulo, Carlo Antonio",
-    "Berwick, Jacques Fitz-James [de]",
-    "Saint-Étienne, Jean Paul Rabaut [de]",
-    "Schoupach, Michel",
-    "Fréville, Anne-François-Joachim",
-    "Du Rozoi, Barnabé Farmian",
-    "Talbert, François-Xavier",
-    "Bruny, [chevalier de]",
-    "Reiske, Johann Jacob",
-    "Markland, Jeremiah",
-    "Taylor, John",
+    "Antoine Galland"
+    "Henri-François de La Rivière"
+    "Niccolò Machiavelli"
+    "Christoph Trümpi"
+    "Lucius Annaeus Florus"
+    "Jean Gaspard Dubois-Fontanelle"
+    "Justin Beaux de Maguielles"
+    "Benedikt Maria Leonhard von Werkmeister"
+    "Johann Samuel Halle"
+    "Cousanges marquis de",
+    "François Robichon (de la) Guérinière"
+    "Antoine de Genssane"
+    "Carlo Antonio Pilati di Tassulo"
+    "Jacques Fitz-James de Berwick"
+    "Jean Paul Rabaut de Saint-Étienne"
+    "Michel Schoupach"
+    "Anne-François-Joachim Fréville"
+    "Barnabé Farmian Du Rozoi"
+    "François-Xavier Talbert"
+    "chevalier de Bruny"
+    "Johann Jacob Reiske"
+    "Jeremiah Markland"
+    "John Taylor"
     "Démosthène",
     "Eschine",
     "Dinarque",
     "Lysias",
     "Gorgias",
     "Grégoire Pardus",
-    "Wolf, Hieronymus",
-    "Butini, Pierre",
-    "Shakespeare, William",
-    "Lennox, Charlotte",
-    "Deodati de Tovazzi, G. L. ",
-    "Chapuis, Marc",
-    "Rocheblave, Henri [de]",
-    "La Condamine, Charles Marie [de]",
-    "Bemetzrieder, Antoine",
-    "Burnet, Thomas",
-    "Boileau-Despréaux, Nicolas",
-    "Ricci, Lorenzo",
-    "Lerber, Sigismond Louis",
-    "Moore, John",
-    "Frederick II, King of Prussia",
-    "Mignon, P. (dit Beautour)",
-    "Lullin, Ami",
-    "White, Charles",
-    "Gibbon, Edward",
-    "Cordier, Mathurin",
-    "Moline, Pierre Louis",
-    "Dalrymple, John",
-    "Polier de Bottens, Georges-Pierre-G",
-    "Pure, Michel [de]",
-    "Secretan, Samuel",
-    "Romilly, Jean Edme",
-    "Fleurieu, Charles Pierre d'Eveux [de]",
-    "Struve, Othon Guillaume",
-    "Comparet, Jean-Antoine",
-    "Turpin, François H",
-    "Sabbathier, François",
-    "Lescun, Marie-Joseph [de]",
-    "Motte [Mlle]",
-    "Robert de Vaugondy, Didier",
-    "Robert de Vaugondy, Gilles",
-    "Léger, Antoine",
-    "La Curne de Sainte-Palaye, Jean-Baptiste [de]",
-    "Wagner, Heinrich Leopold",
-    "Le Mierre, Antoine-Marin",
-    "Pütter, Johann Stephan",
-    "Becker, Rudolph Zacharias",
-    "Crommelin, Isaac-Mathieu",
+    "Hieronymus Wolf"
+    "Pierre Butini"
+    "William Shakespeare"
+    "Charlotte Lennox"
+    "G. L.  Deodati de Tovazzi"
+    "Marc Chapuis"
+    "Henri de Rocheblave"
+    "Charles Marie de La Condamine"
+    "Antoine Bemetzrieder"
+    "Thomas Burnet"
+    "Nicolas Boileau-Despréaux"
+    "Lorenzo Ricci"
+    "Sigismond Louis Lerber"
+    "John Moore"
+    "King of Prussia Frederick II"
+    "P. (dit Beautour) Mignon"
+    "Ami Lullin"
+    "Charles White"
+    "Edward Gibbon"
+    "Mathurin Cordier"
+    "Pierre Louis Moline"
+    "John Dalrymple"
+    "Georges-Pierre-G Polier de Bottens"
+    "Michel de Pure"
+    "Samuel Secretan"
+    "Jean Edme Romilly"
+    "Charles Pierre d'Eveux de Fleurieu"
+    "Othon Guillaume Struve"
+    "Jean-Antoine Comparet"
+    "François H Turpin"
+    "François Sabbathier"
+    "Marie-Joseph de Lescun"
+    "Motte Mlle",
+    "Didier Robert de Vaugondy"
+    "Gilles Robert de Vaugondy"
+    "Antoine Léger"
+    "Jean-Baptiste de La Curne de Sainte-Palaye"
+    "Heinrich Leopold Wagner"
+    "Antoine-Marin Le Mierre"
+    "Johann Stephan Pütter"
+    "Rudolph Zacharias Becker"
+    "Isaac-Mathieu Crommelin"
     "Muller (Mme)",
-    "Plantier, Jacques",
-    "Sacchetti, Franco",
-    "La Placette, Jean",
-    "Girard, Barthélemy",
-    "Müller von Friedberg, Karl",
-    "Etienne, Jean [d']",
-    "Shaftesbury, Anthony Ashley Cooper [compte de]",
-    "Robert de Saint-Vincent, Pierre-Augustin",
-    "Guérin, Jean-Joseph",
-    "Monget, M.",
+    "Jacques Plantier"
+    "Franco Sacchetti"
+    "Jean La Placette"
+    "Barthélemy Girard"
+    "Karl Müller von Friedberg"
+    "Jean d'Etienne"
+    "Anthony Ashley Cooper compte de Shaftesbury"
+    "Pierre-Augustin Robert de Saint-Vincent"
+    "Jean-Joseph Guérin"
+    "M. Monget"
     "Homer",
-    "Dacier, Anne Lefèvre",
-    "Saulx-Tavannes, Jean [de]",
-    "Duvernet, Théophile-Imarigeon",
-    "Abdul-Hamid [Ottoman Sultan]",
-    "Dumont, Auguste",
-    "Le Grand, Jérôme",
-    "Lantier, Étienne François [de]",
-    "Romme, Nicolas Charles",
+    "Anne Lefèvre Dacier"
+    "Jean de Saulx-Tavannes"
+    "Théophile-Imarigeon Duvernet"
+    "Abdul-Hamid Ottoman Sultan",
+    "Auguste Dumont"
+    "Jérôme Le Grand"
+    "Étienne François de Lantier"
+    "Nicolas Charles Romme"
     "Arnaud de Saint-Maurice",
-    "Maydieu, Jean",
-    "Zimmermann, Heinrich",
-    "Maintenon, Françoise d'Aubigné",
-    "La Dixmerie, Nicolas Bricaire [de]",
-    "La Montagne [abbé de]",
-    "Rouelle, Hilaire-Marin",
-    "Joncourt, Elie [de]",
+    "Jean Maydieu"
+    "Heinrich Zimmermann"
+    "Françoise d'Aubigné Maintenon"
+    "Nicolas Bricaire de La Dixmerie"
+    "La Montagne abbé de",
+    "Hilaire-Marin Rouelle"
+    "Elie de Joncourt"
     "Witart de Bézu",
     "Arrian",
-    "Dossie, Robert",
-    "Filleau de Saint-Martin, François",
-    "Gaudard De Chavannes, Antoine Joseph Samuel",
-    "Manzon, Jean",
-    "Gourville, Jean Hérault [de]",
-    "Maquin [abbé]",
-    "Marone, Andrea",
-    "MacNeny, Patrick",
-    "Bowles, William",
-    "Flavigny, Gratien-Jean-Baptiste-Louis",
-    "Lacombe, Jacques",
-    "Le Fébvre, Simon",
-    "Le Monnier, Guillaume-Antoine [abbé]",
+    "Robert Dossie"
+    "François Filleau de Saint-Martin"
+    "Antoine Joseph Samuel Gaudard De Chavannes"
+    "Jean Manzon"
+    "Jean Hérault de Gourville"
+    "Maquin abbé",
+    "Andrea Marone"
+    "Patrick MacNeny"
+    "William Bowles"
+    "Gratien-Jean-Baptiste-Louis Flavigny"
+    "Jacques Lacombe"
+    "Simon Le Fébvre"
+    "Guillaume-Antoine abbé Le Monnier"
     "Garnier",
-    "Flores, Joseph [dom]",
-    "Grasset, François",
-    "Constant de Rebecque, Samuel [de]",
-    "Dodd, William",
+    "Joseph dom Flores"
+    "François Grasset"
+    "Samuel de Constant de Rebecque"
+    "William Dodd"
     "Académie Française",
-    "Barthélemy, Louis",
-    "Dubuisson, Pierre-Ulric",
-    "Miller, Johann Martin",
-    "La Vaux [de]",
-    "Mingard, Gabriel-Jean-Henri",
-    "Veyssière de Lacroze, Mathurin",
-    "Blackstone, William",
-    "Besset de la Chapelle, N.-P.",
-    "Isnard, Achille-Nicolas",
-    "Terrasson, Jean",
-    "Nardin, Jean Frédéric",
-    "Caylus, Marthe-Marguerite Le Valois de Villette de Murçay [comtesse de]",
-    "Jehin [abbé]",
+    "Louis Barthélemy"
+    "Pierre-Ulric Dubuisson"
+    "Johann Martin Miller"
+    "La Vaux de",
+    "Gabriel-Jean-Henri Mingard"
+    "Mathurin Veyssière de Lacroze"
+    "William Blackstone"
+    "N.-P. Besset de la Chapelle"
+    "Achille-Nicolas Isnard"
+    "Jean Terrasson"
+    "Jean Frédéric Nardin"
+    "Marthe-Marguerite Le Valois de Villette de Murçay comtesse de Caylus"
+    "Jehin abbé",
     "Merthghen",
-    "Pourtalès, Paul [de]",
-    "Mayer, Charles Joseph",
-    "Luya, Jean Pierre",
-    "André, Pierre",
-    "Verdier, César",
-    "Amyot, Jacques",
-    "Plantavit de La Pause, Guillaume",
+    "Paul de Pourtalès"
+    "Charles Joseph Mayer"
+    "Jean Pierre Luya"
+    "Pierre André"
+    "César Verdier"
+    "Jacques Amyot"
+    "Guillaume Plantavit de La Pause"
     "Jollivet (frères)",
-    "Dudoyer de Gastels, Gérard",
-    "Cadet-de-Vaux, Antoine-Alexis",
-    "Spielmann, Jacob Reinbold",
-    "Dupain de Montesson, Louis-Charles",
-    "Jouffreau de Lagerie [abbé]",
-    "Dulague, Vincent François Jean Noël",
-    "Mongez, Antoine",
-    "Drelincourt, Laurent",
-    "Labat, Jean-François",
-    "Di Sanseverino, Giulio Roberto",
-    "Bassville, Nicolas-Jean Hugou [de]",
-    "Lanteires, Jean",
-    "Parny, Évariste Désiré de Forges [vicomte de]",
-    "Sella, Gasparo",
-    "Dumanoir, Philippe-François Pinel",
-    "Wall, Anton",
-    "Polier, Marie Élisabeth [de]",
-    "Heyne, Christian Leberecht",
-    "La Forest, Nicolas Laurent",
-    "Pinetti, Giuseppe",
-    "Patjé, Chrétien-Louis-Aubert",
-    "Sturm, Christoph Christian",
-    "Brunswick-Wolfenbuttel, Élisabeth-Christine [de]",
+    "Gérard Dudoyer de Gastels"
+    "Antoine-Alexis Cadet-de-Vaux"
+    "Jacob Reinbold Spielmann"
+    "Louis-Charles Dupain de Montesson"
+    "Jouffreau de Lagerie abbé",
+    "Vincent François Jean Noël Dulague"
+    "Antoine Mongez"
+    "Laurent Drelincourt"
+    "Jean-François Labat"
+    "Giulio Roberto Di Sanseverino"
+    "Nicolas-Jean Hugou de Bassville"
+    "Jean Lanteires"
+    "Évariste Désiré de Forges vicomte de Parny"
+    "Gasparo Sella"
+    "Philippe-François Pinel Dumanoir"
+    "Anton Wall"
+    "Marie Élisabeth de Polier"
+    "Christian Leberecht Heyne"
+    "Nicolas Laurent La Forest"
+    "Giuseppe Pinetti"
+    "Chrétien-Louis-Aubert Patjé"
+    "Christoph Christian Sturm"
+    "Élisabeth-Christine de Brunswick-Wolfenbuttel"
     "Dysembart de la Fossardrie",
-    "Dupin, Pierre",
-    "Automne, Bernard",
-    "Germain, George",
-    "Baumeister, Friedrich Christian",
-    "Bellepierre de Neuve-Église, Louis-Joseph",
-    "Junker, Georges Adam",
-    "Jacobi, Johann Georg",
+    "Pierre Dupin"
+    "Bernard Automne"
+    "George Germain"
+    "Friedrich Christian Baumeister"
+    "Louis-Joseph Bellepierre de Neuve-Église"
+    "Georges Adam Junker"
+    "Johann Georg Jacobi"
     "Armandry",
-    "Valotti, Gaudenzio",
-    "Revillon, Claude",
-    "Desmarest, Nicolas",
-    "Montolieu, Isabelle [de]",
-    "Vernède, Jean-Scipion",
-    "Couturier, Pierre-Denis",
-    "Helvétius, Jerome",
-    "Beauharnais, Fanny [de]",
-    "Rogissart, Max [de]",
-    "Pfeffel von Kriegelstein, Christian Friedrich",
-    "Colardeau, Charles Pierre",
-    "Fonson, Michel J.",
-    "Tschiffeli, Johann Rudolf",
-    "Nirel, C.-H.",
-    "Buffier, Claude",
-    "Marshall, Joseph",
-    "Pingeron, Jean-Claude",
-    "Argental, Charles-Augustin de Ferriol",
-    "Tissot [coiffeur]",
-    "Laugier, Marc-Antoine",
-    "Montrésor, Claude de Bourdeille [comte de]",
-    "Siret, Pierre-Louis",
-    "Auger, Athanase",
-    "Saurin, Bernard-Joseph",
+    "Gaudenzio Valotti"
+    "Claude Revillon"
+    "Nicolas Desmarest"
+    "Isabelle de Montolieu"
+    "Jean-Scipion Vernède"
+    "Pierre-Denis Couturier"
+    "Jerome Helvétius"
+    "Fanny de Beauharnais"
+    "Max de Rogissart"
+    "Christian Friedrich Pfeffel von Kriegelstein"
+    "Charles Pierre Colardeau"
+    "Michel J. Fonson"
+    "Johann Rudolf Tschiffeli"
+    "C.-H. Nirel"
+    "Claude Buffier"
+    "Joseph Marshall"
+    "Jean-Claude Pingeron"
+    "Charles-Augustin de Ferriol Argental"
+    "Tissot coiffeur",
+    "Marc-Antoine Laugier"
+    "Claude de Bourdeille comte de Montrésor"
+    "Pierre-Louis Siret"
+    "Athanase Auger"
+    "Bernard-Joseph Saurin"
     "Académie royale de chirurgie",
-    "Peyrilhe, Bernard",
-    "Fabre, Pierre",
-    "Baumé, Antoine",
-    "Mallet, Gédéon",
-    "Focquenbergues, Jean [de]",
-    "Du Moulin, Pierre",
-    "Torman, Georges",
-    "Bèze, Théodore [de]",
-    "Benoist, Elie",
-    "Allix, Pierre",
-    "Barnaud, Barthélemi",
-    "Scheuchzer, Johann Jacob",
-    "Lange, Carl Niclaus",
-    "Dupaty, Charles-Marguerite-Jean-Baptiste Mercier",
-    "Erlach, Rodolphe-Louis [d']",
+    "Bernard Peyrilhe"
+    "Pierre Fabre"
+    "Antoine Baumé"
+    "Gédéon Mallet"
+    "Jean de Focquenbergues"
+    "Pierre Du Moulin"
+    "Georges Torman"
+    "Théodore de Bèze"
+    "Elie Benoist"
+    "Pierre Allix"
+    "Barthélemi Barnaud"
+    "Johann Jacob Scheuchzer"
+    "Carl Niclaus Lange"
+    "Charles-Marguerite-Jean-Baptiste Mercier Dupaty"
+    "Rodolphe-Louis d'Erlach"
     "Gazin",
     "Haudart",
-    "Durand de Maillane, Pierre Toussaint",
-    "Lee, Sophia",
-    "La Mare, P.-B. [de]",
-    "Berchem, Jacob-Pierre Berthout [van]",
-    "Ludwig, Christian Gottlieb",
-    "Marval, Samuel [de]",
-    "La Motte, Jeanne de Saint-Rémy de Valois [comtesse de]",
-    "Wolff, Elizabeth Bekker",
-    "Deken, Agatha",
-    "La Coste [de]",
-    "Raguenet, François",
-    "Brisson, Pierre-Raymond [de]",
-    "Deyverdun, Georges",
+    "Pierre Toussaint Durand de Maillane"
+    "Sophia Lee"
+    "P.-B. de La Mare"
+    "Jacob-Pierre Berthout van Berchem"
+    "Christian Gottlieb Ludwig"
+    "Samuel de Marval"
+    "Jeanne de Saint-Rémy de Valois comtesse de La Motte"
+    "Elizabeth Bekker Wolff"
+    "Agatha Deken"
+    "La Coste de",
+    "François Raguenet"
+    "Pierre-Raymond de Brisson"
+    "Georges Deyverdun"
     "Petronius",
-    "La Roche, J. [de]",
-    "Fabry, Jacques Joseph",
-    "Decremps, Henri",
-    "Ferrières Sauveboeuf, Louis-François [de]",
+    "J. de La Roche"
+    "Jacques Joseph Fabry"
+    "Henri Decremps"
+    "Louis-François de Ferrières Sauveboeuf"
     "Thucydides",
-    "Ablancourt, Nicolas Perrot [d']",
-    "Sims, James",
+    "Nicolas Perrot d'Ablancourt"
+    "James Sims"
     "Poultiret",
-    "Bordelon, Laurent",
-    "Maillard, Sébastien",
-    "Peyssonnel, Charles [de]",
-    "Ducray-Duminil, François-Guillaume",
-    "Sanzio, Raffaello",
-    "Ferrand, Antoine-François-Claude",
-    "Antraigues, Emmanuel Louis Henri Alexandre de Launai [comte d']",
-    "Agoult, Charles [d']",
-    "Du Prat, Pierre-Antoine [Mis]",
+    "Laurent Bordelon"
+    "Sébastien Maillard"
+    "Charles de Peyssonnel"
+    "François-Guillaume Ducray-Duminil"
+    "Raffaello Sanzio"
+    "Antoine-François-Claude Ferrand"
+    "Emmanuel Louis Henri Alexandre de Launai comte d'Antraigues"
+    "Charles d'Agoult"
+    "Pierre-Antoine Mis Du Prat"
     "Renaud de La Grelaye",
-    "Marini, Giovanni Ambrosio",
-    "Huyn, P. N.",
-    "Le Roy de Lozembrune, François Claude ",
-    "Schmettau, Friedrich Wilhelm Carl [von]",
-    "Fleurian [chevalier de]",
-    "Brisson, Mathurin-Jacques",
-    "Martyn, Thomas",
-    "Blanc, Samuel Louis",
-    "Frieseman, Hendrik",
-    "Vadé, Jean Joseph",
-    "Wyttenbach, Jacob Samuel",
-    "Struve, Henri",
-    "Reynier, Jean Louis Antoine",
-    "Droz, Daniel",
-    "Quartier-dit-Mayre, D",
-    "Helme, Elizabeth",
-    "La Fite, Marie-Élisabeth Bouée [Mme de]",
-    "Tiraboschi, Girolamo",
-    "Landi, Antoine",
-    "Leopold II, Austrian Emperor",
-    "Sertor, Gaetano",
-    "Salvemini da Castiglione, Federico",
-    "Nobili, Robert [de]",
-    "Clermont-Lodève, Guillaume-Emmanuel-Joseph Guilhem [de]",
+    "Giovanni Ambrosio Marini"
+    "P. N. Huyn"
+    "François Claude  Le Roy de Lozembrune"
+    "Friedrich Wilhelm Carl von Schmettau"
+    "Fleurian chevalier de",
+    "Mathurin-Jacques Brisson"
+    "Thomas Martyn"
+    "Samuel Louis Blanc"
+    "Hendrik Frieseman"
+    "Jean Joseph Vadé"
+    "Jacob Samuel Wyttenbach"
+    "Henri Struve"
+    "Jean Louis Antoine Reynier"
+    "Daniel Droz"
+    "D Quartier-dit-Mayre"
+    "Elizabeth Helme"
+    "Marie-Élisabeth Bouée Mme de La Fite"
+    "Girolamo Tiraboschi"
+    "Antoine Landi"
+    "Austrian Emperor Leopold II"
+    "Gaetano Sertor"
+    "Federico Salvemini da Castiglione"
+    "Robert de Nobili"
+    "Guillaume-Emmanuel-Joseph Guilhem de Clermont-Lodève"
     "Doppet. Amédée",
-    "Serré de Rieux, Jean [de]",
-    "Allioni, Carlo",
-    "Retz, Jean-François Paul de Gondi",
-    "Cazotte, Jacques",
-    "Saint-Simon, Maximilien-Henri",
-    "Grasset de Saint-Sauveur, Jacques",
-    "Bachaumont, François Le Coigneux",
-    "Chapelle, Claude Emmanuel Lhuillier",
-    "Montecuccoli, Raimondo",
-    "Adam, Jacques",
-    "Needham, John Turberville",
-    "Rousset de Missy, Jean",
-    "Weiss, Franz Rudolf [von]",
-    "Hartig, Franz [von]",
-    "Bérenger, Laurent-Pierre",
-    "Zimmermann, Eberhard August Wilhelm [von]",
-    "Coret, Jacques",
-    "Williams, John",
+    "Jean de Serré de Rieux"
+    "Carlo Allioni"
+    "Jean-François Paul de Gondi Retz"
+    "Jacques Cazotte"
+    "Maximilien-Henri Saint-Simon"
+    "Jacques Grasset de Saint-Sauveur"
+    "François Le Coigneux Bachaumont"
+    "Claude Emmanuel Lhuillier Chapelle"
+    "Raimondo Montecuccoli"
+    "Jacques Adam"
+    "John Turberville Needham"
+    "Jean Rousset de Missy"
+    "Franz Rudolf von Weiss"
+    "Franz von Hartig"
+    "Laurent-Pierre Bérenger"
+    "Eberhard August Wilhelm von Zimmermann"
+    "Jacques Coret"
+    "John Williams"
     "Lorenzo de' Medici",
-    "Coulon de Thévenot, Jean-Félicité",
-    "Morand, Jean-François-Clément",
-    "Klopstock, Friedrich Gottlieb",
-    "Antelmy, Pierre-Thomas",
-    "Espagnac, Marc-René Sahuguet [d']",
-    "La Tour Du Pin de La Charce, Jacques-François-René [de]",
-    "Hernandez, Philippe",
-    "Grose, John Henry",
-    "Besson, Henri-Robert",
-    "Maclaine, Archibald",
-    "Le Tellier, A.-F. (ancien maire d'Harfleur)",
-    "Boudard, J.-B.",
-    "Mertens, Charles [de]",
-    "Sind, J. B. Freiherr [von]",
-    "Barbault, Jean",
-    "Pruneau de Pommegorge, Antoine Edme",
-    "Volney, Constantin-François de Chasseboeuf [comte de]",
-    "Dubois de Launay, Henri [abbé]",
-    "Castéra, Jean Henri",
-    "Bruce, James",
+    "Jean-Félicité Coulon de Thévenot"
+    "Jean-François-Clément Morand"
+    "Friedrich Gottlieb Klopstock"
+    "Pierre-Thomas Antelmy"
+    "Marc-René Sahuguet d'Espagnac"
+    "Jacques-François-René de La Tour Du Pin de La Charce"
+    "Philippe Hernandez"
+    "John Henry Grose"
+    "Henri-Robert Besson"
+    "Archibald Maclaine"
+    "A.-F. (ancien maire d'Harfleur) Le Tellier"
+    "J.-B. Boudard"
+    "Charles de Mertens"
+    "J. B. Freiherr von Sind"
+    "Jean Barbault"
+    "Antoine Edme Pruneau de Pommegorge"
+    "Constantin-François de Chasseboeuf comte de Volney"
+    "Henri abbé Dubois de Launay"
+    "Jean Henri Castéra"
+    "James Bruce"
     "Xenophon",
-    "Delandine, Antoine François",
-    "Moerbeek, Paul en Simon",
-    "Dolomieu, Déodat [de]",
-    "Lang, Joseph Gregor",
-    "Beaunoir, Alexandre Louis Bertrand Robineau [de]",
-    "Sterne, Gille Blasius",
-    "Craven, Elizabeth Berkeley [lady]",
-    "Durand, P.-Noël",
-    "Ricard, Samuel",
-    "Hennezel, Béat-Antoine-François [de]",
-    "Savary, Claude Etienne",
-    "Frey de Neuville, Pierre-Claude",
-    "Marat, Jean-Paul",
-    "La Motte Fouqué, Heinrich-August, Baron [de]",
-    "Büttner, G. A",
-    "Firmin, Philippe",
-    "Déjardin de Courcelles [Mme]",
+    "Antoine François Delandine"
+    "Paul en Simon Moerbeek"
+    "Déodat de Dolomieu"
+    "Joseph Gregor Lang"
+    "Alexandre Louis Bertrand Robineau de Beaunoir"
+    "Gille Blasius Sterne"
+    "Elizabeth Berkeley lady Craven"
+    "P.-Noël Durand"
+    "Samuel Ricard"
+    "Béat-Antoine-François de Hennezel"
+    "Claude Etienne Savary"
+    "Pierre-Claude Frey de Neuville"
+    "Jean-Paul Marat"
+    "Baron de La Motte Fouqué, Heinrich-August"
+    "G. A Büttner"
+    "Philippe Firmin"
+    "Déjardin de Courcelles Mme",
     "Gacon de Louancy",
-    "Bièvre, François-Georges Maréchal [marquis de]",
-    "Los-Rios, Jean-François [de]",
-    "Roustan, Antoine-Jacques",
-    "La Porte, Mathieu",
-    "Courtilz de Sandras, Gatien [de]",
-    "Anquetil, Louis-Pierre",
-    "Contant d'Orville, André-Guillaume",
-    "Saint-Paterne, Pigeon [de]",
-    "Gueullette, Thomas-Simon",
-    "Donjon, Joseph",
-    "Hård, Johan Ludvig",
-    "Mechel, Christian [von]",
-    "Mentelle, Edme",
-    "Berington, Simon",
-    "Dupuy-Demportes, Jean-Baptiste",
-    "Boisgiron [Mme de]",
-    "Moutard, Nicolas-Léger",
+    "François-Georges Maréchal marquis de Bièvre"
+    "Jean-François de Los-Rios"
+    "Antoine-Jacques Roustan"
+    "Mathieu La Porte"
+    "Gatien de Courtilz de Sandras"
+    "Louis-Pierre Anquetil"
+    "André-Guillaume Contant d'Orville"
+    "Pigeon de Saint-Paterne"
+    "Thomas-Simon Gueullette"
+    "Joseph Donjon"
+    "Johan Ludvig Hård"
+    "Christian von Mechel"
+    "Edme Mentelle"
+    "Simon Berington"
+    "Jean-Baptiste Dupuy-Demportes"
+    "Boisgiron Mme de",
+    "Nicolas-Léger Moutard"
     "Horst",
-    "La Croix, Jean-François [de]",
+    "Jean-François de La Croix"
     "Weiler",
-    "Wandelaincourt, Antoine-Hubert",
+    "Antoine-Hubert Wandelaincourt"
     "Répécaud",
-    "Chéron de Boismorand, Claude Joseph",
-    "Seriot, Ant",
-    "Turpin de Crissé, Marie Élisabeth Constance",
-    "Bochat, Charles Guillaume Loys [de]",
-    "Le Prieur, Pierre-Alexandre",
-    "Guichenon, Samuel",
-    "Palteau, Formanoir",
-    "Lally-Tollendal, Trophime-Gérard [marquis de]",
-    "Thesby de Belcour, François Auguste",
-    "Suze, Charles [de]",
-    "Priestley, Joseph",
-    "Gibelin, Jacques",
-    "Soubeyran de Scopon, Jean-Pierre",
-    "Chénier, Marie Joseph Blaise",
-    "Germanes [abbé de]",
-    "Ladvocat, Jean-Baptiste",
-    "Uriot, Joseph",
-    "Richelet, Pierre",
-    "Ganeau, Étienne",
-    "Souciet, Étienne",
-    "Chabanon, Michel Paul Guy [de]",
-    "Lallemant, Richard-Gontran",
-    "Vauvenargues, Luc de Clapiers",
-    "Wilson, Thomas",
-    "Bonneville, Nicolas [de]",
-    "Grotius, Hugo",
-    "Cocceji, Heinrich [von]",
-    "Gronovius, Johannes Fredericus",
-    "Loaisel de Tréogate, Joseph-Marie",
-    "Jacquier, François",
-    "Leseur, Thomas",
-    "Fontette de Sommery [Mademoiselle] ",
-    "Frisch, Johann Leonhard",
-    "Polier de Bottens, Antoine-Noé",
-    "Mailhol, Gabriel",
-    "Troya d' Assigny, Louis",
-    "Bodmer, Johann Jakob",
-    "Kniphuysen-Nienoort, George Guillaume [de]",
-    "Du Commun, Jean Pierre Nicolas",
-    "Radicati, Alberto",
-    "La Métherie, Jean-Claude [de]",
-    "Achenwall, Gottfried",
-    "Soresi, A.",
-    "Blakey, William",
-    "Crébillon père, Prosper Jolyot [de]",
-    "Renfner, Henri",
-    "Hédouin, Jean-Baptiste-Antoine",
-    "Maizonnet, Jean-Louis",
-    "Otto, Everhard",
-    "Payne, Thomas",
-    "Eybel, Joseph Valentin",
-    "Quincy, L.-D.-C.-H.-D.",
-    "Poulain de Nogent [Mlle]",
-    "Saint-Yves, Charles [de]",
-    "Sack, Frédéric Samuel Gottfried",
-    "Johnson, Samuel",
-    "Collet, Pierre",
-    "La Flotte [de]",
-    "Guillemain de Saint-Victor, Louis",
-    "Hamilton, Antoine",
-    "Cajot, Joseph",
-    "Chesterfield, Philip Dormer [4th Earl of]",
-    "Brantôme, Pierre de Bourdeille [de]",
-    "Fellenberg, Daniel",
-    "Berni, Francesco",
-    "Schlegel, Johann Heinrich",
-    "André [abbé]",
-    "Dantu, Antoine-Marie",
-    "Montagu, Mary Wortley",
-    "La Boissière, Joseph-Louis [de]",
-    "Levaillant, François",
-    "Exchaquet, Abram-Henri",
-    "Chavannes, Alexandre-André-César",
-    "Griffith, Elizabeth",
-    "Lafont [de] [délégué de l'intendant de Gap]",
-    "Bilderbeck, Ludwig Benedict Franz [von]",
-    "Romas, Jacques [de]",
-    "Dreamer, Oliver",
-    "Hell, François Joseph Antoine [de]",
-    "Dhaulon, Sieur",
-    "Challes, Robert",
-    "Dezallier d'Argenville, Antoine-Nicolas",
-    "Tschudi, Louis-Théodore [de]",
-    "Varenne, Jacques [de]",
-    "Seally, John",
-    "Hunter, William",
-    "Clément de Boissy, Athanase-Alexandre",
-    "Argenson, René-Louis de Voyer de Paulmy [d']",
-    "Horne, Jacques [de]",
-    "Guérineau de Saint-Péravi, Jean-Nicolas-Marcellin",
-    "Bonnaire, Louis [de]",
-    "Villecomte, Denis [de]",
-    "Griselini, Francesco",
-    "Witel, Jérémie",
-    "Am Ende, Johann Joachim Gottlob",
-    "Adami, Antonio Filippo",
-    "Du Resnel du Bellay, Jean-François",
-    "Kretsch, Heinrich Christian",
-    "Schweighäuser, Johannes",
-    "Maffei, Francesco Scipione",
-    "Nonnotte, Claude-François",
-    "Delon, M. N.",
-    "Serane, Philippe [abbé]",
+    "Claude Joseph Chéron de Boismorand"
+    "Ant Seriot"
+    "Marie Élisabeth Constance Turpin de Crissé"
+    "Charles Guillaume Loys de Bochat"
+    "Pierre-Alexandre Le Prieur"
+    "Samuel Guichenon"
+    "Formanoir Palteau"
+    "Trophime-Gérard marquis de Lally-Tollendal"
+    "François Auguste Thesby de Belcour"
+    "Charles de Suze"
+    "Joseph Priestley"
+    "Jacques Gibelin"
+    "Jean-Pierre Soubeyran de Scopon"
+    "Marie Joseph Blaise Chénier"
+    "Germanes abbé de",
+    "Jean-Baptiste Ladvocat"
+    "Joseph Uriot"
+    "Pierre Richelet"
+    "Étienne Ganeau"
+    "Étienne Souciet"
+    "Michel Paul Guy de Chabanon"
+    "Richard-Gontran Lallemant"
+    "Luc de Clapiers Vauvenargues"
+    "Thomas Wilson"
+    "Nicolas de Bonneville"
+    "Hugo Grotius"
+    "Heinrich von Cocceji"
+    "Johannes Fredericus Gronovius"
+    "Joseph-Marie Loaisel de Tréogate"
+    "François Jacquier"
+    "Thomas Leseur"
+    "Fontette de Sommery Mademoiselle ",
+    "Johann Leonhard Frisch"
+    "Antoine-Noé Polier de Bottens"
+    "Gabriel Mailhol"
+    "Louis Troya d'Assigny"
+    "Johann Jakob Bodmer"
+    "George Guillaume de Kniphuysen-Nienoort"
+    "Jean Pierre Nicolas Du Commun"
+    "Alberto Radicati"
+    "Jean-Claude de La Métherie"
+    "Gottfried Achenwall"
+    "A. Soresi"
+    "William Blakey"
+    "Prosper Jolyot de Crébillon père"
+    "Henri Renfner"
+    "Jean-Baptiste-Antoine Hédouin"
+    "Jean-Louis Maizonnet"
+    "Everhard Otto"
+    "Thomas Payne"
+    "Joseph Valentin Eybel"
+    "L.-D.-C.-H.-D. Quincy"
+    "Poulain de Nogent Mlle",
+    "Charles de Saint-Yves"
+    "Frédéric Samuel Gottfried Sack"
+    "Samuel Johnson"
+    "Pierre Collet"
+    "La Flotte de",
+    "Louis Guillemain de Saint-Victor"
+    "Antoine Hamilton"
+    "Joseph Cajot"
+    "Philip Dormer 4th Earl of Chesterfield"
+    "Pierre de Bourdeille de Brantôme"
+    "Daniel Fellenberg"
+    "Francesco Berni"
+    "Johann Heinrich Schlegel"
+    "André abbé",
+    "Antoine-Marie Dantu"
+    "Mary Wortley Montagu"
+    "Joseph-Louis de La Boissière"
+    "François Levaillant"
+    "Abram-Henri Exchaquet"
+    "Alexandre-André-César Chavannes"
+    "Elizabeth Griffith"
+    "Lafont de délégué de l'intendant de Gap",
+    "Ludwig Benedict Franz von Bilderbeck"
+    "Jacques de Romas"
+    "Oliver Dreamer"
+    "François Joseph Antoine de Hell"
+    "Sieur Dhaulon"
+    "Robert Challes"
+    "Antoine-Nicolas Dezallier d'Argenville"
+    "Louis-Théodore de Tschudi"
+    "Jacques de Varenne"
+    "John Seally"
+    "William Hunter"
+    "Athanase-Alexandre Clément de Boissy"
+    "René-Louis de Voyer de Paulmy d'Argenson"
+    "Jacques de Horne"
+    "Jean-Nicolas-Marcellin Guérineau de Saint-Péravi"
+    "Louis de Bonnaire"
+    "Denis de Villecomte"
+    "Francesco Griselini"
+    "Jérémie Witel"
+    "Johann Joachim Gottlob Am Ende"
+    "Antonio Filippo Adami"
+    "Jean-François Du Resnel du Bellay"
+    "Heinrich Christian Kretsch"
+    "Johannes Schweighäuser"
+    "Francesco Scipione Maffei"
+    "Claude-François Nonnotte"
+    "M. N. Delon"
+    "Philippe abbé Serane"
     "Guyard de Berville",
-    "Erman, Jean-Pierre",
-    "Reclam, Pierre Christian Frédéric",
-    "Anson, George",
-    "Forbin, Claude [de]",
-    "Stackhouse, Thomas",
-    "Luxembourg, François-Henri de Montmorency Bouteville ",
-    "Monge, Gaspard",
-    "Levacher de La Feutrie, A.-F.-Thomas",
-    "Bernard, Pierre-Joseph",
-    "Baret, Paul",
-    "Sticotti, Antoine-Fabio",
-    "Vixouze, François-Xavier Pagès [de]",
-    "Warens, Françoise-Louise-Éléonore de La Tour [Bonne de]",
-    "Doppet, François-Amédée",
-    "La Fayette, Marie-Madeleine Pioche de La Vergne",
-    "Livoy, Timothée Hureau [de]",
-    "Metastasio, Pietro",
-    "Le Ragois, Claude",
-    "Ridley, James",
-    "Fougeret de Monbron, Louis-Charles",
-    "Falkner, Thomas",
-    "Moreau de Saint-Elier, Louis Malo",
-    "Chifflard, M.",
-    "Pahin-Champlain de La Blancherie, M. C.",
-    "Gellert, Christlieb Ehregott",
-    "Target, Guy-Jean-Baptiste",
-    "Nicolai, Ernst Anton",
-    "Merveilleux, David François [de]",
-    "Dantal, Charles",
-    "Hanov, Michael Christoph",
-    "Cesarotti, Melchior",
-    "Forrest, Thomas",
-    "Muratori, Lodovico Antonio",
-    "Crillon, Louis Athanase des Balbes de Berton",
-    "Watson, Richard",
-    "Cornaro, Luigi",
-    "Faur, Louis-François",
-    "Rivard, Dominique-François",
-    "Louvet de Couvray, Jean-Baptiste",
-    "Spampani, Giambattista",
-    "Antonini, Carlo",
-    "Bertòla De' Giorgi, Aurelio",
-    "Pufendorf, Samuel [von]",
-    "Birrius, Antonius",
-    "Estienne, Henri",
-    "Mead, Richard",
-    "Coste, Jean-François",
-    "Manstein, Christoph Hermann [von]",
-    "Fillassier, Jean-Jacques",
-    "Masselin, J.-G.",
-    "Hervey, Elizabeth",
-    "Piroux [architecte]",
-    "Aretino, Pietro",
-    "Cagliostro, Alessandro [Comte de]",
-    "Le Cointe, Jean",
-    "La Fosse, Antoine [de]",
-    "Gundling, Nicolaus Hieronymus",
+    "Jean-Pierre Erman"
+    "Pierre Christian Frédéric Reclam"
+    "George Anson"
+    "Claude de Forbin"
+    "Thomas Stackhouse"
+    "François-Henri de Montmorency Bouteville  Luxembourg"
+    "Gaspard Monge"
+    "A.-F.-Thomas Levacher de La Feutrie"
+    "Pierre-Joseph Bernard"
+    "Paul Baret"
+    "Antoine-Fabio Sticotti"
+    "François-Xavier Pagès de Vixouze"
+    "Françoise-Louise-Éléonore de La Tour Bonne de Warens"
+    "François-Amédée Doppet"
+    "Marie-Madeleine Pioche de La Vergne La Fayette"
+    "Timothée Hureau de Livoy"
+    "Pietro Metastasio"
+    "Claude Le Ragois"
+    "James Ridley"
+    "Louis-Charles Fougeret de Monbron"
+    "Thomas Falkner"
+    "Louis Malo Moreau de Saint-Elier"
+    "M. Chifflard"
+    "M. C. Pahin-Champlain de La Blancherie"
+    "Christlieb Ehregott Gellert"
+    "Guy-Jean-Baptiste Target"
+    "Ernst Anton Nicolai"
+    "David François de Merveilleux"
+    "Charles Dantal"
+    "Michael Christoph Hanov"
+    "Melchior Cesarotti"
+    "Thomas Forrest"
+    "Lodovico Antonio Muratori"
+    "Louis Athanase des Balbes de Berton Crillon"
+    "Richard Watson"
+    "Luigi Cornaro"
+    "Louis-François Faur"
+    "Dominique-François Rivard"
+    "Jean-Baptiste Louvet de Couvray"
+    "Giambattista Spampani"
+    "Carlo Antonini"
+    "Aurelio Bertòla De' Giorgi"
+    "Samuel von Pufendorf"
+    "Antonius Birrius"
+    "Henri Estienne"
+    "Richard Mead"
+    "Jean-François Coste"
+    "Christoph Hermann von Manstein"
+    "Jean-Jacques Fillassier"
+    "J.-G. Masselin"
+    "Elizabeth Hervey"
+    "Piroux architecte",
+    "Pietro Aretino"
+    "Alessandro Comte de Cagliostro"
+    "Jean Le Cointe"
+    "Antoine de La Fosse"
+    "Nicolaus Hieronymus Gundling"
     "Froger",
-    "Bridel, Samuel Elisée",
-    "Regnard, Jean-François",
-    "Swedenborg, Emanuel",
-    "Rigord, François-Xavier",
-    "Barclay, John",
-    "Feydel, Gabriel",
-    "Du Puy de La Serra, Jacques",
-    "Las [abbé de]",
-    "Campistron, Jean Galbert [de]",
-    "La Motte, E. [de]",
+    "Samuel Elisée Bridel"
+    "Jean-François Regnard"
+    "Emanuel Swedenborg"
+    "François-Xavier Rigord"
+    "John Barclay"
+    "Gabriel Feydel"
+    "Jacques Du Puy de La Serra"
+    "Las abbé de",
+    "Jean Galbert de Campistron"
+    "E. de La Motte"
     "Savin",
-    "Targe, Jean-Baptiste",
+    "Jean-Baptiste Targe"
     "Pigault-Lebrun",
-    "Perney, Jean-Baptiste Cordier [de]",
-    "Burja, Abel",
-    "Charron, Joseph",
-    "Villenfagne d'Ingihoul, Hilarion Noël [de]",
-    "Roubaud, Pierre Joseph André",
-    "Weikard, Melchior Adam",
-    "Arlandes de Salton, François Laurent",
-    "Charles, Jacques Alexandre César",
-    "Hervey, James",
-    "Castilhon, Jean",
-    "Devonshire, Georgiana Cavendish",
-    "Jars, Antoine-Gabriel",
-    "Brechter, Johann Jacob",
-    "Sobrino, Francisco",
-    "Bertoux, Guillaume",
-    "Taitbout, Julien",
-    "Raff, Georg Christian",
+    "Jean-Baptiste Cordier de Perney"
+    "Abel Burja"
+    "Joseph Charron"
+    "Hilarion Noël de Villenfagne d'Ingihoul"
+    "Pierre Joseph André Roubaud"
+    "Melchior Adam Weikard"
+    "François Laurent Arlandes de Salton"
+    "Jacques Alexandre César Charles"
+    "James Hervey"
+    "Jean Castilhon"
+    "Georgiana Cavendish Devonshire"
+    "Antoine-Gabriel Jars"
+    "Johann Jacob Brechter"
+    "Francisco Sobrino"
+    "Guillaume Bertoux"
+    "Julien Taitbout"
+    "Georg Christian Raff"
     "Perrault",
-    "Rist, Jean",
+    "Jean Rist"
     "Ammien Marcellin",
-    "Moulines, Guillaume [de]",
-    "Mulot, François-Valentin",
-    "Limbourg, Jean Philippe [de]",
-    "Staehlin-Storcksburg, Jakob [von]",
-    "Richou, Louis Joseph",
-    "Herttenstein, Johannes Henricus",
-    "Hook, Nathaniel",
+    "Guillaume de Moulines"
+    "François-Valentin Mulot"
+    "Jean Philippe de Limbourg"
+    "Jakob von Staehlin-Storcksburg"
+    "Louis Joseph Richou"
+    "Johannes Henricus Herttenstein"
+    "Nathaniel Hook"
     "Louis XVI",
-    "Baudouin, Nicolas",
-    "Lamy, Bernard",
-    "Michel, Jean-André",
-    "Fourcroy, Antoine François [de]",
-    "Andrews, John",
-    "Lochée, Lewis",
+    "Nicolas Baudouin"
+    "Bernard Lamy"
+    "Jean-André Michel"
+    "Antoine François de Fourcroy"
+    "John Andrews"
+    "Lewis Lochée"
     "Leclerc de Sept-Chênes",
-    "Claude, Jean",
-    "Brotier, Gabriel",
-    "Boullier, David Renaud",
-    "Arnay, Jean-Rodolphe [d']",
-    "Roman, Jean-Joseph-Thérèse",
+    "Jean Claude"
+    "Gabriel Brotier"
+    "David Renaud Boullier"
+    "Jean-Rodolphe d'Arnay"
+    "Jean-Joseph-Thérèse Roman"
     "Pétrarque",
-    "Expilly, Jean-Joseph",
-    "La G*** [de]",
+    "Jean-Joseph Expilly"
+    "La G*** de",
     "MacDonald",
-    "Dehaynin, J.-B.",
-    "Des Pepliers, J.-R.",
-    "Barrow, John",
-    "Rapin de Thoyras, Paul [de]",
-    "Fournier, Achille",
-    "Solignac, Chevalier [de]",
-    "Bruyset, Jean-Marie",
-    "Sheridan, Charles Francis",
-    "Bartoli, Daniello",
-    "Courbeville, Joseph [de]",
+    "J.-B. Dehaynin"
+    "J.-R. Des Pepliers"
+    "John Barrow"
+    "Paul de Rapin de Thoyras"
+    "Achille Fournier"
+    "Chevalier de Solignac"
+    "Jean-Marie Bruyset"
+    "Charles Francis Sheridan"
+    "Daniello Bartoli"
+    "Joseph de Courbeville"
     "Dufresnes",
-    "Durand, Antoine-Joseph",
-    "Moissy, Alexandre-Guillaume [de]",
-    "Clarke, John",
-    "Carlier, Claude",
-    "Aïssé, Charlotte-Elisabeth",
-    "Peyron, Jean-François",
-    "Boisgelin de Cucé, Jean-de-Dieu-Raimond [de]",
-    "Staal, Madame [de]",
-    "La Grave [de]",
-    "Goldoni, Carlo",
-    "Brunet, Jean-Louis",
-    "Sanches, Antonio Nuñes Ribeiro",
-    "Andry, Charles-Louis-François",
-    "Nausell  [baron de]",
-    "Didelot, Nicolas",
+    "Antoine-Joseph Durand"
+    "Alexandre-Guillaume de Moissy"
+    "John Clarke"
+    "Claude Carlier"
+    "Charlotte-Elisabeth Aïssé"
+    "Jean-François Peyron"
+    "Jean-de-Dieu-Raimond de Boisgelin de Cucé"
+    "Madame de Staal"
+    "La Grave de",
+    "Carlo Goldoni"
+    "Jean-Louis Brunet"
+    "Antonio Nuñes Ribeiro Sanches"
+    "Charles-Louis-François Andry"
+    "Nausell  baron de",
+    "Nicolas Didelot"
     "Godin",
-    "Prestreau, Isaac",
-    "Carrière-Doisin, A.",
-    "Sandoz, Jean-Abram-Samuel",
-    "Kerguelen de Trémarec, Yves-Joseph [de]",
-    "Silva [marquis de]",
-    "Petitpierre, Charles",
-    "Steele, Richard",
-    "Fabry [chevalier de]",
-    "Ivernois, François [d']",
-    "Bailly, Jacques",
-    "Espiard de Saux, François-Bernard",
-    "Sérieux, Jean-Adrien",
-    "Santacilia, Jorge Juan y",
-    "Ulloa, Antonio [de]",
-    "Aler, Paul",
-    "Velleius Paterculus, Caius",
-    "Procope-Couteaux, Michel",
-    "Bezout, Étienne",
-    "Lefebvre de Beauvray, Claude-Rigobert",
-    "Curas, Hilmar",
-    "Girard, Jean-François",
-    "Beausobre, Isaac [de]",
-    "Blondel, Jacques-François",
-    "Sparrman, Anders",
-    "Cullen, William",
-    "Pinel, Philippe",
-    "Féraud, Jean-François",
-    "Samwell, David",
-    "Macintosh, William",
-    "Loys de Cheseaux, Charles [de]",
-    "Winceslas, Clément",
-    "Feucher d'Artaize, Henri [chevalier de]",
-    "Commerell [abbé de]",
-    "Surin, Jean-Joseph",
-    "Zollikofer von und zu Altenklingen, Georg Joachim",
-    "Dumas, Louis",
-    "Filson, John",
-    "Parraud, I.-P.",
-    "Sobry, Jean-François",
-    "Jacquin, Armand-Pierre",
-    "Jodin, Jean",
-    "Lafargue, Étienne [de]",
-    "Saint-Marc, Jean-Paul-André de Razins",
-    "Calvin, Jean",
-    "Smith, Robert",
-    "Duval-Le Roy, Nicolas-Claude",
-    "Dyck, Johann Gottfried",
-    "Falconnet de La Bellonie, Camille",
-    "Papillon, Philibert",
-    "Chubb, Thomas",
-    "Marin, Pieter",
-    "Boëthius, Anicius Manlius Severinus",
-    "Fabre d'Églantine, Philippe-François-Nazaire",
-    "Pougens, Charles [de]",
-    "Camburat [de]",
-    "Gouan, Antoine",
-    "Nordberg, Jöran Andersson",
-    "Heuzet, Jean",
-    "Bachaumont, Louis Petit [de]",
-    "Du Perron de Castera, Louis-Adrien",
-    "Boudier de Villemert, P.-J.",
-    "Baignoux, Pierre-Philippe",
-    "Lenfant, Jacques",
-    "Bernoulli, Jean",
-    "Lewis, William",
+    "Isaac Prestreau"
+    "A. Carrière-Doisin"
+    "Jean-Abram-Samuel Sandoz"
+    "Yves-Joseph de Kerguelen de Trémarec"
+    "Silva marquis de",
+    "Charles Petitpierre"
+    "Richard Steele"
+    "Fabry chevalier de",
+    "François d'Ivernois"
+    "Jacques Bailly"
+    "François-Bernard Espiard de Saux"
+    "Jean-Adrien Sérieux"
+    "Jorge Juan y Santacilia"
+    "Antonio de Ulloa"
+    "Paul Aler"
+    "Caius Velleius Paterculus"
+    "Michel Procope-Couteaux"
+    "Étienne Bezout"
+    "Claude-Rigobert Lefebvre de Beauvray"
+    "Hilmar Curas"
+    "Jean-François Girard"
+    "Isaac de Beausobre"
+    "Jacques-François Blondel"
+    "Anders Sparrman"
+    "William Cullen"
+    "Philippe Pinel"
+    "Jean-François Féraud"
+    "David Samwell"
+    "William Macintosh"
+    "Charles de Loys de Cheseaux"
+    "Clément Winceslas"
+    "Henri chevalier de Feucher d'Artaize"
+    "Commerell abbé de",
+    "Jean-Joseph Surin"
+    "Georg Joachim Zollikofer von und zu Altenklingen"
+    "Louis Dumas"
+    "John Filson"
+    "I.-P. Parraud"
+    "Jean-François Sobry"
+    "Armand-Pierre Jacquin"
+    "Jean Jodin"
+    "Étienne de Lafargue"
+    "Jean-Paul-André de Razins Saint-Marc"
+    "Jean Calvin"
+    "Robert Smith"
+    "Nicolas-Claude Duval-Le Roy"
+    "Johann Gottfried Dyck"
+    "Camille Falconnet de La Bellonie"
+    "Philibert Papillon"
+    "Thomas Chubb"
+    "Pieter Marin"
+    "Anicius Manlius Severinus Boëthius"
+    "Philippe-François-Nazaire Fabre d'Églantine"
+    "Charles de Pougens"
+    "Camburat de",
+    "Antoine Gouan"
+    "Jöran Andersson Nordberg"
+    "Jean Heuzet"
+    "Louis Petit de Bachaumont"
+    "Louis-Adrien Du Perron de Castera"
+    "P.-J. Boudier de Villemert"
+    "Pierre-Philippe Baignoux"
+    "Jacques Lenfant"
+    "Jean Bernoulli"
+    "William Lewis"
     "Chalettes",
-    "Espuller [baron d']",
-    "Perrault, Charles",
-    "Joly, Philippe-Louis [abbé]",
-    "Gibrat, J.-P.",
-    "Bettange [de]",
-    "Alliette, Jean-Baptiste",
-    "Brucker, Johann Jakob",
-    "Burnet, Gilbert",
-    "Prideaux, John",
-    "Fauche, Samuel",
-    "Vauvilliers, Jean-François [de]",
-    "Fabre, Jean-Claude",
-    "Le Sueur, Jean",
-    "Ramsay, Andrew Michael",
-    "Berryat, Jean",
-    "Guéneau de Montbeillard, Philippe",
-    "Wiertz, J.",
-    "Dupuy La Chapelle, N.",
-    "Miège, Guy",
-    "Boyer, Abel",
-    "Lemery, Nicolas",
-    "Poissonnier-Desperrières, Antoine",
-    "Couret de Villeneuve, Louis-Pierre",
-    "Élisée, Jean-François Copel",
-    "Lesuire, Robert-Martin",
-    "Régnier, Mathurin",
-    "Autreau, Jacques",
-    "Desmaizeaux, Pierre",
-    "Dörrien, Catharina Helena",
-    "Gluck, Christoph Willibald",
-    "Boyrin, Michel",
-    "Dorcey [Mlle]",
-    "Guimond de La Touche, Claude",
-    "Affichard, Thomas [l']",
-    "Dancourt, Louis Hurtaut",
-    "La Chaussée, Pierre-Claude",
-    "Du Buat-Nançay, Louis-Gabriel",
-    "Gebler, Tobias Philipp [Freiherr von]",
-    "Grenier, Édouard",
-    "Duveyrier, Honoré-Marie-Nicolas",
-    "Lionnois, Jean-Jacques Bouvier",
-    "Clarke, Samuel",
-    "Desnos, Louis-Charles",
-    "Rizzi-Zannoni, Giovanni-Antonio",
+    "Espuller baron d'",
+    "Charles Perrault"
+    "Philippe-Louis abbé Joly"
+    "J.-P. Gibrat"
+    "Bettange de",
+    "Jean-Baptiste Alliette"
+    "Johann Jakob Brucker"
+    "Gilbert Burnet"
+    "John Prideaux"
+    "Samuel Fauche"
+    "Jean-François de Vauvilliers"
+    "Jean-Claude Fabre"
+    "Jean Le Sueur"
+    "Andrew Michael Ramsay"
+    "Jean Berryat"
+    "Philippe Guéneau de Montbeillard"
+    "J. Wiertz"
+    "N. Dupuy La Chapelle"
+    "Guy Miège"
+    "Abel Boyer"
+    "Nicolas Lemery"
+    "Antoine Poissonnier-Desperrières"
+    "Louis-Pierre Couret de Villeneuve"
+    "Jean-François Copel Élisée"
+    "Robert-Martin Lesuire"
+    "Mathurin Régnier"
+    "Jacques Autreau"
+    "Pierre Desmaizeaux"
+    "Catharina Helena Dörrien"
+    "Christoph Willibald Gluck"
+    "Michel Boyrin"
+    "Dorcey Mlle",
+    "Claude Guimond de La Touche"
+    "Thomas l' Affichard"
+    "Louis Hurtaut Dancourt"
+    "Pierre-Claude La Chaussée"
+    "Louis-Gabriel Du Buat-Nançay"
+    "Tobias Philipp Freiherr von Gebler"
+    "Édouard Grenier"
+    "Honoré-Marie-Nicolas Duveyrier"
+    "Jean-Jacques Bouvier Lionnois"
+    "Samuel Clarke"
+    "Louis-Charles Desnos"
+    "Giovanni-Antonio Rizzi-Zannoni"
     "Juvenal",
-    "Colleville, Anne-Hyacinthe [de]",
-    "Sade, Jacques François Paul Aldonce [abbé de]",
+    "Anne-Hyacinthe de Colleville"
+    "Jacques François Paul Aldonce abbé de Sade"
     "Bardinet de Bintar",
-    "La Fare, Charles-Auguste [Mis de]",
-    "Montbart [Mme de]",
-    "Wimpffen, Félix [de]",
-    "Guys, Pierre-Augustin",
-    "Klotz, Christian Adolph",
-    "Blanchard, Pierre",
-    "Girard, Joseph [de]",
+    "Charles-Auguste Mis de La Fare"
+    "Montbart Mme de",
+    "Félix de Wimpffen"
+    "Pierre-Augustin Guys"
+    "Christian Adolph Klotz"
+    "Pierre Blanchard"
+    "Joseph de Girard"
     "Anacréon",
-    "Sabatier, Raphaël Bienvenu",
-    "Van Diemerbroeck, Ijsbrand",
-    "Bastien, Jean-François",
-    "Dreux du Radier, Jean-François",
-    "Létorière, Louis-Armand Prévost",
-    "Dupuis, Charles",
-    "Beauvais-Raseau [de]",
-    "Grellet-Desprades, Joseph",
-    "Parini, Giuseppe",
+    "Raphaël Bienvenu Sabatier"
+    "Ijsbrand Van Diemerbroeck"
+    "Jean-François Bastien"
+    "Jean-François Dreux du Radier"
+    "Louis-Armand Prévost Létorière"
+    "Charles Dupuis"
+    "Beauvais-Raseau de",
+    "Joseph Grellet-Desprades"
+    "Giuseppe Parini"
     "Paulet",
-    "Dudin, René Martin",
-    "Petit, Emilien",
-    "Bourgoin, P.",
-    "Bonnant, Jean Pierre",
-    "Piis, Augustin [de]",
-    "Dazille, Jean-Barthélémi",
-    "Meister, Leonhard",
-    "Billuart, Charles-René",
-    "Bexon, Gabriel-Léopold-Charles-Amé [abbé]",
-    "Mabille [librettiste]",
-    "Framery, Nicolas-Étienne",
-    "Plautus, Titus Maccius",
-    "Bergasse, Nicolas",
-    "Blavet, Jean-Louis",
-    "Batteux, Charles",
-    "Saury, Jean",
-    "Luneau de Boisjermain, Pierre-Joseph-François",
-    "Ribié, César",
+    "René Martin Dudin"
+    "Emilien Petit"
+    "P. Bourgoin"
+    "Jean Pierre Bonnant"
+    "Augustin de Piis"
+    "Jean-Barthélémi Dazille"
+    "Leonhard Meister"
+    "Charles-René Billuart"
+    "Gabriel-Léopold-Charles-Amé abbé Bexon"
+    "Mabille librettiste",
+    "Nicolas-Étienne Framery"
+    "Titus Maccius Plautus"
+    "Nicolas Bergasse"
+    "Jean-Louis Blavet"
+    "Charles Batteux"
+    "Jean Saury"
+    "Pierre-Joseph-François Luneau de Boisjermain"
+    "César Ribié"
     "Quinte-Curce",
-    "Greuze, Jean-Baptiste",
-    "Claret de La Tourrette, Marc-Antoine-Louis",
-    "Engel, Johann Jakob",
-    "Butel-Dumont, Georges-Marie",
-    "Journet, Claude",
-    "Jablonski, Johann Theodor",
-    "Silbermann, Jean-Henri",
-    "Le Virloys, C.-F.-Roland",
-    "Boudot, Jean",
-    "Sue, Pierre",
-    "Savérien, Alexandre",
-    "La Martinière, Antoine Augustin Bruzen [de]",
-    "Ehrmann, Théophile Frédéric",
-    "Origny, Pierre-Adam",
-    "Roux, Augustin",
-    "Lanfant, Anne-Alexandre-Charles-Marie",
-    "Bonnaud, Jacques-Julien",
-    "Delon, Alexandre",
-    "Canvane, Peter",
-    "Guisard, Pierre",
-    "Plaigne [chevalier de]",
-    "Hory, Daniel",
-    "Radet, Jean-Baptiste",
-    "Blanchard, Jean-Baptiste",
-    "Liger, Louis",
-    "Lhomond, Charles François",
-    "Sartoris, Jean-Pierre",
-    "Sapt [abbé de]",
-    "Baston, Guillaume-André-René",
-    "Saint-Vast, Thérèse Willens [de]",
-    "Romain [médecin à Verdun]",
-    "Duchanoy, Claude François",
-    "Horne, Henry",
-    "Arcq, Philippe-Auguste de Sainte-Foix [chevalier d']",
-    "Mauran, G.",
-    "Gautier, Pierre",
-    "Coste, Pierre",
-    "Roussel, René Louis [de]",
-    "Boisard, Jean Jacques François Marin",
-    "Moser, Friedrich Karl [von]",
+    "Jean-Baptiste Greuze"
+    "Marc-Antoine-Louis Claret de La Tourrette"
+    "Johann Jakob Engel"
+    "Georges-Marie Butel-Dumont"
+    "Claude Journet"
+    "Johann Theodor Jablonski"
+    "Jean-Henri Silbermann"
+    "C.-F.-Roland Le Virloys"
+    "Jean Boudot"
+    "Pierre Sue"
+    "Alexandre Savérien"
+    "Antoine Augustin Bruzen de La Martinière"
+    "Théophile Frédéric Ehrmann"
+    "Pierre-Adam Origny"
+    "Augustin Roux"
+    "Anne-Alexandre-Charles-Marie Lanfant"
+    "Jacques-Julien Bonnaud"
+    "Alexandre Delon"
+    "Peter Canvane"
+    "Pierre Guisard"
+    "Plaigne chevalier de",
+    "Daniel Hory"
+    "Jean-Baptiste Radet"
+    "Jean-Baptiste Blanchard"
+    "Louis Liger"
+    "Charles François Lhomond"
+    "Jean-Pierre Sartoris"
+    "Sapt abbé de",
+    "Guillaume-André-René Baston"
+    "Thérèse Willens de Saint-Vast"
+    "Romain médecin à Verdun",
+    "Claude François Duchanoy"
+    "Henry Horne"
+    "Philippe-Auguste de Sainte-Foix chevalier d'Arcq"
+    "G. Mauran"
+    "Pierre Gautier"
+    "Pierre Coste"
+    "René Louis de Roussel"
+    "Jean Jacques François Marin Boisard"
+    "Friedrich Karl von Moser"
     "Aesop",
-    "Hontheim, Johann Nikolaus [von]",
-    "Tesson de La Guérie, Jean",
-    "Paul, Armand-Laurent [abbé]",
-    "Grave, P.M. [de]",
-    "Devaines, M.P.J.",
-    "Frichignono di Quaregna, Niccolò",
-    "Grandmaison [Capitaine de]",
-    "Castillo Solórzano, Alonso [de]",
-    "Murphy, Arthur",
-    "Moyriac de Mailla, Joseph-Anne-Marie [de]",
-    "Grosier, Jean Baptiste Gabriel Alexandre",
-    "Archenholtz, Johann Wilhelm [von]",
-    "Arnex, Auguste Simon [d']",
-    "Desormeaux, Joseph-Louis Ripault",
-    "Kerroux, Louis-Gabriel-Florence",
-    "Sarpi, Paolo",
-    "Leti, Gregorio",
-    "Renard, Louis",
-    "Boddaert, Pieter",
-    "Stell, Adrien [van der]",
-    "Coyett, Baltazar",
-    "Fallours, Samuel",
+    "Johann Nikolaus von Hontheim"
+    "Jean Tesson de La Guérie"
+    "Armand-Laurent abbé Paul"
+    "P.M. de Grave"
+    "M.P.J. Devaines"
+    "Niccolò Frichignono di Quaregna"
+    "Grandmaison Capitaine de",
+    "Alonso de Castillo Solórzano"
+    "Arthur Murphy"
+    "Joseph-Anne-Marie de Moyriac de Mailla"
+    "Jean Baptiste Gabriel Alexandre Grosier"
+    "Johann Wilhelm von Archenholtz"
+    "Auguste Simon d'Arnex"
+    "Joseph-Louis Ripault Desormeaux"
+    "Louis-Gabriel-Florence Kerroux"
+    "Paolo Sarpi"
+    "Gregorio Leti"
+    "Louis Renard"
+    "Pieter Boddaert"
+    "Adrien van der Stell"
+    "Baltazar Coyett"
+    "Samuel Fallours"
     "Salluste",
-    "Cannabich, Christian",
-    "Lignac, Matthieu [de]",
-    "Delivoy, Timothée",
-    "Mackenzie, Henry",
+    "Christian Cannabich"
+    "Matthieu de Lignac"
+    "Timothée Delivoy"
+    "Henry Mackenzie"
     "Champlevert",
-    "Reyrac, François-Philippe de Laurens [abbé de]",
-    "Davisson, John",
-    "Bourn, Samuel",
-    "Heister, Lorenz",
-    "Servandoni, Jean-Nicolas",
-    "Trimmer, Sarah",
-    "Carrard, Benjamin",
-    "Justinus, Marcus Junianus",
-    "Krebel, Gottlob Friedrich",
-    "Burke, Edmund",
-    "Gilbert, Nicolas-Joseph-Laurent",
-    "Cambridge, Richard Owen",
-    "Walpole, Horace",
-    "Monod, Gaspard Joel",
-    "Schreber, Daniel Gottfried",
-    "Bertrand de Molleville, Antoine-François",
-    "James, William",
+    "François-Philippe de Laurens abbé de Reyrac"
+    "John Davisson"
+    "Samuel Bourn"
+    "Lorenz Heister"
+    "Jean-Nicolas Servandoni"
+    "Sarah Trimmer"
+    "Benjamin Carrard"
+    "Marcus Junianus Justinus"
+    "Gottlob Friedrich Krebel"
+    "Edmund Burke"
+    "Nicolas-Joseph-Laurent Gilbert"
+    "Richard Owen Cambridge"
+    "Horace Walpole"
+    "Gaspard Joel Monod"
+    "Daniel Gottfried Schreber"
+    "Antoine-François Bertrand de Molleville"
+    "William James"
     "Plato",
-    "Damours, Louis",
-    "Pompadour, Jeanne Antoinette Poisson",
-    "Viard, Nicolas-Antoine",
-    "Bergier, Nicolas-Sylvestre",
-    "Roques, Pierre",
-    "Michaelis, Johann David",
-    "Merian, Johann Bernhard",
-    "Riedesel, Johann Hermann [von]",
-    "Cradock, Joseph",
-    "Eisen, Charles",
-    "Hübner, Bartholomaeus",
-    "Roger, André Salomon",
-    "Vasco, Dalmazzo Francesco",
-    "Bosse, Abraham",
-    "Schrevelius, Cornelius",
-    "Chanvalon [abbé de]",
-    "Drouet, Étienne François",
-    "Burdon, William",
-    "Fatouville, Nolant [de]",
-    "Thiéry, François",
-    "Lorry, Anne-Charles",
-    "Vidampierre [comtesse de]",
-    "Trenck, Franz [von der]",
-    "Chiari, Pietro",
-    "Saumières, Jacques de Langlade [baron de]",
-    "Arnauld d'Andilly, Robert",
-    "Arnauld, Antoine",
-    "Gusta, Francesco",
-    "Gattel, Claude-Marie",
-    "Montglat, François de Paule de Clermont [de]",
-    "Pontis, Louis [de]",
-    "Wagner, Johann Ludwig",
-    "Gramont, Antoine [de]",
-    "Delacroix, Jacques-Vincent",
-    "Noailles, Louis-Antoine [de]",
-    "Créquy, Louis-Marie [mis de]",
-    "Adelung, Johann Christoph",
-    "Jaussin, Louis-Armand",
-    "Schirach, Gottlob Benedict [von]",
+    "Louis Damours"
+    "Jeanne Antoinette Poisson Pompadour"
+    "Nicolas-Antoine Viard"
+    "Nicolas-Sylvestre Bergier"
+    "Pierre Roques"
+    "Johann David Michaelis"
+    "Johann Bernhard Merian"
+    "Johann Hermann von Riedesel"
+    "Joseph Cradock"
+    "Charles Eisen"
+    "Bartholomaeus Hübner"
+    "André Salomon Roger"
+    "Dalmazzo Francesco Vasco"
+    "Abraham Bosse"
+    "Cornelius Schrevelius"
+    "Chanvalon abbé de",
+    "Étienne François Drouet"
+    "William Burdon"
+    "Nolant de Fatouville"
+    "François Thiéry"
+    "Anne-Charles Lorry"
+    "Vidampierre comtesse de",
+    "Franz von der Trenck"
+    "Pietro Chiari"
+    "Jacques de Langlade baron de Saumières"
+    "Robert Arnauld d'Andilly"
+    "Antoine Arnauld"
+    "Francesco Gusta"
+    "Claude-Marie Gattel"
+    "François de Paule de Clermont de Montglat"
+    "Louis de Pontis"
+    "Johann Ludwig Wagner"
+    "Antoine de Gramont"
+    "Jacques-Vincent Delacroix"
+    "Louis-Antoine de Noailles"
+    "Louis-Marie mis de Créquy"
+    "Johann Christoph Adelung"
+    "Louis-Armand Jaussin"
+    "Gottlob Benedict von Schirach"
     "Ovide",
-    "Le François, A.",
-    "Böhm, Michael Friedrich",
-    "Coqueley de Chaussepierre, Charles-Georges",
-    "Des Essarts, Nicolas-Toussaint",
-    "Béroalde de Verville, François",
-    "Murray, Mungo",
-    "Schultze, Christian August",
+    "A. Le François"
+    "Michael Friedrich Böhm"
+    "Charles-Georges Coqueley de Chaussepierre"
+    "Nicolas-Toussaint Des Essarts"
+    "François Béroalde de Verville"
+    "Mungo Murray"
+    "Christian August Schultze"
     "Tite-Live",
-    "Laisse [Mme de]",
-    "Ramsden, Jesse",
-    "Grazzini, Anton Francesco",
-    "Lamourette, Antoine-Adrien",
-    "Black, William",
-    "Barthélemy, Jean-Jacques",
-    "Caimo, Norberto",
-    "Wraxall, Nathaniel William",
-    "Robert, Marin-Jacques-Clair",
-    "Legrand d'Aussy, Pierre Jean-Baptiste",
-    "Pont-Wullyamoz, Françoise-Louise",
-    "Trenck, Friedrich [von der]",
-    "Bock, Jean-Nicolas-Étienne [baron de]",
-    "Freire, Francisco José",
-    "Cournand, Antoine [de]",
-    "Gervaise, François Armand",
-    "Velázquez de Velasco, Luis José",
-    "Roman, Nicolais",
-    "Seybold, David Christoph",
-    "Henri de Saint-Ignace, Henri d'Aumerie",
-    "Lequinio, Joseph-Marie",
-    "Stahl, Georg Ernst",
-    "Hunauld, Pierre",
-    "Herrenschwand, Johann Friedrich [von]",
-    "Störck, Anton [von]",
-    "Durand, David",
-    "Daudé, Pierre",
-    "Bouchaud, Mathieu-Antoine",
-    "Kelly, Hugh",
-    "Colman, George",
-    "Pury, David [de]",
-    "Pechméja, Jean [de]",
-    "Natthey, Jean-Louis",
-    "Pot, Philippe",
-    "Mehegan, Guillaume-Alexandre [de]",
-    "Barletti de Saint-Paul, François-Paul",
-    "Hermes, Johann Timotheus",
-    "Sturz, Helferich Peter",
-    "Platon, Petr Georgievitch Levchin",
-    "Aschoff [Ctesse d']",
-    "Gallot, Jacques-Ferdinand",
-    "Barbeyrac, Jean",
-    "Sherlock, Thomas",
-    "Liomin, Chrétien Louis",
-    "Day, Thomas",
+    "Laisse Mme de",
+    "Jesse Ramsden"
+    "Anton Francesco Grazzini"
+    "Antoine-Adrien Lamourette"
+    "William Black"
+    "Jean-Jacques Barthélemy"
+    "Norberto Caimo"
+    "Nathaniel William Wraxall"
+    "Marin-Jacques-Clair Robert"
+    "Pierre Jean-Baptiste Legrand d'Aussy"
+    "Françoise-Louise Pont-Wullyamoz"
+    "Friedrich von der Trenck"
+    "Jean-Nicolas-Étienne baron de Bock"
+    "Francisco José Freire"
+    "Antoine de Cournand"
+    "François Armand Gervaise"
+    "Luis José Velázquez de Velasco"
+    "Nicolais Roman"
+    "David Christoph Seybold"
+    "Henri d'Aumerie Henri de Saint-Ignace"
+    "Joseph-Marie Lequinio"
+    "Georg Ernst Stahl"
+    "Pierre Hunauld"
+    "Johann Friedrich von Herrenschwand"
+    "Anton von Störck"
+    "David Durand"
+    "Pierre Daudé"
+    "Mathieu-Antoine Bouchaud"
+    "Hugh Kelly"
+    "George Colman"
+    "David de Pury"
+    "Jean de Pechméja"
+    "Jean-Louis Natthey"
+    "Philippe Pot"
+    "Guillaume-Alexandre de Mehegan"
+    "François-Paul Barletti de Saint-Paul"
+    "Johann Timotheus Hermes"
+    "Helferich Peter Sturz"
+    "Petr Georgievitch Levchin Platon"
+    "Aschoff Ctesse d'",
+    "Jacques-Ferdinand Gallot"
+    "Jean Barbeyrac"
+    "Thomas Sherlock"
+    "Chrétien Louis Liomin"
+    "Thomas Day"
     "Taillade d'Hervilliers",
-    "Du Paty De Clam, Louis Charles Mercier",
-    "Potevin, Jean Charles",
-    "Picart, Bernard",
-    "Poncelin de La Roche-Tilhac, Jean-Charles",
-    "Forbonnais, François Véron Duverger [de]",
-    "Brunet de Baines, P. N.",
-    "Lawrence, Herbert",
+    "Louis Charles Mercier Du Paty De Clam"
+    "Jean Charles Potevin"
+    "Bernard Picart"
+    "Jean-Charles Poncelin de La Roche-Tilhac"
+    "François Véron Duverger de Forbonnais"
+    "P. N. Brunet de Baines"
+    "Herbert Lawrence"
     "Pluchon-Destouches",
-    "Montagnac, Louis Laurent Joseph Gain [de]",
-    "Jullien des Boulmiers, Jean Auguste",
-    "Marné de Morville, Mademoiselle",
+    "Louis Laurent Joseph Gain de Montagnac"
+    "Jean Auguste Jullien des Boulmiers"
+    "Mademoiselle Marné de Morville"
     "Willemain d'Abancourt",
-    "Gaudin [Mlle de]",
+    "Gaudin Mlle de",
     "Jastainsky",
-    "Roques, Jacques Emmanuel",
-    "Raponi, Ignace Marie",
+    "Jacques Emmanuel Roques"
+    "Ignace Marie Raponi"
     "Mussitaz",
-    "Régnier, Claude",
-    "Patrat, Joseph",
-    "Maleville, Guillaume",
-    "Vollmoeller, Johann Georg",
-    "Gelabert, Melchior",
-    "Salamó, Simon",
-    "Lo-Looz, Robert [chevalier de]",
-    "Reid, Thomas",
-    "Roederer, Johann Gottfried",
-    "Ritter, Jean-Louis",
-    "Desenne, Alexandre Joseph",
-    "Bourignon, François-Marie",
-    "Rosa, Salvatore",
+    "Claude Régnier"
+    "Joseph Patrat"
+    "Guillaume Maleville"
+    "Johann Georg Vollmoeller"
+    "Melchior Gelabert"
+    "Simon Salamó"
+    "Robert chevalier de Lo-Looz"
+    "Thomas Reid"
+    "Johann Gottfried Roederer"
+    "Jean-Louis Ritter"
+    "Alexandre Joseph Desenne"
+    "François-Marie Bourignon"
+    "Salvatore Rosa"
     "Pelosi",
-    "Rösler, Johann Eberhard",
-    "Young, Arthur",
-    "Arbuthnot, John",
-    "Gastellier, René-Georges",
-    "Saavedra Fajardo, Diego",
-    "Malherbe, François [de]",
-    "Chappell, William",
-    "Allestree, Richard",
-    "Cramer, Jean Gabriel",
-    "Richard de Hautesierck, François-Marie-Claude",
-    "Mayet, Étienne",
-    "Chaulieu, Guillaume Amfrye [de]",
-    "Longuerue, Louis Du Four [de]",
-    "Lombard, Claude Antoine",
-    "Cochin, Henri",
-    "Tacitus, Cornelius",
-    "Craig, William",
-    "Villette, Charles-Michel [Marquis de]",
-    "Rosenberg, Ernst Moritz [von]",
-    "Hooke, Luke Joseph",
-    "Hooke, Nathaniel",
-    "Casanova, Giovanni Giacomo",
-    "Malouet, Pierre-Victor",
-    "Pannard, Charles-François",
-    "Parmentier, René",
-    "Gualtieri, Niccolò",
-    "Ligne, Charles Joseph [de]",
-    "Lemaire, Henri",
+    "Johann Eberhard Rösler"
+    "Arthur Young"
+    "John Arbuthnot"
+    "René-Georges Gastellier"
+    "Diego Saavedra Fajardo"
+    "François de Malherbe"
+    "William Chappell"
+    "Richard Allestree"
+    "Jean Gabriel Cramer"
+    "François-Marie-Claude Richard de Hautesierck"
+    "Étienne Mayet"
+    "Guillaume Amfrye de Chaulieu"
+    "Louis Du Four de Longuerue"
+    "Claude Antoine Lombard"
+    "Henri Cochin"
+    "Cornelius Tacitus"
+    "William Craig"
+    "Charles-Michel Marquis de Villette"
+    "Ernst Moritz von Rosenberg"
+    "Luke Joseph Hooke"
+    "Nathaniel Hooke"
+    "Giovanni Giacomo Casanova"
+    "Pierre-Victor Malouet"
+    "Charles-François Pannard"
+    "René Parmentier"
+    "Niccolò Gualtieri"
+    "Charles Joseph de Ligne"
+    "Henri Lemaire"
     "Coutan",
-    "Durival, Jean-Baptiste-Luton",
-    "Genet, Edmond Charles [fils]",
-    "Wittelieb [von]",
+    "Jean-Baptiste-Luton Durival"
+    "Edmond Charles fils Genet"
+    "Wittelieb von",
     "Pompeius Trogus",
-    "Mesmont, Germain-Hyacinthe Romance [Marquis de] (translator)",
-    "Ziegler, Hans Kaspar",
-    "Clément, Denis Xavier",
-    "Éprémesnil, J. J. Duval [d']",
-    "Crusius, Leipzig",
-    "Elie de Beaumont, Anne-Louise Dumesnil-Morin [Mme]",
-    "Cartwright, H. [Mrs]",
-    "Halde, Jean-Baptiste [du]",
-    "Montluc, Blaise [de]",
+    "Germain-Hyacinthe Romance Marquis de (translator) Mesmont"
+    "Hans Kaspar Ziegler"
+    "Denis Xavier Clément"
+    "J. J. Duval d'Éprémesnil"
+    "Leipzig Crusius"
+    "Anne-Louise Dumesnil-Morin Mme Elie de Beaumont"
+    "H. Mrs Cartwright"
+    "Jean-Baptiste du Halde"
+    "Blaise de Montluc"
     "Bouton",
-    "Seneca, Lucuis Annaeus",
+    "Lucuis Annaeus Seneca"
     "Bousquet",
-    "Guijon, Jacques",
-    "Gaigne [chevalier de]",
-    "Stanislas II [roi de Pologne]",
-    "Calvet, Esprit-Claude-François",
-    "Chambeau, Jean-Louis",
-    "Nicole, Pierre",
-    "Louis, Antoine",
+    "Jacques Guijon"
+    "Gaigne chevalier de",
+    "Stanislas II roi de Pologne",
+    "Esprit-Claude-François Calvet"
+    "Jean-Louis Chambeau"
+    "Pierre Nicole"
+    "Antoine Louis"
     "Van Effen",
     "Samson",
-    "Des Essarts, A.",
+    "A. Des Essarts"
     "Dumangin",
-    "Bacher, Alexandre",
+    "Alexandre Bacher"
     "Favart",
-    "Mercier, J. B.",
-    "Beausobre, C. L. [de]",
-    "Hughes, Anne",
-    "Cantwell, André-Samuel-Michel",
-    "Midy-Héron, Pierre-Nicolas",
-    "Riegger, Joseph Anton Stephan [von]",
-    "Madden, Samuel",
-    "Vanière, Jacques",
-    "Saint-Simon, Pierre Poan [de]",
-    "Koch, Johannes Heinrich",
-    "Taylor, John [of Norwich]",
-    "Paul of Tarsus, [Saint]",
-    "Schäffer, Johann Gottlieb",
-    "Ginet, N.",
-    "Richter, Georg Gottlob",
-    "Oberlin, Jeremias Jacobus",
-    "Rautenstrauch, Johannes Ludovicus",
-    "Haasius, Georgius Zacharias",
-    "Zippelius, Christophorus",
-    "Jaubert, Nicolas-Antoine",
-    "Jouvency, Joseph [de]",
-    "Combalusier, François de Paule",
-    "Vignola, Jacopo Barozzi [da]",
-    "Frossard, M. B. S.",
-    "Sanlecque, Louis [de]",
-    "Wycherley, A. M.",
-    "Shaw, Peter",
-    "Valcourt [Mlle]",
-    "LeBret, Johann Friedrich",
-    "Pfennig, Johann Christoph",
-    "Effenbarth, Hermann Gottfried",
+    "J. B. Mercier"
+    "C. L. de Beausobre"
+    "Anne Hughes"
+    "André-Samuel-Michel Cantwell"
+    "Pierre-Nicolas Midy-Héron"
+    "Joseph Anton Stephan von Riegger"
+    "Samuel Madden"
+    "Jacques Vanière"
+    "Pierre Poan de Saint-Simon"
+    "Johannes Heinrich Koch"
+    "John of Norwich Taylor"
+    "Saint Paul of Tarsus"
+    "Johann Gottlieb Schäffer"
+    "N. Ginet"
+    "Georg Gottlob Richter"
+    "Jeremias Jacobus Oberlin"
+    "Johannes Ludovicus Rautenstrauch"
+    "Georgius Zacharias Haasius"
+    "Christophorus Zippelius"
+    "Nicolas-Antoine Jaubert"
+    "Joseph de Jouvency"
+    "François de Paule Combalusier"
+    "Jacopo Barozzi da Vignola"
+    "M. B. S. Frossard"
+    "Louis de Sanlecque"
+    "A. M. Wycherley"
+    "Peter Shaw"
+    "Valcourt Mlle",
+    "Johann Friedrich LeBret"
+    "Johann Christoph Pfennig"
+    "Hermann Gottfried Effenbarth"
     "Du Marsais",
-    "Jung-Stilling, Johann Heinrich",
-    "Bahrdt, Carl Friedrich",
-    "Roberts, Henry",
-    "Webber, John",
-    "La Quintinie, Jean [de]",
-    "Travenol, Louis",
-    "La Suze, Henriette de Coligny [comtesse de]",
-    "Dow, Alexander",
-    "Ferichta, Mohammed Qacim",
-    "Pellisson-Fontanier, Paul",
-    "Desrue [abbé]",
-    "Perrault, Claude",
-    "Nogaret, François-Félix",
-    "Cailly, Jacques de",
-    "Desmarets, Jean",
-    "Bertrand, Jean-Elie",
-    "Lovric, Ivan",
-    "Helvétius, Jean-Adrien"
+    "Johann Heinrich Jung-Stilling"
+    "Carl Friedrich Bahrdt"
+    "Henry Roberts"
+    "John Webber"
+    "Jean de La Quintinie"
+    "Louis Travenol"
+    "Henriette de Coligny comtesse de La Suze"
+    "Alexander Dow"
+    "Mohammed Qacim Ferichta"
+    "Paul Pellisson-Fontanier"
+    "Desrue abbé",
+    "Claude Perrault"
+    "François-Félix Nogaret"
+    "Jacques de Cailly"
+    "Jean Desmarets"
+    "Jean-Elie Bertrand"
+    "Ivan Lovric"
+    "Jean-Adrien Helvétius"
   ]
 }

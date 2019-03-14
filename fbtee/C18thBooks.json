@@ -14,8 +14,8 @@
           "pages": 44,
           "volumes": 1,
           "authors": [
-            "Beccaria, César Bonesana [marquis de]",
-            "Comparet, Jean-Antoine"
+            "César Bonesana marquis de Beccaria",
+            "Jean-Antoine Comparet"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -41,8 +41,8 @@
           "pages": 851,
           "volumes": 3,
           "authors": [
-            "Addison, Joseph",
-            "Açarq, Jean-Pierre [d']"
+            "Joseph Addison",
+            "Jean-Pierre d'Açarq"
           ],
           "publisher": {
             "name": "Société Littéraire et Typographique de Yverdon",
@@ -89,10 +89,10 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Nicolai, Friedrich",
-            "Thümmel, Moritz August [von]",
-            "Huber, Michael",
-            "Bertrand, Jean-Elie"
+            "Friedrich Nicolai",
+            "Moritz August von Thümmel",
+            "Michael Huber",
+            "Jean-Elie Bertrand"
           ]
         },
         "bk0002291": {
@@ -100,10 +100,10 @@
           "pages": 1004,
           "volumes": 4,
           "authors": [
-            "Nicolai, Friedrich",
-            "Thümmel, Moritz August [von]",
-            "Huber, Michael",
-            "Bertrand, Jean-Elie"
+            "Friedrich Nicolai",
+            "Moritz August von Thümmel",
+            "Michael Huber",
+            "Jean-Elie Bertrand"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -114,10 +114,10 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Nicolai, Friedrich",
-            "Thümmel, Moritz August [von]",
-            "Huber, Michael",
-            "Bertrand, Jean-Elie"
+            "Friedrich Nicolai",
+            "Moritz August von Thümmel",
+            "Michael Huber",
+            "Jean-Elie Bertrand"
           ]
         }
       }
@@ -135,7 +135,7 @@
           "type": "Livres en Société: STN joint editions",
           "volumes": 1,
           "authors": [
-            "Büsching, Anton-Friedrich"
+            "Anton-Friedrich Büsching"
           ],
           "publisher": {
             "name": "Libraires associés",
@@ -156,8 +156,8 @@
           "pages": 331,
           "volumes": 1,
           "authors": [
-            "Boškovic, Ruder Josip",
-            "Hennin, P.-M."
+            "Ruder Josip Boškovic",
+            "P.-M. Hennin"
           ],
           "publisher": {
             "name": "Grasset",
@@ -183,7 +183,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Catherine II, Empress of Russia"
+            "Empress of Russia Catherine II"
           ]
         }
       },
@@ -202,7 +202,7 @@
           "pages": 87,
           "volumes": 1,
           "authors": [
-            "Cook, John"
+            "John Cook"
           ],
           "publisher": {
             "name": "F.-B. de Felice",
@@ -263,8 +263,8 @@
           "pages": 484,
           "volumes": 1,
           "authors": [
-            "Forbes, Duncan [of Culloden]",
-            "Houbigant, Charles-François"
+            "Duncan of Culloden Forbes",
+            "Charles-François Houbigant"
           ],
           "publisher": {
             "name": "Louis-Joseph Berthoud",
@@ -291,7 +291,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Heuzet, Jean"
+            "Jean Heuzet"
           ]
         }
       }
@@ -310,7 +310,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Pope, Alexander"
+            "Alexander Pope"
           ]
         }
       }
@@ -329,8 +329,8 @@
           "pages": 315,
           "volumes": 1,
           "authors": [
-            "Wildman, Thomas",
-            "Soresi, Pier-Domenico"
+            "Thomas Wildman",
+            "Pier-Domenico Soresi"
           ],
           "publisher": {
             "name": "frères Reycends",
@@ -353,7 +353,7 @@
           "pages": 186,
           "volumes": 1,
           "authors": [
-            "Saavedra Fajardo, Diego"
+            "Diego Saavedra Fajardo"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -376,8 +376,8 @@
           "pages": 371,
           "volumes": 1,
           "authors": [
-            "Seigneux de Correvon, Gabriel",
-            "Risi, Paul"
+            "Gabriel Seigneux de Correvon",
+            "Paul Risi"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -402,8 +402,8 @@
           "pages": 403,
           "volumes": 1,
           "authors": [
-            "Verri, Pietro",
-            "Mingard, Gabriel-Jean-Henri"
+            "Pietro Verri",
+            "Gabriel-Jean-Henri Mingard"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -425,9 +425,9 @@
           "pages": 236,
           "volumes": 1,
           "authors": [
-            "Diderot, Denis",
-            "Gessner, Salomon",
-            "Meister, Jakob Heinrich"
+            "Denis Diderot",
+            "Salomon Gessner",
+            "Jakob Heinrich Meister"
           ],
           "publisher": {
             "address": "London"
@@ -437,7 +437,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon"
+            "Salomon Gessner"
           ]
         }
       }
@@ -456,8 +456,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Brooke, Frances Moore",
-            "Robinet, Jean-Baptiste-René"
+            "Frances Moore Brooke",
+            "Jean-Baptiste-René Robinet"
           ]
         }
       }
@@ -485,7 +485,7 @@
           "pages": 79,
           "volumes": 1,
           "authors": [
-            "Watson, Richard"
+            "Richard Watson"
           ],
           "publisher": {
             "address": "London"
@@ -510,8 +510,8 @@
           "volumes": 1,
           "authors": [
             "Perrault",
-            "Staehlin-Storcksburg, Jakob [von]",
-            "Richou, Louis Joseph"
+            "Jakob von Staehlin-Storcksburg",
+            "Louis Joseph Richou"
           ],
           "publisher": {
             "name": "J.-G. Treuttel",
@@ -531,8 +531,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Raff, Georg Christian",
-            "Perrault, Claude"
+            "Georg Christian Raff",
+            "Claude Perrault"
           ],
           "publisher": {
             "name": "Amand König",
@@ -553,9 +553,9 @@
           "pages": 237,
           "volumes": 1,
           "authors": [
-            "Wall, Anton",
-            "Polier, Marie Élisabeth [de]",
-            "Heyne, Christian Leberecht"
+            "Anton Wall",
+            "Marie Élisabeth de Polier",
+            "Christian Leberecht Heyne"
           ],
           "publisher": {
             "name": "Mourer cadet",
@@ -574,8 +574,8 @@
           "type": "Other Swiss editions",
           "volumes": 14,
           "authors": [
-            "Fielding, Henry",
-            "Smollett, Tobias George"
+            "Henry Fielding",
+            "Tobias George Smollett"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -586,8 +586,8 @@
           "type": "Other Swiss editions",
           "volumes": 14,
           "authors": [
-            "Fielding, Henry",
-            "Smollett, Tobias George"
+            "Henry Fielding",
+            "Tobias George Smollett"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -610,8 +610,8 @@
           "type": "Dutch editions",
           "volumes": 3,
           "authors": [
-            "Sturm, Christoph Christian",
-            "Brunswick-Wolfenbuttel, Élisabeth-Christine [de]"
+            "Christoph Christian Sturm",
+            "Élisabeth-Christine de Brunswick-Wolfenbuttel"
           ],
           "publisher": {
             "name": "P. F. Gosse",
@@ -635,8 +635,8 @@
           "type": "Dutch editions",
           "volumes": 3,
           "authors": [
-            "Robinet, Jean-Baptiste-René",
-            "Ridley, James"
+            "Jean-Baptiste-René Robinet",
+            "James Ridley"
           ],
           "publisher": {
             "name": "M.-M. Rey",
@@ -656,8 +656,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Hooke, Luke Joseph",
-            "Hooke, Nathaniel"
+            "Luke Joseph Hooke",
+            "Nathaniel Hooke"
           ],
           "publisher": {
             "name": "Nyon",
@@ -703,9 +703,9 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon",
-            "Turgot, Anne Robert Jacques",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Anne Robert Jacques Turgot",
+            "Michael Huber"
           ],
           "publisher": {
             "address": "Paris"
@@ -716,7 +716,7 @@
           "pages": 127,
           "volumes": 1,
           "authors": [
-            "Jacobi, Johann Georg"
+            "Johann Georg Jacobi"
           ],
           "publisher": {
             "address": "Paris"
@@ -726,7 +726,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Shakespeare, William"
+            "William Shakespeare"
           ]
         },
         "bk0000844": {
@@ -734,8 +734,8 @@
           "pages": 611,
           "volumes": 1,
           "authors": [
-            "Lefebvre de Villebrune, Jean-Baptiste",
-            "Grazzini, Anton Francesco"
+            "Jean-Baptiste Lefebvre de Villebrune",
+            "Anton Francesco Grazzini"
           ],
           "publisher": {
             "address": "Berlin"
@@ -745,7 +745,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Boccaccio, Giovanni"
+            "Giovanni Boccaccio"
           ]
         },
         "bk0001753": {
@@ -764,8 +764,8 @@
           "pages": 936,
           "volumes": 2,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -777,9 +777,9 @@
           "pages": 522,
           "volumes": 1,
           "authors": [
-            "Duhamel du Monceau, Henri Louis",
-            "Miller, Philip",
-            "Bertrand, Jean [pasteur à Orbe]"
+            "Henri Louis Duhamel du Monceau",
+            "Philip Miller",
+            "Jean pasteur à Orbe Bertrand"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -789,15 +789,15 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ]
         },
         "bk0004216": {
           "type": "French editions",
           "volumes": 10,
           "authors": [
-            "Sabatier de Castres, Antoine"
+            "Antoine Sabatier de Castres"
           ],
           "publisher": {
             "address": "London"
@@ -807,8 +807,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ],
           "publisher": {
             "address": "Lyon"
@@ -818,15 +818,15 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Angoulême, Marguerite [d']",
-            "Boccaccio, Giovanni"
+            "Marguerite d'Angoulême",
+            "Giovanni Boccaccio"
           ]
         },
         "bk0005085": {
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Boccaccio, Giovanni"
+            "Giovanni Boccaccio"
           ]
         },
         "bk0005091": {
@@ -834,11 +834,11 @@
           "pages": 323,
           "volumes": 1,
           "authors": [
-            "Meissner, August Gottlieb",
-            "Wieland, Christoph Martin",
-            "Wall, Anton",
-            "Bonneville, Nicolas [de]",
-            "Sturz, Helferich Peter"
+            "August Gottlieb Meissner",
+            "Christoph Martin Wieland",
+            "Anton Wall",
+            "Nicolas de Bonneville",
+            "Helferich Peter Sturz"
           ],
           "publisher": {
             "name": "T. Barrois",
@@ -849,8 +849,8 @@
           "type": "French editions",
           "volumes": 4,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ],
           "publisher": {
             "address": "Lyon"
@@ -860,7 +860,7 @@
           "type": "Place of publication unknown",
           "volumes": 14,
           "authors": [
-            "Metastasio, Pietro"
+            "Pietro Metastasio"
           ]
         }
       },
@@ -883,7 +883,7 @@
           "pages": 300,
           "volumes": 1,
           "authors": [
-            "Hume, David"
+            "David Hume"
           ],
           "publisher": {
             "address": "Edinburgh"
@@ -907,8 +907,8 @@
           "type": "Livres en Société: STN joint editions",
           "volumes": 3,
           "authors": [
-            "Campe, Joachim Heinrich",
-            "Junker, Georges Adam"
+            "Joachim Heinrich Campe",
+            "Georges Adam Junker"
           ],
           "publisher": {
             "name": "Libraires associés",
@@ -926,7 +926,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Lessing, Gotthold Ephraim"
+            "Gotthold Ephraim Lessing"
           ]
         }
       }
@@ -951,8 +951,8 @@
           "pages": 295,
           "volumes": 1,
           "authors": [
-            "Rutledge, Jean Jacques [chevalier]",
-            "Andrews, John"
+            "Jean Jacques chevalier Rutledge",
+            "John Andrews"
           ],
           "publisher": {
             "address": "London"
@@ -975,7 +975,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Dodsley, Robert"
+            "Robert Dodsley"
           ],
           "publisher": {
             "name": "J.J. Hellen",
@@ -1000,7 +1000,7 @@
           "pages": 156,
           "volumes": 1,
           "authors": [
-            "Lochée, Lewis"
+            "Lewis Lochée"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -1022,8 +1022,8 @@
           "pages": 511,
           "volumes": 1,
           "authors": [
-            "Spallanzani, Lazzaro",
-            "Sénebier, Jean"
+            "Lazzaro Spallanzani",
+            "Jean Sénebier"
           ],
           "publisher": {
             "name": "Barthelemy Chirol",
@@ -1044,7 +1044,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Burney, Fanny"
+            "Fanny Burney"
           ]
         }
       }
@@ -1061,8 +1061,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Coxe, William",
-            "Rieu, Henri"
+            "William Coxe",
+            "Henri Rieu"
           ],
           "publisher": {
             "name": "François Grasset & comp."
@@ -1082,7 +1082,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Campe, Joachim Heinrich"
+            "Joachim Heinrich Campe"
           ]
         }
       }
@@ -1100,8 +1100,8 @@
           "pages": 358,
           "volumes": 2,
           "authors": [
-            "Robinet, Jean-Baptiste-René",
-            "Seally, John"
+            "Jean-Baptiste-René Robinet",
+            "John Seally"
           ],
           "publisher": {
             "name": "Vve Duchesne",
@@ -1125,7 +1125,7 @@
           "pages": 252,
           "volumes": 1,
           "authors": [
-            "Langhans, Daniel"
+            "Daniel Langhans"
           ],
           "publisher": {
             "address": "Geneva; Lyon"
@@ -1152,8 +1152,8 @@
           "type": "Other Swiss editions",
           "volumes": 6,
           "authors": [
-            "Démeunier, Jean-Nicolas",
-            "Williams, John"
+            "Jean-Nicolas Démeunier",
+            "John Williams"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -1172,8 +1172,8 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Gracián, Baltasar",
-            "Courbeville, Joseph [de]"
+            "Baltasar Gracián",
+            "Joseph de Courbeville"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -1196,8 +1196,8 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Frenais, Joseph-Pierre",
-            "Wieland, Christoph Martin"
+            "Joseph-Pierre Frenais",
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "name": "J. Murray",
@@ -1208,7 +1208,7 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Wieland, Christoph Martin"
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "name": "C. de Pecker",
@@ -1231,7 +1231,7 @@
           "pages": 112,
           "volumes": 1,
           "authors": [
-            "Leopold II, Austrian Emperor"
+            "Austrian Emperor Leopold II"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -1258,8 +1258,8 @@
           "pages": 259,
           "volumes": 1,
           "authors": [
-            "Caraccioli, Louis-Antoine [de]",
-            "Bertòla De' Giorgi, Aurelio"
+            "Louis-Antoine de Caraccioli",
+            "Aurelio Bertòla De' Giorgi"
           ],
           "publisher": {
             "address": "Rotterdam"
@@ -1280,8 +1280,8 @@
           "type": "French editions",
           "volumes": 4,
           "authors": [
-            "Cullen, William",
-            "Pinel, Philippe"
+            "William Cullen",
+            "Philippe Pinel"
           ],
           "publisher": {
             "address": "Paris"
@@ -1301,7 +1301,7 @@
           "volumes": 3,
           "authors": [
             "Ammien Marcellin",
-            "Moulines, Guillaume [de]"
+            "Guillaume de Moulines"
           ],
           "publisher": {
             "address": "Lyon"
@@ -1325,7 +1325,7 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Bitaubé, Paul Jérémie",
+            "Paul Jérémie Bitaubé",
             "Homer"
           ]
         }
@@ -1344,8 +1344,8 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Wailly, Noël François [de]",
-            "Clarke, John"
+            "Noël François de Wailly",
+            "John Clarke"
           ],
           "publisher": {
             "address": "Geneva"
@@ -1355,7 +1355,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Clarke, John"
+            "John Clarke"
           ]
         }
       }
@@ -1373,7 +1373,7 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Chesterfield, Philip Dormer [4th Earl of]"
+            "Philip Dormer 4th Earl of Chesterfield"
           ]
         },
         "bk0003490": {
@@ -1381,8 +1381,8 @@
           "pages": 334,
           "volumes": 1,
           "authors": [
-            "Chesterfield, Philip Dormer [4th Earl of]",
-            "Peyron, Jean-François"
+            "Philip Dormer 4th Earl of Chesterfield",
+            "Jean-François Peyron"
           ],
           "publisher": {
             "address": "London; Paris"
@@ -1409,7 +1409,7 @@
           "pages": 32,
           "volumes": 1,
           "authors": [
-            "Hunter, William"
+            "William Hunter"
           ]
         }
       }
@@ -1430,8 +1430,8 @@
           "type": "Other Swiss editions",
           "volumes": 4,
           "authors": [
-            "Rieu, Henri",
-            "Moore, John"
+            "Henri Rieu",
+            "John Moore"
           ],
           "publisher": {
             "name": "Isaac Bardin, libraire",
@@ -1462,7 +1462,7 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Winckelmann, Johann Joachim"
+            "Johann Joachim Winckelmann"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -1504,8 +1504,8 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Gusta, Francesco",
-            "Gattel, Claude-Marie"
+            "Francesco Gusta",
+            "Claude-Marie Gattel"
           ]
         }
       },
@@ -1526,7 +1526,7 @@
           "type": "Place of publication unknown",
           "volumes": 6,
           "authors": [
-            "Galland, Antoine"
+            "Antoine Galland"
           ]
         }
       }
@@ -1552,7 +1552,7 @@
           "volumes": 1,
           "authors": [
             "Deschamps de Saucourt",
-            "Eybel, Joseph Valentin"
+            "Joseph Valentin Eybel"
           ]
         }
       }
@@ -1581,9 +1581,9 @@
           "pages": 1508,
           "volumes": 4,
           "authors": [
-            "Pope, Alexander",
+            "Alexander Pope",
             "Homer",
-            "Dacier, Anne Lefèvre"
+            "Anne Lefèvre Dacier"
           ],
           "publisher": {
             "name": "Du Villard fils et Nouffer",
@@ -1604,8 +1604,8 @@
           "pages": 282,
           "volumes": 1,
           "authors": [
-            "Brissot de Warville, Félicité",
-            "Goldsmith, Oliver"
+            "Félicité Brissot de Warville",
+            "Oliver Goldsmith"
           ],
           "publisher": {
             "name": "Belin",
@@ -1625,7 +1625,7 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Ferguson, Adam"
+            "Adam Ferguson"
           ],
           "publisher": {
             "name": "Nyon l'aîné",
@@ -1647,9 +1647,9 @@
           "type": "International editions (non-Swiss)",
           "volumes": 2,
           "authors": [
-            "Fréville, Anne-François-Joachim",
-            "Young, Arthur",
-            "Arbuthnot, John"
+            "Anne-François-Joachim Fréville",
+            "Arthur Young",
+            "John Arbuthnot"
           ],
           "publisher": {
             "name": "Nyon l'aîné",
@@ -1675,7 +1675,7 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Johnson, Samuel"
+            "Samuel Johnson"
           ],
           "publisher": {
             "name": "J.-E. Dufour et P. Roux",
@@ -1696,7 +1696,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Miller, Johann Martin",
+            "Johann Martin Miller",
             "La Vaux [de]"
           ],
           "publisher": {
@@ -1722,7 +1722,7 @@
           "pages": 360,
           "volumes": 1,
           "authors": [
-            "Sterne, Laurence"
+            "Laurence Sterne"
           ],
           "publisher": {
             "name": "Buisson",
@@ -1734,8 +1734,8 @@
           "pages": 456,
           "volumes": 1,
           "authors": [
-            "Houbigant, Charles-François",
-            "Sherlock, Thomas"
+            "Charles-François Houbigant",
+            "Thomas Sherlock"
           ],
           "publisher": {
             "name": "B. Duplain",
@@ -1757,8 +1757,8 @@
           "pages": 62,
           "volumes": 1,
           "authors": [
-            "Flores, Joseph [dom]",
-            "Grasset, François"
+            "Joseph dom Flores",
+            "François Grasset"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -1779,8 +1779,8 @@
           "pages": 439,
           "volumes": 1,
           "authors": [
-            "Denina, Carlo",
-            "Livoy, Timothée Hureau [de]"
+            "Carlo Denina",
+            "Timothée Hureau de Livoy"
           ],
           "publisher": {
             "name": "Laporte",
@@ -1802,7 +1802,7 @@
           "type": "German editions",
           "volumes": 1,
           "authors": [
-            "Jacobi, Johann Georg",
+            "Johann Georg Jacobi",
             "Armandry"
           ],
           "publisher": {
@@ -1827,9 +1827,9 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Mauvillon, Éléazar [de]",
-            "Santacilia, Jorge Juan y",
-            "Ulloa, Antonio [de]"
+            "Éléazar de Mauvillon",
+            "Jorge Juan y Santacilia",
+            "Antonio de Ulloa"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -1852,8 +1852,8 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Roberts, Henry",
-            "Webber, John"
+            "Henry Roberts",
+            "John Webber"
           ]
         }
       }
@@ -1869,11 +1869,11 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Riccoboni, Marie-Jeanne Laboras de Mézières",
-            "Moore, Edward",
-            "Murphy, Arthur",
-            "Kelly, Hugh",
-            "Colman, George"
+            "Marie-Jeanne Laboras de Mézières Riccoboni",
+            "Edward Moore",
+            "Arthur Murphy",
+            "Hugh Kelly",
+            "George Colman"
           ]
         }
       }
@@ -1893,9 +1893,9 @@
           "pages": 304,
           "volumes": 1,
           "authors": [
-            "Sinner de Ballaigues, Jean-Rudolphe",
-            "Dow, Alexander",
-            "Ferichta, Mohammed Qacim"
+            "Jean-Rudolphe Sinner de Ballaigues",
+            "Alexander Dow",
+            "Mohammed Qacim Ferichta"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -1922,7 +1922,7 @@
           "pages": 838,
           "volumes": 2,
           "authors": [
-            "Manstein, Christoph Hermann [von]"
+            "Christoph Hermann von Manstein"
           ],
           "publisher": {
             "name": "Jean Marie Bruyset",
@@ -1944,7 +1944,7 @@
           "pages": 492,
           "volumes": 1,
           "authors": [
-            "Lennox, Charlotte"
+            "Charlotte Lennox"
           ],
           "publisher": {
             "name": "Libraires associés",
@@ -1967,7 +1967,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Moser, Friedrich Karl [von]"
+            "Friedrich Karl von Moser"
           ]
         }
       }
@@ -1988,7 +1988,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Craig, William"
+            "William Craig"
           ],
           "publisher": {
             "name": "David Bürgkli, in Verlag Heinrich Steiners und Comp",
@@ -2011,12 +2011,12 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Pope, Alexander",
-            "Am Ende, Johann Joachim Gottlob",
-            "Adami, Antonio Filippo",
-            "Du Resnel du Bellay, Jean-François",
-            "Kretsch, Heinrich Christian",
-            "Schweighäuser, Johannes"
+            "Alexander Pope",
+            "Johann Joachim Gottlob Am Ende",
+            "Antonio Filippo Adami",
+            "Jean-François Du Resnel du Bellay",
+            "Heinrich Christian Kretsch",
+            "Johannes Schweighäuser"
           ]
         }
       }
@@ -2037,7 +2037,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Sterne, Laurence"
+            "Laurence Sterne"
           ]
         }
       }
@@ -2057,7 +2057,7 @@
           "type": "German editions",
           "volumes": 1,
           "authors": [
-            "Madden, Samuel"
+            "Samuel Madden"
           ],
           "publisher": {
             "address": "Leipzig"
@@ -2076,7 +2076,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Velázquez de Velasco, Luis José"
+            "Luis José Velázquez de Velasco"
           ]
         }
       }
@@ -2094,8 +2094,8 @@
           "pages": 454,
           "volumes": 1,
           "authors": [
-            "Zimmermann, Johann Georg [von]",
-            "Lefebvre de Villebrune, Jean-Baptiste"
+            "Johann Georg von Zimmermann",
+            "Jean-Baptiste Lefebvre de Villebrune"
           ],
           "publisher": {
             "name": "Vincent",
@@ -2121,8 +2121,8 @@
           "pages": 528,
           "volumes": 1,
           "authors": [
-            "Bowles, William",
-            "Flavigny, Gratien-Jean-Baptiste-Louis"
+            "William Bowles",
+            "Gratien-Jean-Baptiste-Louis Flavigny"
           ],
           "publisher": {
             "name": "L. Cellot et Jombert fils jeune",
@@ -2157,11 +2157,11 @@
           "pages": 1176,
           "volumes": 3,
           "authors": [
-            "Diderot, Denis",
-            "Pascal, Blaise",
-            "Robinet, Jean-Baptiste-René",
-            "Shaftesbury, Anthony Ashley Cooper [compte de]",
-            "Coste, Pierre",
+            "Denis Diderot",
+            "Blaise Pascal",
+            "Jean-Baptiste-René Robinet",
+            "Anthony Ashley Cooper compte de Shaftesbury",
+            "Pierre Coste",
             "Van Effen",
             "Samson"
           ],
@@ -2184,15 +2184,15 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Prévost, Antoine François",
-            "Richardson, Samuel"
+            "Antoine François Prévost",
+            "Samuel Richardson"
           ]
         },
         "bk0003089": {
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Richardson, Samuel"
+            "Samuel Richardson"
           ]
         }
       },
@@ -2213,7 +2213,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Sarpi, Paolo"
+            "Paolo Sarpi"
           ]
         }
       }
@@ -2227,7 +2227,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Koppen, Karl-Friedrich"
+            "Karl-Friedrich Koppen"
           ]
         }
       },
@@ -2252,8 +2252,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Hermilly, Vaquette [d']",
-            "Sorriba, Pedro Rodríguez Campomanes y"
+            "Vaquette d'Hermilly",
+            "Pedro Rodríguez Campomanes y Sorriba"
           ],
           "publisher": {
             "address": "Madrid"
@@ -2278,7 +2278,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Adelung, Johann Christoph"
+            "Johann Christoph Adelung"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -2305,7 +2305,7 @@
           "volumes": 1,
           "authors": [
             "Thomas à Kempis",
-            "Poiret, Pierre"
+            "Pierre Poiret"
           ],
           "publisher": {
             "name": "J. P. Heubach",
@@ -2338,7 +2338,7 @@
           "type": "Place of publication unknown",
           "volumes": 5,
           "authors": [
-            "Stackhouse, Thomas"
+            "Thomas Stackhouse"
           ]
         }
       }
@@ -2354,7 +2354,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Dalrymple, John"
+            "John Dalrymple"
           ],
           "publisher": {
             "address": "London"
@@ -2377,7 +2377,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Lerber, Sigismond Louis"
+            "Sigismond Louis Lerber"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -2389,7 +2389,7 @@
           "pages": 109,
           "volumes": 1,
           "authors": [
-            "Lerber, Sigismond Louis"
+            "Sigismond Louis Lerber"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -2415,8 +2415,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Frenais, Joseph-Pierre",
-            "Sterne, Laurence"
+            "Joseph-Pierre Frenais",
+            "Laurence Sterne"
           ]
         }
       }
@@ -2434,8 +2434,8 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Spallanzani, Lazzaro",
-            "Sénebier, Jean"
+            "Lazzaro Spallanzani",
+            "Jean Sénebier"
           ],
           "publisher": {
             "name": "Barthelemy Chirol",
@@ -2464,7 +2464,7 @@
           "pages": 167,
           "volumes": 1,
           "authors": [
-            "Dodd, William"
+            "William Dodd"
           ],
           "publisher": {
             "name": "Société Typographique de Moudon",
@@ -2476,7 +2476,7 @@
           "pages": 204,
           "volumes": 1,
           "authors": [
-            "Dodd, William"
+            "William Dodd"
           ],
           "publisher": {
             "name": "D. J. Changuion",
@@ -2499,8 +2499,8 @@
           "pages": 106,
           "volumes": 1,
           "authors": [
-            "Chapuis, Marc",
-            "Lovric, Ivan"
+            "Marc Chapuis",
+            "Ivan Lovric"
           ],
           "publisher": {
             "address": "Berne"
@@ -2523,8 +2523,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Burnet, Thomas",
-            "Daudé, Pierre"
+            "Thomas Burnet",
+            "Pierre Daudé"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -2552,8 +2552,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Annet, Peter",
-            "Holbach, Paul Henri Dietrich [d']"
+            "Peter Annet",
+            "Paul Henri Dietrich d'Holbach"
           ]
         }
       },
@@ -2571,8 +2571,8 @@
           "type": "French editions",
           "volumes": 10,
           "authors": [
-            "Targe, Jean-Baptiste",
-            "Barrow, John"
+            "Jean-Baptiste Targe",
+            "John Barrow"
           ],
           "publisher": {
             "name": "Hérissant",
@@ -2601,8 +2601,8 @@
           "pages": 122,
           "volumes": 1,
           "authors": [
-            "Basedow, Johann Bernhard",
-            "Bourgoing, Jean-François [de]"
+            "Johann Bernhard Basedow",
+            "Jean-François de Bourgoing"
           ],
           "publisher": {
             "name": "Société Littéraire et Typographique de Yverdon",
@@ -2625,8 +2625,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Beccaria, César Bonesana [marquis de]",
-            "Morellet, André"
+            "César Bonesana marquis de Beccaria",
+            "André Morellet"
           ]
         }
       },
@@ -2648,8 +2648,8 @@
           "type": "Other Swiss editions",
           "volumes": 6,
           "authors": [
-            "Blair, Hugh",
-            "Frossard, M. B. S."
+            "Hugh Blair",
+            "M. B. S. Frossard"
           ],
           "publisher": {
             "name": "F. Lacombe et Daniel Bonfils; François Lacombe; Louis Luquiens",
@@ -2674,8 +2674,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Boissier de la Croix de Sauvages, François",
-            "Nicolas, Jean"
+            "François Boissier de la Croix de Sauvages",
+            "Jean Nicolas"
           ],
           "publisher": {
             "name": "Hérissant le fils",
@@ -2686,8 +2686,8 @@
           "type": "French editions",
           "volumes": 10,
           "authors": [
-            "Boissier de la Croix de Sauvages, François",
-            "Nicolas, Jean"
+            "François Boissier de la Croix de Sauvages",
+            "Jean Nicolas"
           ],
           "publisher": {
             "name": "Jean Marie Bruyset",
@@ -2713,8 +2713,8 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Brown, John",
-            "Chais, Charles"
+            "John Brown",
+            "Charles Chais"
           ],
           "publisher": {
             "name": "P. Gosse junior",
@@ -2739,7 +2739,7 @@
           "type": "Other Swiss editions",
           "volumes": 5,
           "authors": [
-            "Buchan, William"
+            "William Buchan"
           ],
           "publisher": {
             "address": "Paris"
@@ -2749,7 +2749,7 @@
           "type": "International editions (non-Swiss)",
           "volumes": 5,
           "authors": [
-            "Buchan, William"
+            "William Buchan"
           ],
           "publisher": {
             "name": "G. Desprez",
@@ -2769,8 +2769,8 @@
           "type": "Other Swiss editions",
           "volumes": 6,
           "authors": [
-            "Burney, Fanny",
-            "Renfner, Henri"
+            "Fanny Burney",
+            "Henri Renfner"
           ],
           "publisher": {
             "name": "Libraires associés; Paul Barde",
@@ -2795,8 +2795,8 @@
           "pages": 315,
           "volumes": 1,
           "authors": [
-            "Camoëns, Louis",
-            "La Harpe, Jean François [de]"
+            "Louis Camoëns",
+            "Jean François de La Harpe"
           ],
           "publisher": {
             "address": "London"
@@ -2819,7 +2819,7 @@
           "pages": 513,
           "volumes": 1,
           "authors": [
-            "Campe, Joachim Heinrich"
+            "Joachim Heinrich Campe"
           ],
           "publisher": {
             "address": "Paris"
@@ -2830,7 +2830,7 @@
           "pages": 514,
           "volumes": 1,
           "authors": [
-            "Campe, Joachim Heinrich"
+            "Joachim Heinrich Campe"
           ],
           "publisher": {
             "name": "F. Seitzer & compagnie",
@@ -2858,8 +2858,8 @@
           "pages": 472,
           "volumes": 1,
           "authors": [
-            "Carver, Jonathan",
-            "Montucla, Jean-Étienne"
+            "Jonathan Carver",
+            "Jean-Étienne Montucla"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -2877,8 +2877,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Celsius, Olof O.",
-            "Genet, Edmond Charles [fils]"
+            "Olof O. Celsius",
+            "Edmond Charles fils Genet"
           ],
           "publisher": {
             "address": "Paris"
@@ -2899,8 +2899,8 @@
           "type": "French editions",
           "volumes": 6,
           "authors": [
-            "Cervantes Saavedra, Miguel [de]",
-            "Filleau de Saint-Martin, François"
+            "Miguel de Cervantes Saavedra",
+            "François Filleau de Saint-Martin"
           ],
           "publisher": {
             "name": "A. Le Roy",
@@ -2911,14 +2911,14 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Cervantes Saavedra, Miguel [de]"
+            "Miguel de Cervantes Saavedra"
           ]
         },
         "bk0005357": {
           "type": "Place of publication unknown",
           "volumes": 6,
           "authors": [
-            "Cervantes Saavedra, Miguel [de]"
+            "Miguel de Cervantes Saavedra"
           ]
         }
       }
@@ -2936,7 +2936,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Chorier, Nicolas"
+            "Nicolas Chorier"
           ]
         }
       },
@@ -2955,7 +2955,7 @@
           "pages": 365,
           "volumes": 1,
           "authors": [
-            "Claproth, Johann Christian"
+            "Johann Christian Claproth"
           ],
           "publisher": {
             "name": "J. P. Heubach",
@@ -2986,8 +2986,8 @@
           "pages": 223,
           "volumes": 1,
           "authors": [
-            "Collins, Anthony",
-            "Holbach, Paul Henri Dietrich [d']"
+            "Anthony Collins",
+            "Paul Henri Dietrich d'Holbach"
           ],
           "publisher": {
             "address": "London"
@@ -2997,8 +2997,8 @@
           "type": "British editions",
           "volumes": 1,
           "authors": [
-            "Collins, Anthony",
-            "Holbach, Paul Henri Dietrich [d']"
+            "Anthony Collins",
+            "Paul Henri Dietrich d'Holbach"
           ],
           "publisher": {
             "address": "London"
@@ -3021,8 +3021,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Diderot, Denis",
-            "Shaftesbury, Anthony Ashley Cooper [compte de]"
+            "Denis Diderot",
+            "Anthony Ashley Cooper compte de Shaftesbury"
           ]
         }
       },
@@ -3042,8 +3042,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Coyer, Gabriel-François",
-            "Blackstone, William"
+            "Gabriel-François Coyer",
+            "William Blackstone"
           ],
           "publisher": {
             "name": "Knapen",
@@ -3066,7 +3066,7 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Crèvecoeur, St. John de"
+            "St. John de Crèvecoeur"
           ],
           "publisher": {
             "name": "J.-E. Dufour et P. Roux",
@@ -3091,9 +3091,9 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Crugot, Martin",
-            "Haller, Albrecht [von]",
-            "Seigneux de Correvon, Gabriel"
+            "Martin Crugot",
+            "Albrecht von Haller",
+            "Gabriel Seigneux de Correvon"
           ]
         }
       }
@@ -3108,7 +3108,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Denina, Carlo",
+            "Carlo Denina",
             "Jardin [abbé]"
           ]
         }
@@ -3128,8 +3128,8 @@
           "pages": 574,
           "volumes": 1,
           "authors": [
-            "Doddridge, M.P.",
-            "Vernède, Jean-Scipion"
+            "M.P. Doddridge",
+            "Jean-Scipion Vernède"
           ],
           "publisher": {
             "name": "Jean-Christoph Heilmann",
@@ -3161,8 +3161,8 @@
           "type": "Belgian editions",
           "volumes": 1,
           "authors": [
-            "Brissot de Warville, Félicité",
-            "Dodsley, Robert"
+            "Félicité Brissot de Warville",
+            "Robert Dodsley"
           ],
           "publisher": {
             "address": "London"
@@ -3172,9 +3172,9 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Dodsley, Robert",
-            "Chesterfield, Philip Dormer [4th Earl of]",
-            "Dhaulon, Sieur"
+            "Robert Dodsley",
+            "Philip Dormer 4th Earl of Chesterfield",
+            "Sieur Dhaulon"
           ]
         }
       }
@@ -3190,8 +3190,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Echard, Laurence",
-            "Ladvocat, Jean-Baptiste"
+            "Laurence Echard",
+            "Jean-Baptiste Ladvocat"
           ]
         }
       }
@@ -3215,8 +3215,8 @@
           "pages": 276,
           "volumes": 1,
           "authors": [
-            "Ferguson, Adam",
-            "Reverdil, Élie Salomon François"
+            "Adam Ferguson",
+            "Élie Salomon François Reverdil"
           ],
           "publisher": {
             "name": "C. Philibert et B. Chirol",
@@ -3237,7 +3237,7 @@
           "pages": 1044,
           "volumes": 3,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -3248,7 +3248,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ]
         }
       }
@@ -3266,7 +3266,7 @@
           "pages": 560,
           "volumes": 2,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -3277,7 +3277,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ]
         }
       }
@@ -3298,7 +3298,7 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -3309,7 +3309,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ]
         }
       }
@@ -3327,7 +3327,7 @@
           "pages": 380,
           "volumes": 1,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -3353,7 +3353,7 @@
           "pages": 249,
           "volumes": 1,
           "authors": [
-            "Fielding, Henry",
+            "Henry Fielding",
             "Kauffmann [interpreter at the Châtelet]"
           ],
           "publisher": {
@@ -3376,7 +3376,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Fielding, Sarah"
+            "Sarah Fielding"
           ]
         }
       }
@@ -3393,7 +3393,7 @@
           "pages": 491,
           "volumes": 2,
           "authors": [
-            "Fielding, Sarah"
+            "Sarah Fielding"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -3420,8 +3420,8 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Estienne, Robert",
-            "Fordyce, James"
+            "Robert Estienne",
+            "James Fordyce"
           ],
           "publisher": {
             "name": "J.-E. Dufour et P. Roux",
@@ -3445,16 +3445,16 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Forteguerri, Niccolò",
-            "Duperrier-Dumouriez, Anne-François "
+            "Niccolò Forteguerri",
+            "Anne-François  Duperrier-Dumouriez"
           ]
         },
         "bk0002932": {
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Forteguerri, Niccolò",
-            "Duperrier-Dumouriez, Anne-François "
+            "Niccolò Forteguerri",
+            "Anne-François  Duperrier-Dumouriez"
           ]
         }
       }
@@ -3475,9 +3475,9 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Franco, Niccolò",
-            "Lampsaque, N.",
-            "Aretino, Pietro"
+            "Niccolò Franco",
+            "N. Lampsaque",
+            "Pietro Aretino"
           ]
         }
       },
@@ -3495,8 +3495,8 @@
           "pages": 224,
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ],
           "publisher": {
             "name": "Jean Marie Bruyset",
@@ -3507,8 +3507,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon",
-            "Huber, Michael"
+            "Salomon Gessner",
+            "Michael Huber"
           ]
         }
       }
@@ -3529,7 +3529,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Goldsmith, Oliver"
+            "Oliver Goldsmith"
           ]
         }
       }
@@ -3546,7 +3546,7 @@
           "type": "Livres en Société: STN joint editions",
           "volumes": 1,
           "authors": [
-            "Gottsched, Johann Christoph"
+            "Johann Christoph Gottsched"
           ],
           "publisher": {
             "name": "aux Dépens de la Société",
@@ -3565,8 +3565,8 @@
           "type": "French editions",
           "volumes": 10,
           "authors": [
-            "Hale, Thomas",
-            "Dupuy-Demportes, Jean-Baptiste"
+            "Thomas Hale",
+            "Jean-Baptiste Dupuy-Demportes"
           ],
           "publisher": {
             "name": "Durand; P.-G. Simon",
@@ -3590,7 +3590,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Halifax, George Savile"
+            "George Savile Halifax"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -3616,8 +3616,8 @@
           "pages": 205,
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Seigneux de Correvon, Gabriel"
+            "Albrecht von Haller",
+            "Gabriel Seigneux de Correvon"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -3640,8 +3640,8 @@
           "pages": 352,
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Tissot, Samuel Auguste André David"
+            "Albrecht von Haller",
+            "Samuel Auguste André David Tissot"
           ],
           "publisher": {
             "name": "Marc-Mic. Bousquet",
@@ -3663,8 +3663,8 @@
           "pages": 369,
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Seigneux de Correvon, Gabriel"
+            "Albrecht von Haller",
+            "Gabriel Seigneux de Correvon"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -3675,8 +3675,8 @@
           "type": "German editions",
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Seigneux de Correvon, Gabriel"
+            "Albrecht von Haller",
+            "Gabriel Seigneux de Correvon"
           ],
           "publisher": {
             "address": "Francfort"
@@ -3698,7 +3698,7 @@
           "type": "International editions (non-Swiss)",
           "volumes": 2,
           "authors": [
-            "Hamilton, Mary"
+            "Mary Hamilton"
           ],
           "publisher": {
             "name": "Bennett et Hake; Vve Duchesne",
@@ -3725,8 +3725,8 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Hobbes, Thomas",
-            "Holbach, Paul Henri Dietrich [d']"
+            "Thomas Hobbes",
+            "Paul Henri Dietrich d'Holbach"
           ],
           "publisher": {
             "address": "London"
@@ -3754,8 +3754,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Annet, Peter",
-            "Holbach, Paul Henri Dietrich [d']"
+            "Peter Annet",
+            "Paul Henri Dietrich d'Holbach"
           ]
         }
       },
@@ -3775,7 +3775,7 @@
           "volumes": 1,
           "authors": [
             "Horace",
-            "Batteux, Charles"
+            "Charles Batteux"
           ],
           "publisher": {
             "address": "Paris"
@@ -3786,7 +3786,7 @@
           "volumes": 2,
           "authors": [
             "Horace",
-            "Batteux, Charles"
+            "Charles Batteux"
           ],
           "publisher": {
             "name": "Desaint",
@@ -3816,7 +3816,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Hübner, Johann"
+            "Johann Hübner"
           ]
         }
       }
@@ -3834,7 +3834,7 @@
           "pages": 23,
           "volumes": 1,
           "authors": [
-            "Hume, David"
+            "David Hume"
           ]
         }
       }
@@ -3854,7 +3854,7 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Kimber, Edward"
+            "Edward Kimber"
           ],
           "publisher": {
             "name": "Freres Murray",
@@ -3875,8 +3875,8 @@
           "pages": 188,
           "volumes": 1,
           "authors": [
-            "Lambert, Johann Heinrich",
-            "Mérian, Jean-Baptiste [de]"
+            "Johann Heinrich Lambert",
+            "Jean-Baptiste de Mérian"
           ],
           "publisher": {
             "address": "Berlin; Paris"
@@ -3887,8 +3887,8 @@
           "pages": 188,
           "volumes": 1,
           "authors": [
-            "Lambert, Johann Heinrich",
-            "Mérian, Jean-Baptiste [de]"
+            "Johann Heinrich Lambert",
+            "Jean-Baptiste de Mérian"
           ],
           "publisher": {
             "name": "Société Typographique de Bouillon",
@@ -3914,7 +3914,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Cleland, John"
+            "John Cleland"
           ]
         }
       },
@@ -3935,7 +3935,7 @@
           "pages": 70,
           "volumes": 1,
           "authors": [
-            "Le Roy, Pierre Louis"
+            "Pierre Louis Le Roy"
           ]
         }
       }
@@ -3955,7 +3955,7 @@
           "pages": 277,
           "volumes": 1,
           "authors": [
-            "Lettsom, John Coakley"
+            "John Coakley Lettsom"
           ],
           "publisher": {
             "name": "Lacombe",
@@ -3977,7 +3977,7 @@
           "pages": 102,
           "volumes": 1,
           "authors": [
-            "Lieberkühn, Philipp Julius",
+            "Philipp Julius Lieberkühn",
             "Weiler"
           ],
           "publisher": {
@@ -4003,7 +4003,7 @@
           "volumes": 1,
           "authors": [
             "Longus",
-            "Mulot, François-Valentin"
+            "François-Valentin Mulot"
           ],
           "publisher": {
             "address": "Paris"
@@ -4028,9 +4028,9 @@
           "type": "International editions (non-Swiss)",
           "volumes": 2,
           "authors": [
-            "Lucca, Gaudentio di",
-            "Berington, Simon",
-            "Dupuy-Demportes, Jean-Baptiste"
+            "Gaudentio di Lucca",
+            "Simon Berington",
+            "Jean-Baptiste Dupuy-Demportes"
           ],
           "publisher": {
             "name": "F.J. Desoer",
@@ -4051,8 +4051,8 @@
           "pages": 350,
           "volumes": 1,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Marius, Johannes Mayer"
+            "Marc-Antoine Eidous",
+            "Johannes Mayer Marius"
           ],
           "publisher": {
             "address": "Paris"
@@ -4078,7 +4078,7 @@
           "pages": 96,
           "volumes": 1,
           "authors": [
-            "Di Sanseverino, Giulio Roberto"
+            "Giulio Roberto Di Sanseverino"
           ],
           "publisher": {
             "name": "Jules Henri Pott et Compagnie",
@@ -4105,8 +4105,8 @@
           "pages": 374,
           "volumes": 1,
           "authors": [
-            "Mendelssohn, Moses",
-            "Junker, Georges Adam"
+            "Moses Mendelssohn",
+            "Georges Adam Junker"
           ],
           "publisher": {
             "name": "Saillant",
@@ -4134,7 +4134,7 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Milton, John"
+            "John Milton"
           ]
         }
       }
@@ -4156,9 +4156,9 @@
           "pages": 132,
           "volumes": 1,
           "authors": [
-            "Butini, Jean-Antoine",
-            "Newton, Isaac",
-            "Reid, Andrew"
+            "Jean-Antoine Butini",
+            "Isaac Newton",
+            "Andrew Reid"
           ],
           "publisher": {
             "name": "H. A. Gosse",
@@ -4178,8 +4178,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Mourier, Ferdinand-Louis",
-            "Niebuhr, Carsten"
+            "Ferdinand-Louis Mourier",
+            "Carsten Niebuhr"
           ]
         }
       }
@@ -4206,7 +4206,7 @@
           "pages": 200,
           "volumes": 1,
           "authors": [
-            "Pennington, Sarah",
+            "Sarah Pennington",
             "Gin d'Ossery"
           ],
           "publisher": {
@@ -4230,8 +4230,8 @@
           "pages": 342,
           "volumes": 1,
           "authors": [
-            "Pezzl, Johann",
-            "Doray de Longrais, P.-J.-B."
+            "Johann Pezzl",
+            "P.-J.-B. Doray de Longrais"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -4253,8 +4253,8 @@
           "pages": 273,
           "volumes": 1,
           "authors": [
-            "Phipps, Constantin-Jean",
-            "Démeunier, Jean-Nicolas"
+            "Constantin-Jean Phipps",
+            "Jean-Nicolas Démeunier"
           ],
           "publisher": {
             "name": "Saillant et Nyon",
@@ -4296,42 +4296,42 @@
           "type": "Place of publication unknown",
           "volumes": 8,
           "authors": [
-            "Pope, Alexander"
+            "Alexander Pope"
           ]
         },
         "bk0003064": {
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Linguet, Simon-Nicolas-Henri"
+            "Simon-Nicolas-Henri Linguet"
           ]
         },
         "bk0004030": {
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Robertson, William"
+            "William Robertson"
           ]
         },
         "bk0004946": {
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Tacitus, Cornelius"
+            "Cornelius Tacitus"
           ]
         },
         "bk0005120": {
           "type": "Dutch editions",
           "volumes": 7,
           "authors": [
-            "Dodsley, Robert",
-            "Fontenelle, Bernard Le Bouvier [de]",
-            "Pope, Alexander",
-            "Thiroux d' Arconville, Marie-Geneviève-Charlotte",
-            "Lyttelton, George",
-            "Hervey, James",
-            "Wycherley, A. M.",
-            "Shaw, Peter",
+            "Robert Dodsley",
+            "Bernard Le Bouvier de Fontenelle",
+            "Alexander Pope",
+            "Marie-Geneviève-Charlotte Thiroux d'Arconville",
+            "George Lyttelton",
+            "James Hervey",
+            "A. M. Wycherley",
+            "Peter Shaw",
             "Valcourt [Mlle]"
           ],
           "publisher": {
@@ -4364,7 +4364,7 @@
           "pages": 751,
           "volumes": 2,
           "authors": [
-            "Pott, Jules-Henri"
+            "Jules-Henri Pott"
           ],
           "publisher": {
             "name": "J. H. Pott",
@@ -4386,8 +4386,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "La Place, Pierre-Antoine [de]",
-            "Reeve, Clara"
+            "Pierre-Antoine de La Place",
+            "Clara Reeve"
           ]
         }
       }
@@ -4409,8 +4409,8 @@
           "pages": 1008,
           "volumes": 2,
           "authors": [
-            "Meades, Anna",
-            "Hull, Thomas"
+            "Anna Meades",
+            "Thomas Hull"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -4431,8 +4431,8 @@
           "type": "Other Swiss editions",
           "volumes": 10,
           "authors": [
-            "Le Tourneur, Pierre-Prime-Félicien",
-            "Richardson, Samuel"
+            "Pierre-Prime-Félicien Le Tourneur",
+            "Samuel Richardson"
           ],
           "publisher": {
             "name": "P. Barde",
@@ -4443,8 +4443,8 @@
           "type": "Other Swiss editions",
           "volumes": 14,
           "authors": [
-            "Le Tourneur, Pierre-Prime-Félicien",
-            "Richardson, Samuel"
+            "Pierre-Prime-Félicien Le Tourneur",
+            "Samuel Richardson"
           ],
           "publisher": {
             "name": "P. Barde",
@@ -4455,7 +4455,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Richardson, Samuel"
+            "Samuel Richardson"
           ]
         }
       }
@@ -4473,7 +4473,7 @@
           "type": "French editions",
           "volumes": 8,
           "authors": [
-            "Richardson, Samuel"
+            "Samuel Richardson"
           ],
           "publisher": {
             "address": "Rouen"
@@ -4483,14 +4483,14 @@
           "type": "Place of publication unknown",
           "volumes": 5,
           "authors": [
-            "Richardson, Samuel"
+            "Samuel Richardson"
           ]
         },
         "bk0005160": {
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Richardson, Samuel"
+            "Samuel Richardson"
           ]
         }
       }
@@ -4510,8 +4510,8 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Robertson, William"
+            "Marc-Antoine Eidous",
+            "William Robertson"
           ],
           "publisher": {
             "address": "Maestricht"
@@ -4522,8 +4522,8 @@
           "pages": 1732,
           "volumes": 4,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Robertson, William"
+            "Marc-Antoine Eidous",
+            "William Robertson"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne; Société Typographique de Neuchâtel",
@@ -4535,8 +4535,8 @@
           "pages": 560,
           "volumes": 4,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Robertson, William"
+            "Marc-Antoine Eidous",
+            "William Robertson"
           ],
           "publisher": {
             "name": "Panckoucke",
@@ -4547,8 +4547,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Robertson, William"
+            "Marc-Antoine Eidous",
+            "William Robertson"
           ]
         }
       }
@@ -4566,9 +4566,9 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Robertson, William",
-            "Suard, Jean-Baptiste-Antoine",
-            "Besset de la Chapelle, N.-P."
+            "William Robertson",
+            "Jean-Baptiste-Antoine Suard",
+            "N.-P. Besset de la Chapelle"
           ],
           "publisher": {
             "address": "London"
@@ -4578,9 +4578,9 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Robertson, William",
-            "Suard, Jean-Baptiste-Antoine",
-            "Besset de la Chapelle, N.-P."
+            "William Robertson",
+            "Jean-Baptiste-Antoine Suard",
+            "N.-P. Besset de la Chapelle"
           ]
         }
       }
@@ -4604,7 +4604,7 @@
           "pages": 432,
           "volumes": 1,
           "authors": [
-            "Sherlock, William"
+            "William Sherlock"
           ],
           "publisher": {
             "name": "aux dépens de la Compagnie",
@@ -4631,8 +4631,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Mazel, David",
-            "Sherlock, William"
+            "David Mazel",
+            "William Sherlock"
           ]
         }
       }
@@ -4650,8 +4650,8 @@
           "pages": 480,
           "volumes": 1,
           "authors": [
-            "Smith, Hugh",
-            "Le Rebours, Marie-Angélique"
+            "Hugh Smith",
+            "Marie-Angélique Le Rebours"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -4672,7 +4672,7 @@
           "pages": 754,
           "volumes": 2,
           "authors": [
-            "Smollett, Tobias George"
+            "Tobias George Smollett"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -4700,8 +4700,8 @@
           "pages": 762,
           "volumes": 3,
           "authors": [
-            "NIekamp, Johann Lucas",
-            "Gaudard, B."
+            "Johann Lucas NIekamp",
+            "B. Gaudard"
           ],
           "publisher": {
             "name": "J. P. Heubach",
@@ -4724,8 +4724,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Spallanzani, Lazzaro",
-            "Sénebier, Jean"
+            "Lazzaro Spallanzani",
+            "Jean Sénebier"
           ]
         }
       }
@@ -4745,7 +4745,7 @@
           "volumes": 3,
           "authors": [
             "Desfontaines [abbé]",
-            "Swift, Jonathan"
+            "Jonathan Swift"
           ],
           "publisher": {
             "address": "La Haye"
@@ -4755,7 +4755,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Swift, Jonathan"
+            "Jonathan Swift"
           ]
         }
       }
@@ -4777,8 +4777,8 @@
           "pages": 176,
           "volumes": 1,
           "authors": [
-            "Thiroux d' Arconville, Marie-Geneviève-Charlotte",
-            "Cesarotti, Melchior"
+            "Marie-Geneviève-Charlotte Thiroux d'Arconville",
+            "Melchior Cesarotti"
           ],
           "publisher": {
             "name": "Knapen",
@@ -4803,9 +4803,9 @@
           "type": "International editions (non-Swiss)",
           "volumes": 7,
           "authors": [
-            "Tillotson, John",
-            "Barbeyrac, Jean",
-            "Beausobre, C. L. [de]"
+            "John Tillotson",
+            "Jean Barbeyrac",
+            "C. L. de Beausobre"
           ],
           "publisher": {
             "name": "Brandmuller",
@@ -4828,7 +4828,7 @@
           "pages": 183,
           "volumes": 1,
           "authors": [
-            "Tissot, Samuel Auguste André David"
+            "Samuel Auguste André David Tissot"
           ],
           "publisher": {
             "name": "Carboli, e Pompeati comp",
@@ -4848,8 +4848,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Bilguer, Johann Ulrich",
-            "Tissot, Samuel Auguste André David"
+            "Johann Ulrich Bilguer",
+            "Samuel Auguste André David Tissot"
           ]
         }
       }
@@ -4869,8 +4869,8 @@
           "pages": 92,
           "volumes": 1,
           "authors": [
-            "Torée, Olof",
-            "Blackford, Dominique [de]"
+            "Olof Torée",
+            "Dominique de Blackford"
           ],
           "publisher": {
             "name": "frères Reycends",
@@ -4892,8 +4892,8 @@
           "type": "Swiss-International editions",
           "volumes": 1,
           "authors": [
-            "Le Tourneur, Pierre-Prime-Félicien",
-            "Devonshire, Georgiana Cavendish"
+            "Pierre-Prime-Félicien Le Tourneur",
+            "Georgiana Cavendish Devonshire"
           ],
           "publisher": {
             "name": "Emmanuel Flon",
@@ -4922,7 +4922,7 @@
           "type": "British editions",
           "volumes": 1,
           "authors": [
-            "Tucker, Josiah"
+            "Josiah Tucker"
           ],
           "publisher": {
             "address": "London"
@@ -4946,8 +4946,8 @@
           "pages": 1144,
           "volumes": 2,
           "authors": [
-            "Le Bègue de Presle, Achille-Guillaume",
-            "Whytt, Robert"
+            "Achille-Guillaume Le Bègue de Presle",
+            "Robert Whytt"
           ],
           "publisher": {
             "name": "Vincent",
@@ -4969,8 +4969,8 @@
           "pages": 93,
           "volumes": 1,
           "authors": [
-            "Laveaux, Jean-Charles",
-            "Wieland, Christoph Martin"
+            "Jean-Charles Laveaux",
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "name": "Haas",
@@ -4991,7 +4991,7 @@
           "type": "Neuchâtel editions (non-STN)",
           "volumes": 2,
           "authors": [
-            "Turrettini, Jean Alphonse"
+            "Jean Alphonse Turrettini"
           ],
           "publisher": {
             "name": "S. Fauche",
@@ -5048,7 +5048,7 @@
           "pages": 232,
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]"
+            "Albrecht von Haller"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne",
@@ -5078,8 +5078,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Rowe, Elizabeth Singer",
-            "Bertrand, Jean"
+            "Elizabeth Singer Rowe",
+            "Jean Bertrand"
           ]
         }
       }
@@ -5097,8 +5097,8 @@
           "pages": 102,
           "volumes": 1,
           "authors": [
-            "Bauvin, Jean-Grégoire",
-            "Schlegel, Johann Heinrich"
+            "Jean-Grégoire Bauvin",
+            "Johann Heinrich Schlegel"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5119,8 +5119,8 @@
           "pages": 1974,
           "volumes": 5,
           "authors": [
-            "Burney, Fanny",
-            "Rieu, Henri"
+            "Fanny Burney",
+            "Henri Rieu"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5149,7 +5149,7 @@
           "pages": 38,
           "volumes": 1,
           "authors": [
-            "Roe, Richard"
+            "Richard Roe"
           ],
           "publisher": {
             "address": "London"
@@ -5177,8 +5177,8 @@
           "pages": 420,
           "volumes": 1,
           "authors": [
-            "Superville, Daniel [de]",
-            "Watts, Isaac"
+            "Daniel de Superville",
+            "Isaac Watts"
           ],
           "publisher": {
             "name": "François Lacombe",
@@ -5204,8 +5204,8 @@
           "pages": 354,
           "volumes": 1,
           "authors": [
-            "Coxe, William",
-            "Démeunier, Jean-Nicolas"
+            "William Coxe",
+            "Jean-Nicolas Démeunier"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5231,9 +5231,9 @@
           "pages": 122,
           "volumes": 1,
           "authors": [
-            "Fréron, Élie-Catherine",
+            "Élie-Catherine Fréron",
             "Petronius",
-            "Halde, Jean-Baptiste [du]"
+            "Jean-Baptiste du Halde"
           ],
           "publisher": {
             "name": "Au Temple de la Vérité",
@@ -5255,8 +5255,8 @@
           "pages": 295,
           "volumes": 1,
           "authors": [
-            "Corvinus, Joannes Fridericus",
-            "Vicat, Philippe Rodolphe"
+            "Joannes Fridericus Corvinus",
+            "Philippe Rodolphe Vicat"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -5282,9 +5282,9 @@
           "pages": 499,
           "volumes": 2,
           "authors": [
-            "Collins, Anthony",
-            "Scheurléer, Henri",
-            "Rousset de Missy, Jean"
+            "Anthony Collins",
+            "Henri Scheurléer",
+            "Jean Rousset de Missy"
           ],
           "publisher": {
             "address": "London"
@@ -5315,7 +5315,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Burlamaqui, Jean-Jacques"
+            "Jean-Jacques Burlamaqui"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -5335,10 +5335,10 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Caillard, Antoine-Bernard",
-            "Lavater, Johann Caspar",
-            "La Fite, Marie-Élisabeth Bouée [Mme de]",
-            "Renfner, Henri"
+            "Antoine-Bernard Caillard",
+            "Johann Caspar Lavater",
+            "Marie-Élisabeth Bouée Mme de La Fite",
+            "Henri Renfner"
           ],
           "publisher": {
             "name": "J. Van Karnebeek",
@@ -5362,8 +5362,8 @@
           "pages": 122,
           "volumes": 1,
           "authors": [
-            "Price, Richard",
-            "Bochat, Charles Guillaume Loys [de]"
+            "Richard Price",
+            "Charles Guillaume Loys de Bochat"
           ],
           "publisher": {
             "name": "Société Littéraire et Typographique de Yverdon",
@@ -5390,8 +5390,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Boswell, James",
-            "Seigneux de Correvon, Gabriel"
+            "James Boswell",
+            "Gabriel Seigneux de Correvon"
           ],
           "publisher": {
             "address": "London"
@@ -5415,7 +5415,7 @@
           "pages": 146,
           "volumes": 1,
           "authors": [
-            "Jenyns, Soame"
+            "Soame Jenyns"
           ],
           "publisher": {
             "address": "London"
@@ -5435,8 +5435,8 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Brooke, Frances Moore",
-            "Rieu, Henri"
+            "Frances Moore Brooke",
+            "Henri Rieu"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -5465,8 +5465,8 @@
           "pages": 224,
           "volumes": 1,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Koenig, F. L."
+            "Albrecht von Haller",
+            "F. L. Koenig"
           ],
           "publisher": {
             "name": "J. H. Pott",
@@ -5493,7 +5493,7 @@
           "pages": 169,
           "volumes": 1,
           "authors": [
-            "Vasco, Giambattista"
+            "Giambattista Vasco"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -5518,8 +5518,8 @@
           "pages": 183,
           "volumes": 1,
           "authors": [
-            "Smith, Adam",
-            "Reverdil, Élie Salomon François"
+            "Adam Smith",
+            "Élie Salomon François Reverdil"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne",
@@ -5544,8 +5544,8 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Beuvius, Adam",
-            "Wieland, Christoph Martin"
+            "Adam Beuvius",
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "name": "Nouffer, de Rodon & cie",
@@ -5565,7 +5565,7 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Gracián, Baltasar"
+            "Baltasar Gracián"
           ],
           "publisher": {
             "name": "J. Hofhout",
@@ -5586,8 +5586,8 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Crébillon fils, Claude-Prosper Jolyot [de]",
-            "Haywood, Eliza Fowler"
+            "Claude-Prosper Jolyot de Crébillon fils",
+            "Eliza Fowler Haywood"
           ],
           "publisher": {
             "name": "J.-E. Dufour et P. Roux",
@@ -5609,8 +5609,8 @@
           "pages": 524,
           "volumes": 2,
           "authors": [
-            "Goldsmith, Oliver",
-            "Murphy, Arthur"
+            "Oliver Goldsmith",
+            "Arthur Murphy"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5632,7 +5632,7 @@
           "type": "International editions (non-Swiss)",
           "volumes": 1,
           "authors": [
-            "Duff, William"
+            "William Duff"
           ],
           "publisher": {
             "name": "Lefèvre",
@@ -5659,7 +5659,7 @@
           "pages": 3133,
           "volumes": 6,
           "authors": [
-            "Pallas, Peter Simon"
+            "Peter Simon Pallas"
           ],
           "publisher": {
             "name": "François Seizer et Comp; Société Typographique de Berne",
@@ -5670,7 +5670,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Pallas, Peter Simon"
+            "Peter Simon Pallas"
           ]
         }
       }
@@ -5695,7 +5695,7 @@
           "type": "Dutch editions",
           "volumes": 6,
           "authors": [
-            "Prideaux, Humphrey"
+            "Humphrey Prideaux"
           ],
           "publisher": {
             "name": "Arkstee et Merkus",
@@ -5720,8 +5720,8 @@
           "type": "Dutch editions",
           "volumes": 6,
           "authors": [
-            "Robertson, William",
-            "Suard, Jean-Baptiste-Antoine"
+            "William Robertson",
+            "Jean-Baptiste-Antoine Suard"
           ],
           "publisher": {
             "name": "Dufour",
@@ -5732,8 +5732,8 @@
           "type": "Place of publication unknown",
           "volumes": 6,
           "authors": [
-            "Robertson, William",
-            "Suard, Jean-Baptiste-Antoine"
+            "William Robertson",
+            "Jean-Baptiste-Antoine Suard"
           ]
         }
       }
@@ -5752,9 +5752,9 @@
           "type": "Other Swiss editions",
           "volumes": 6,
           "authors": [
-            "Eidous, Marc-Antoine",
-            "Mosheim, Johann Lorenz [von]",
-            "Maclaine, Archibald"
+            "Marc-Antoine Eidous",
+            "Johann Lorenz von Mosheim",
+            "Archibald Maclaine"
           ],
           "publisher": {
             "name": "M. de Felice",
@@ -5776,8 +5776,8 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Smollett, Tobias George",
-            "Toussaint, François-Vincent"
+            "Tobias George Smollett",
+            "François-Vincent Toussaint"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -5800,8 +5800,8 @@
           "pages": 159,
           "volumes": 1,
           "authors": [
-            "Dulon, Isaac",
-            "Gruner, Gottlieb Sigmund"
+            "Isaac Dulon",
+            "Gottlieb Sigmund Gruner"
           ],
           "publisher": {
             "name": "J. P. Jeanrenaud",
@@ -5824,8 +5824,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Lediard, Thomas",
-            "Puisieux, Philippe-Florent [de]"
+            "Thomas Lediard",
+            "Philippe-Florent de Puisieux"
           ],
           "publisher": {
             "name": "frères Duplain",
@@ -5850,8 +5850,8 @@
           "pages": 318,
           "volumes": 1,
           "authors": [
-            "Mercier, Louis-Sébastien",
-            "Pfeil, Johann Gottlob Benjamin"
+            "Louis-Sébastien Mercier",
+            "Johann Gottlob Benjamin Pfeil"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5879,10 +5879,10 @@
           "pages": 148,
           "volumes": 1,
           "authors": [
-            "Gordon, Thomas",
-            "Holbach, Paul Henri Dietrich [d']",
-            "Davisson, John",
-            "Bourn, Samuel"
+            "Thomas Gordon",
+            "Paul Henri Dietrich d'Holbach",
+            "John Davisson",
+            "Samuel Bourn"
           ],
           "publisher": {
             "address": "London"
@@ -5902,8 +5902,8 @@
           "pages": 298,
           "volumes": 1,
           "authors": [
-            "Lloyd, Henry",
-            "Mesmont, Germain-Hyacinthe Romance [Marquis de] (translator)"
+            "Henry Lloyd",
+            "Germain-Hyacinthe Romance Marquis de (translator) Mesmont"
           ],
           "publisher": {
             "name": "A. F. Pion",
@@ -5930,8 +5930,8 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Holbach, Paul Henri Dietrich [d']",
-            "Orobio, Isaac"
+            "Paul Henri Dietrich d'Holbach",
+            "Isaac Orobio"
           ],
           "publisher": {
             "address": "London"
@@ -5956,7 +5956,7 @@
           "pages": 297,
           "volumes": 1,
           "authors": [
-            "Fielding, Henry"
+            "Henry Fielding"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -5985,8 +5985,8 @@
           "pages": 119,
           "volumes": 1,
           "authors": [
-            "Gregory, John",
-            "Morellet, André"
+            "John Gregory",
+            "André Morellet"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -5998,8 +5998,8 @@
           "pages": 168,
           "volumes": 1,
           "authors": [
-            "Gregory, John",
-            "Morellet, André"
+            "John Gregory",
+            "André Morellet"
           ],
           "publisher": {
             "name": "Pissot",
@@ -6031,8 +6031,8 @@
           "pages": 613,
           "volumes": 2,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Koenig, F. L."
+            "Albrecht von Haller",
+            "F. L. Koenig"
           ],
           "publisher": {
             "name": "Nouvelle Société Typographique de Berne; Société Typographique de Lausanne",
@@ -6057,7 +6057,7 @@
           "pages": 294,
           "volumes": 1,
           "authors": [
-            "Algarotti, Francesco"
+            "Francesco Algarotti"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6077,7 +6077,7 @@
           "pages": 292,
           "volumes": 1,
           "authors": [
-            "Sherlock, Martin"
+            "Martin Sherlock"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6088,7 +6088,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Sherlock, Martin"
+            "Martin Sherlock"
           ]
         }
       }
@@ -6108,8 +6108,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Raynal, Guillaume-Thomas-François",
-            "Sterne, Laurence"
+            "Guillaume-Thomas-François Raynal",
+            "Laurence Sterne"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -6129,9 +6129,9 @@
           "pages": 239,
           "volumes": 1,
           "authors": [
-            "Seigneux de Correvon, Gabriel",
-            "Félice, Fortunato Bartholomeo [de]",
-            "Vasco, Dalmazzo Francesco"
+            "Gabriel Seigneux de Correvon",
+            "Fortunato Bartholomeo de Félice",
+            "Dalmazzo Francesco Vasco"
           ],
           "publisher": {
             "name": "Felice",
@@ -6175,8 +6175,8 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Haller, Albrecht [von]",
-            "Vicat, Philippe Rodolphe"
+            "Albrecht von Haller",
+            "Philippe Rodolphe Vicat"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -6206,7 +6206,7 @@
           "pages": 185,
           "volumes": 1,
           "authors": [
-            "Valotti, Gaudenzio"
+            "Gaudenzio Valotti"
           ]
         }
       },
@@ -6232,8 +6232,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Caroline-Mathilde, Reine de Danemark",
-            "Sheridan, Charles Francis"
+            "Reine de Danemark Caroline-Mathilde",
+            "Charles Francis Sheridan"
           ]
         }
       },
@@ -6252,7 +6252,7 @@
           "pages": 549,
           "volumes": 4,
           "authors": [
-            "Wieland, Christoph Martin"
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6275,8 +6275,8 @@
           "pages": 546,
           "volumes": 2,
           "authors": [
-            "Tissot, Samuel Auguste André David",
-            "Vicat, Philippe Rodolphe"
+            "Samuel Auguste André David Tissot",
+            "Philippe Rodolphe Vicat"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -6287,8 +6287,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Tissot, Samuel Auguste André David",
-            "Vicat, Philippe Rodolphe"
+            "Samuel Auguste André David Tissot",
+            "Philippe Rodolphe Vicat"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -6313,7 +6313,7 @@
           "pages": 171,
           "volumes": 1,
           "authors": [
-            "Veratti, Gio. Giuseppe"
+            "Gio. Giuseppe Veratti"
           ],
           "publisher": {
             "name": "Henri-Albert Gosse",
@@ -6338,7 +6338,7 @@
           "pages": 395,
           "volumes": 2,
           "authors": [
-            "Porter, James"
+            "James Porter"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6359,7 +6359,7 @@
           "type": "Place of publication unknown",
           "volumes": 6,
           "authors": [
-            "Barrin, Jean"
+            "Jean Barrin"
           ]
         }
       },
@@ -6381,7 +6381,7 @@
           "volumes": 1,
           "authors": [
             "Suisse. Diète fédérale",
-            "Hory, Daniel"
+            "Daniel Hory"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6409,7 +6409,7 @@
           "pages": 77,
           "volumes": 1,
           "authors": [
-            "Heidegger, Heinrich"
+            "Heinrich Heidegger"
           ]
         }
       }
@@ -6427,8 +6427,8 @@
           "pages": 80,
           "volumes": 1,
           "authors": [
-            "Hamilton, William",
-            "Sella, Gasparo"
+            "William Hamilton",
+            "Gasparo Sella"
           ],
           "publisher": {
             "name": "P. Barde",
@@ -6455,8 +6455,8 @@
           "type": "French editions",
           "volumes": 5,
           "authors": [
-            "Tressan, Louis-Élisabeth de La Vergne [comte de]",
-            "Ariosto, Ludovico"
+            "Louis-Élisabeth de La Vergne comte de Tressan",
+            "Ludovico Ariosto"
           ],
           "publisher": {
             "name": "Pissot",
@@ -6467,7 +6467,7 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Ariosto, Ludovico"
+            "Ludovico Ariosto"
           ]
         }
       }
@@ -6491,7 +6491,7 @@
           "pages": 950,
           "volumes": 2,
           "authors": [
-            "Hirzel, Hans Caspar"
+            "Hans Caspar Hirzel"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -6516,8 +6516,8 @@
           "pages": 620,
           "volumes": 2,
           "authors": [
-            "Betskij, Ivan Ivanovic",
-            "Le Clerc, Nicolas-Gabriel"
+            "Ivan Ivanovic Betskij",
+            "Nicolas-Gabriel Le Clerc"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6566,8 +6566,8 @@
           "pages": 327,
           "volumes": 1,
           "authors": [
-            "Geuss, Joachim Michael",
-            "Smeets, A. L."
+            "Joachim Michael Geuss",
+            "A. L. Smeets"
           ],
           "publisher": {
             "name": "J.-E. Dufour et P. Roux",
@@ -6589,7 +6589,7 @@
           "type": "Neuchâtel editions (non-STN)",
           "volumes": 1,
           "authors": [
-            "Abercrombie, John"
+            "John Abercrombie"
           ],
           "publisher": {
             "name": "Fauche fils aîné, Favre et cie",
@@ -6613,8 +6613,8 @@
           "type": "STN editions",
           "volumes": 1,
           "authors": [
-            "Hume, David",
-            "Suard, Jean-Baptiste-Antoine"
+            "David Hume",
+            "Jean-Baptiste-Antoine Suard"
           ],
           "publisher": {
             "address": "London"
@@ -6624,7 +6624,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Suard, Jean-Baptiste-Antoine"
+            "Jean-Baptiste-Antoine Suard"
           ]
         }
       }
@@ -6641,8 +6641,8 @@
           "pages": 670,
           "volumes": 2,
           "authors": [
-            "Frenais, Joseph-Pierre",
-            "Sterne, Laurence"
+            "Joseph-Pierre Frenais",
+            "Laurence Sterne"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6653,15 +6653,15 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Sterne, Laurence"
+            "Laurence Sterne"
           ]
         },
         "bk0004050": {
           "type": "Livres en Société: STN joint editions",
           "volumes": 4,
           "authors": [
-            "Frenais, Joseph-Pierre",
-            "Sterne, Laurence"
+            "Joseph-Pierre Frenais",
+            "Laurence Sterne"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6683,7 +6683,7 @@
           "type": "Dutch editions",
           "volumes": 14,
           "authors": [
-            "Dacier, André",
+            "André Dacier",
             "Plutarch"
           ],
           "publisher": {
@@ -6708,8 +6708,8 @@
           "pages": 78,
           "volumes": 1,
           "authors": [
-            "Thümmel, Moritz August [von]",
-            "Huber, Michael"
+            "Moritz August von Thümmel",
+            "Michael Huber"
           ],
           "publisher": {
             "address": "London"
@@ -6732,8 +6732,8 @@
           "pages": 2444,
           "volumes": 6,
           "authors": [
-            "Cook, James",
-            "Suard, Jean-Baptiste-Antoine"
+            "James Cook",
+            "Jean-Baptiste-Antoine Suard"
           ],
           "publisher": {
             "address": "Paris"
@@ -6753,8 +6753,8 @@
           "pages": 248,
           "volumes": 1,
           "authors": [
-            "Kleemann, Nicolaus Ernst",
-            "Rieu, Henri"
+            "Nicolaus Ernst Kleemann",
+            "Henri Rieu"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6792,8 +6792,8 @@
           "pages": 902,
           "volumes": 2,
           "authors": [
-            "Mérian, Jean-Baptiste [de]",
-            "Niebuhr, Carsten"
+            "Jean-Baptiste de Mérian",
+            "Carsten Niebuhr"
           ],
           "publisher": {
             "name": "Libraires associés",
@@ -6804,8 +6804,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Mérian, Jean-Baptiste [de]",
-            "Niebuhr, Carsten"
+            "Jean-Baptiste de Mérian",
+            "Carsten Niebuhr"
           ]
         }
       }
@@ -6824,7 +6824,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Fortis, Alberto"
+            "Alberto Fortis"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -6847,8 +6847,8 @@
           "pages": 268,
           "volumes": 1,
           "authors": [
-            "Dalrymple, W.",
-            "Mesmont, Germain-Hyacinthe Romance [Marquis de] (translator)"
+            "W. Dalrymple",
+            "Germain-Hyacinthe Romance Marquis de (translator) Mesmont"
           ],
           "publisher": {
             "address": "Paris"
@@ -6870,7 +6870,7 @@
           "pages": 445,
           "volumes": 1,
           "authors": [
-            "Twiss, Richard"
+            "Richard Twiss"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -6893,7 +6893,7 @@
           "pages": 583,
           "volumes": 2,
           "authors": [
-            "Brydone, Patrick"
+            "Patrick Brydone"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6919,10 +6919,10 @@
           "pages": 382,
           "volumes": 1,
           "authors": [
-            "Hamilton, William",
-            "Frey des Landres, Jean Rodolphe",
-            "Zinzendorf, Nikolaus Ludwig [von]",
-            "Riedesel, Johann Hermann [von]"
+            "William Hamilton",
+            "Jean Rodolphe Frey des Landres",
+            "Nikolaus Ludwig von Zinzendorf",
+            "Johann Hermann von Riedesel"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -6950,7 +6950,7 @@
           "pages": 183,
           "volumes": 1,
           "authors": [
-            "Burnaby, Andrew"
+            "Andrew Burnaby"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne",
@@ -6970,7 +6970,7 @@
           "pages": 2839,
           "volumes": 6,
           "authors": [
-            "Pococke, Richard"
+            "Richard Pococke"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -6999,8 +6999,8 @@
           "pages": 272,
           "volumes": 1,
           "authors": [
-            "Cluny, Alexander",
-            "Mandrillon, Joseph"
+            "Alexander Cluny",
+            "Joseph Mandrillon"
           ],
           "publisher": {
             "name": "J. Schuring",
@@ -7021,7 +7021,7 @@
           "type": "German editions",
           "volumes": 10,
           "authors": [
-            "Schwabe, Johann Joachim"
+            "Johann Joachim Schwabe"
           ],
           "publisher": {
             "name": "J.-F. Junius",
@@ -7043,8 +7043,8 @@
           "pages": 388,
           "volumes": 1,
           "authors": [
-            "Gruner, Gottlieb Sigmund",
-            "Keralio, Louis-Félix Guinement"
+            "Gottlieb Sigmund Gruner",
+            "Louis-Félix Guinement Keralio"
           ],
           "publisher": {
             "name": "Panckoucke",
@@ -7074,7 +7074,7 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Gellert, Christian Fuerchtegott"
+            "Christian Fuerchtegott Gellert"
           ],
           "publisher": {
             "name": "J. van Schoonhoven et compagnie",
@@ -7085,7 +7085,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gellert, Christian Fuerchtegott"
+            "Christian Fuerchtegott Gellert"
           ]
         },
         "bk0004704": {
@@ -7093,7 +7093,7 @@
           "pages": 91,
           "volumes": 1,
           "authors": [
-            "Gellert, Christian Fuerchtegott"
+            "Christian Fuerchtegott Gellert"
           ],
           "publisher": {
             "name": "Mourer",
@@ -7104,7 +7104,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Gellert, Christian Fuerchtegott"
+            "Christian Fuerchtegott Gellert"
           ],
           "publisher": {
             "name": "J. Mourer",
@@ -7134,8 +7134,8 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Addison, Joseph",
-            "Seigneux de Correvon, Gabriel"
+            "Joseph Addison",
+            "Gabriel Seigneux de Correvon"
           ],
           "publisher": {
             "name": "C. Philibert et B. Chirol",
@@ -7192,8 +7192,8 @@
           "pages": 1459,
           "volumes": 4,
           "authors": [
-            "Le Tourneur, Pierre-Prime-Félicien",
-            "Young, Edward"
+            "Pierre-Prime-Félicien Le Tourneur",
+            "Edward Young"
           ],
           "publisher": {
             "name": "F.-B. de Felice",
@@ -7204,7 +7204,7 @@
           "type": "Dutch editions",
           "volumes": 4,
           "authors": [
-            "Young, Edward"
+            "Edward Young"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -7226,8 +7226,8 @@
           "pages": 567,
           "volumes": 2,
           "authors": [
-            "San Severino, Giulio Roberto [di]",
-            "Açarq, Jean-Pierre [d']"
+            "Giulio Roberto di San Severino",
+            "Jean-Pierre d'Açarq"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -7258,9 +7258,9 @@
           "pages": 108,
           "volumes": 1,
           "authors": [
-            "Decker, Matthew",
-            "Hooke, Andrew",
-            "Anderson, Adam"
+            "Matthew Decker",
+            "Andrew Hooke",
+            "Adam Anderson"
           ],
           "publisher": {
             "name": "Société Typographique de Berne",
@@ -7271,16 +7271,16 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Wieland, Christoph Martin",
-            "Huber, Michael"
+            "Christoph Martin Wieland",
+            "Michael Huber"
           ]
         },
         "bk0004911": {
           "type": "Belgian editions",
           "volumes": 2,
           "authors": [
-            "Mead, Richard",
-            "Coste, Jean-François"
+            "Richard Mead",
+            "Jean-François Coste"
           ],
           "publisher": {
             "name": "Société Typographique de Bouillon",
@@ -7310,8 +7310,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Pascal, Blaise",
-            "Nicole, Pierre"
+            "Blaise Pascal",
+            "Pierre Nicole"
           ]
         }
       }
@@ -7331,8 +7331,8 @@
           "pages": 254,
           "volumes": 1,
           "authors": [
-            "Barbé-Marbois, François [marquis de]",
-            "Wieland, Christoph Martin"
+            "François marquis de Barbé-Marbois",
+            "Christoph Martin Wieland"
           ],
           "publisher": {
             "address": "Dresden"
@@ -7356,7 +7356,7 @@
           "pages": 182,
           "volumes": 1,
           "authors": [
-            "Langhans, Daniel"
+            "Daniel Langhans"
           ],
           "publisher": {
             "name": "J. P. Heubach",
@@ -7377,7 +7377,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Drelincourt, Charles"
+            "Charles Drelincourt"
           ]
         },
         "bk0005346": {
@@ -7385,7 +7385,7 @@
           "pages": 592,
           "volumes": 1,
           "authors": [
-            "Drelincourt, Charles"
+            "Charles Drelincourt"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne",
@@ -7408,8 +7408,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Lindsey, Theophilus",
-            "Rayneval, Joseph-Mathias Gérard [de]"
+            "Theophilus Lindsey",
+            "Joseph-Mathias Gérard de Rayneval"
           ]
         }
       },
@@ -7425,14 +7425,14 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Young, Edward"
+            "Edward Young"
           ]
         },
         "bk0004718": {
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Young, Edward"
+            "Edward Young"
           ],
           "publisher": {
             "address": "Paris"
@@ -7458,9 +7458,9 @@
           "pages": 369,
           "volumes": 1,
           "authors": [
-            "Cleland, John",
-            "Hernandez, Philippe",
-            "Grose, John Henry"
+            "John Cleland",
+            "Philippe Hernandez",
+            "John Henry Grose"
           ],
           "publisher": {
             "name": "Desaint & Saillant; Michel Lambert; Veuve Panckouke",
@@ -7487,7 +7487,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Stevens, Joseph"
+            "Joseph Stevens"
           ]
         }
       }
@@ -7507,8 +7507,8 @@
           "pages": 139,
           "volumes": 1,
           "authors": [
-            "Keate, George",
-            "Lorovich, Antoine"
+            "George Keate",
+            "Antoine Lorovich"
           ],
           "publisher": {
             "address": "London"
@@ -7530,8 +7530,8 @@
           "pages": 639,
           "volumes": 1,
           "authors": [
-            "Home, Francis",
-            "Gastellier, René-Georges"
+            "Francis Home",
+            "René-Georges Gastellier"
           ],
           "publisher": {
             "name": "Vincent",
@@ -7552,8 +7552,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Hawkesworth, John",
-            "Blavet, Jean-Louis"
+            "John Hawkesworth",
+            "Jean-Louis Blavet"
           ],
           "publisher": {
             "name": "Mérigot le jeune; Vve Duchesne",
@@ -7564,8 +7564,8 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Hawkesworth, John",
-            "Blavet, Jean-Louis"
+            "John Hawkesworth",
+            "Jean-Louis Blavet"
           ],
           "publisher": {
             "address": "Maestricht"
@@ -7584,8 +7584,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Zimmermann, Johann Georg [von]",
-            "Lefebvre de Villebrune, Jean-Baptiste"
+            "Johann Georg von Zimmermann",
+            "Jean-Baptiste Lefebvre de Villebrune"
           ],
           "publisher": {
             "name": "Vincent",
@@ -7609,8 +7609,8 @@
           "pages": 1863,
           "volumes": 4,
           "authors": [
-            "Hawkesworth, John",
-            "Suard, Jean-Baptiste-Antoine"
+            "John Hawkesworth",
+            "Jean-Baptiste-Antoine Suard"
           ],
           "publisher": {
             "name": "Société Typographique de Lausanne; Société Typographique de Neuchâtel",
@@ -7640,7 +7640,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Bunyan, John"
+            "John Bunyan"
           ]
         }
       }
@@ -7661,8 +7661,8 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Mirabaud, Jean-Baptiste",
-            "Tasso, Torquato"
+            "Jean-Baptiste Mirabaud",
+            "Torquato Tasso"
           ],
           "publisher": {
             "address": "Paris"
@@ -7693,8 +7693,8 @@
           "pages": 158,
           "volumes": 1,
           "authors": [
-            "Vicat, Béat Philippe",
-            "Balthasar, Joseph Anton Felix [von]"
+            "Béat Philippe Vicat",
+            "Joseph Anton Felix von Balthasar"
           ],
           "publisher": {
             "name": "J. P. Heubach",
@@ -7714,8 +7714,8 @@
           "type": "French editions",
           "volumes": 12,
           "authors": [
-            "Targe, Jean-Baptiste",
-            "Barrow, John"
+            "Jean-Baptiste Targe",
+            "John Barrow"
           ],
           "publisher": {
             "name": "Saillant",
@@ -7736,8 +7736,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Florus, Lucius Annaeus",
-            "Paul, Armand-Laurent [abbé]"
+            "Lucius Annaeus Florus",
+            "Armand-Laurent abbé Paul"
           ]
         }
       }
@@ -7753,11 +7753,11 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Moore, Edward",
-            "Chesterfield, Philip Dormer [4th Earl of]",
-            "Cambridge, Richard Owen",
-            "Walpole, Horace",
-            "Monod, Gaspard Joel"
+            "Edward Moore",
+            "Philip Dormer 4th Earl of Chesterfield",
+            "Richard Owen Cambridge",
+            "Horace Walpole",
+            "Gaspard Joel Monod"
           ],
           "publisher": {
             "name": "E. Luzac fils",
@@ -7782,8 +7782,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "La Roche, Sophie [von]",
-            "Wieland, Christoph Martin"
+            "Sophie von La Roche",
+            "Christoph Martin Wieland"
           ]
         }
       }
@@ -7804,8 +7804,8 @@
           "pages": 1485,
           "volumes": 2,
           "authors": [
-            "Burton, John",
-            "Le Moine, François Marie"
+            "John Burton",
+            "François Marie Le Moine"
           ],
           "publisher": {
             "name": "Hérissant père",
@@ -7827,8 +7827,8 @@
           "pages": 563,
           "volumes": 1,
           "authors": [
-            "Whately, Thomas",
-            "Latapie, François de Paule"
+            "Thomas Whately",
+            "François de Paule Latapie"
           ],
           "publisher": {
             "name": "C.-A. Jombert",
@@ -7860,8 +7860,8 @@
           "pages": 72,
           "volumes": 1,
           "authors": [
-            "Sertor, Gaetano",
-            "Salvemini da Castiglione, Federico"
+            "Gaetano Sertor",
+            "Federico Salvemini da Castiglione"
           ],
           "publisher": {
             "address": "Cracas; Rome"
@@ -7883,16 +7883,16 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Addison, Joseph",
-            "Steele, Richard"
+            "Joseph Addison",
+            "Richard Steele"
           ]
         },
         "bk0004136": {
           "type": "International editions (non-Swiss)",
           "volumes": 8,
           "authors": [
-            "Addison, Joseph",
-            "Steele, Richard"
+            "Joseph Addison",
+            "Richard Steele"
           ],
           "publisher": {
             "name": "Arkstée et Merkus",
@@ -7916,8 +7916,8 @@
           "pages": 134,
           "volumes": 1,
           "authors": [
-            "Lyttelton, George",
-            "Des Champs, Jean"
+            "George Lyttelton",
+            "Jean Des Champs"
           ],
           "publisher": {
             "name": "Bousquet",
@@ -7939,8 +7939,8 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Salvemini da Castiglione, Giovanni Francesco Mauro Melchior",
-            "Blount, Charles",
+            "Giovanni Francesco Mauro Melchior Salvemini da Castiglione",
+            "Charles Blount",
             "Philostrate l'Athénien"
           ]
         }
@@ -7974,8 +7974,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Bonnet, Charles",
-            "Lavater, Johann Caspar"
+            "Charles Bonnet",
+            "Johann Caspar Lavater"
           ]
         }
       }
@@ -7996,8 +7996,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Franco, Niccolò",
-            "Aretino, Pietro"
+            "Niccolò Franco",
+            "Pietro Aretino"
           ]
         }
       },
@@ -8013,8 +8013,8 @@
           "pages": 292,
           "volumes": 1,
           "authors": [
-            "Wallace, Robert",
-            "Joncourt, Elie [de]"
+            "Robert Wallace",
+            "Elie de Joncourt"
           ],
           "publisher": {
             "address": "London"
@@ -8043,7 +8043,7 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Hume, David"
+            "David Hume"
           ]
         }
       }
@@ -8060,7 +8060,7 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Dumanoir, Philippe-François Pinel"
+            "Philippe-François Pinel Dumanoir"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -8081,7 +8081,7 @@
           "pages": 48,
           "volumes": 1,
           "authors": [
-            "Wagner, Heinrich Leopold"
+            "Heinrich Leopold Wagner"
           ],
           "publisher": {
             "name": "les heritiers de J.L. Eichenberg",
@@ -8104,7 +8104,7 @@
           "pages": 432,
           "volumes": 1,
           "authors": [
-            "White, Charles"
+            "Charles White"
           ],
           "publisher": {
             "name": "Vincent",
@@ -8127,7 +8127,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Cornaro, Luigi"
+            "Luigi Cornaro"
           ]
         }
       }
@@ -8145,8 +8145,8 @@
           "pages": 56,
           "volumes": 1,
           "authors": [
-            "Moore, Edward",
-            "Saurin, Bernard-Joseph"
+            "Edward Moore",
+            "Bernard-Joseph Saurin"
           ],
           "publisher": {
             "name": "Vve Duchesne",
@@ -8157,8 +8157,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Moore, Edward",
-            "Saurin, Bernard-Joseph"
+            "Edward Moore",
+            "Bernard-Joseph Saurin"
           ]
         }
       }
@@ -8175,9 +8175,9 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Villiers, Jacques-François [de]",
-            "Cadet-de-Vaux, Antoine-Alexis",
-            "Spielmann, Jacob Reinbold"
+            "Jacques-François de Villiers",
+            "Antoine-Alexis Cadet-de-Vaux",
+            "Jacob Reinbold Spielmann"
           ],
           "publisher": {
             "name": "Vincent",
@@ -8210,8 +8210,8 @@
           "pages": 488,
           "volumes": 1,
           "authors": [
-            "Marshall, Joseph",
-            "Pingeron, Jean-Claude"
+            "Joseph Marshall",
+            "Jean-Claude Pingeron"
           ],
           "publisher": {
             "name": "Dorez",
@@ -8232,8 +8232,8 @@
           "pages": 659,
           "volumes": 1,
           "authors": [
-            "Holbach, Paul Henri Dietrich [d']",
-            "Gellert, Christlieb Ehregott"
+            "Paul Henri Dietrich d'Holbach",
+            "Christlieb Ehregott Gellert"
           ],
           "publisher": {
             "name": "Briasson",
@@ -8258,7 +8258,7 @@
           "pages": 166,
           "volumes": 1,
           "authors": [
-            "Lawrence, Herbert"
+            "Herbert Lawrence"
           ],
           "publisher": {
             "name": "Société Littéraire et Typographique de Yverdon",
@@ -8280,7 +8280,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Cook, James"
+            "James Cook"
           ]
         }
       }
@@ -8297,8 +8297,8 @@
           "type": "French editions",
           "volumes": 5,
           "authors": [
-            "Priestley, Joseph",
-            "Gibelin, Jacques"
+            "Joseph Priestley",
+            "Jacques Gibelin"
           ],
           "publisher": {
             "name": "Nyon l'aîné",
@@ -8336,9 +8336,9 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Mirabeau, Honoré-Gabriel Riqueti [comte de]",
-            "Watson, Richard",
-            "Durival, Jean-Baptiste-Luton"
+            "Honoré-Gabriel Riqueti comte de Mirabeau",
+            "Richard Watson",
+            "Jean-Baptiste-Luton Durival"
           ]
         }
       }
@@ -8359,7 +8359,7 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Brooke, Frances Moore"
+            "Frances Moore Brooke"
           ],
           "publisher": {
             "name": "Bennett et Hake",
@@ -8380,7 +8380,7 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Wraxall, Nathaniel William"
+            "Nathaniel William Wraxall"
           ],
           "publisher": {
             "address": "Rotterdam"
@@ -8401,14 +8401,14 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Gibbon, Edward"
+            "Edward Gibbon"
           ]
         },
         "bk0004122": {
           "type": "French editions",
           "volumes": 4,
           "authors": [
-            "Gibbon, Edward"
+            "Edward Gibbon"
           ],
           "publisher": {
             "address": "Maestricht"
@@ -8418,21 +8418,21 @@
           "type": "Place of publication unknown",
           "volumes": 6,
           "authors": [
-            "Gibbon, Edward"
+            "Edward Gibbon"
           ]
         },
         "bk0004615": {
           "type": "Place of publication unknown",
           "volumes": 12,
           "authors": [
-            "Gibbon, Edward"
+            "Edward Gibbon"
           ]
         },
         "bk0004845": {
           "type": "Place of publication unknown",
           "volumes": 5,
           "authors": [
-            "Gibbon, Edward"
+            "Edward Gibbon"
           ]
         }
       }
@@ -8451,8 +8451,8 @@
           "pages": 140,
           "volumes": 1,
           "authors": [
-            "Grellet-Desprades, Joseph",
-            "Parini, Giuseppe"
+            "Joseph Grellet-Desprades",
+            "Giuseppe Parini"
           ],
           "publisher": {
             "name": "J. Fr. Bastien",
@@ -8471,7 +8471,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Pococke, Richard"
+            "Richard Pococke"
           ]
         }
       }
@@ -8487,8 +8487,8 @@
           "pages": 392,
           "volumes": 1,
           "authors": [
-            "Holbach, Paul Henri Dietrich [d']",
-            "Stahl, Georg Ernst"
+            "Paul Henri Dietrich d'Holbach",
+            "Georg Ernst Stahl"
           ],
           "publisher": {
             "address": "Paris"
@@ -8509,7 +8509,7 @@
           "pages": 751,
           "volumes": 2,
           "authors": [
-            "Combalusier, François de Paule"
+            "François de Paule Combalusier"
           ],
           "publisher": {
             "name": "Debure l'aîné",
@@ -8532,7 +8532,7 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Burdon, William"
+            "William Burdon"
           ],
           "publisher": {
             "address": "Paris"
@@ -8556,7 +8556,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Wilson, Thomas"
+            "Thomas Wilson"
           ]
         }
       }
@@ -8578,7 +8578,7 @@
           "type": "Other Swiss editions",
           "volumes": 3,
           "authors": [
-            "Pallas, Peter Simon"
+            "Peter Simon Pallas"
           ],
           "publisher": {
             "name": "François Seizer et Comp; Société Typographique de Berne",
@@ -8598,8 +8598,8 @@
           "type": "Place of publication unknown",
           "volumes": 5,
           "authors": [
-            "Tiraboschi, Girolamo",
-            "Landi, Antoine"
+            "Girolamo Tiraboschi",
+            "Antoine Landi"
           ]
         }
       }
@@ -8620,7 +8620,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Allestree, Richard"
+            "Richard Allestree"
           ]
         }
       }
@@ -8639,7 +8639,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gessner, Salomon"
+            "Salomon Gessner"
           ]
         }
       }
@@ -8656,7 +8656,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Ramsden, Jesse"
+            "Jesse Ramsden"
           ]
         }
       }
@@ -8679,7 +8679,7 @@
           "pages": 211,
           "volumes": 1,
           "authors": [
-            "Delille, Jacques",
+            "Jacques Delille",
             "Virgil"
           ],
           "publisher": {
@@ -8723,7 +8723,7 @@
           "pages": 70,
           "volumes": 1,
           "authors": [
-            "Pommereul, François-René-Jean [de]",
+            "François-René-Jean de Pommereul",
             "Epictetus",
             "Arrian"
           ],
@@ -8746,8 +8746,8 @@
           "pages": 572,
           "volumes": 1,
           "authors": [
-            "Barruel, Augustin",
-            "Boškovic, Ruder Josip"
+            "Augustin Barruel",
+            "Ruder Josip Boškovic"
           ],
           "publisher": {
             "name": "Laporte; Valade",
@@ -8769,8 +8769,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Pajon de Moncets, Louis-Esaïe",
-            "Pestalozzi, Henri"
+            "Louis-Esaïe Pajon de Moncets",
+            "Henri Pestalozzi"
           ],
           "publisher": {
             "name": "G. Gabriel Décombaz",
@@ -8791,7 +8791,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Gottsched, Johann Christoph"
+            "Johann Christoph Gottsched"
           ]
         }
       }
@@ -8810,8 +8810,8 @@
           "pages": 853,
           "volumes": 1,
           "authors": [
-            "Rieu, Henri",
-            "Moore, John"
+            "Henri Rieu",
+            "John Moore"
           ],
           "publisher": {
             "name": "François Grasset",
@@ -8835,8 +8835,8 @@
           "pages": 475,
           "volumes": 1,
           "authors": [
-            "Démeunier, Jean-Nicolas",
-            "Forrest, Thomas"
+            "Jean-Nicolas Démeunier",
+            "Thomas Forrest"
           ],
           "publisher": {
             "name": "Hôtel de Thou",
@@ -8863,7 +8863,7 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Caimo, Norberto"
+            "Norberto Caimo"
           ],
           "publisher": {
             "name": "J.-P. Costard",
@@ -8884,7 +8884,7 @@
           "type": "Neuchâtel editions (non-STN)",
           "volumes": 4,
           "authors": [
-            "Defoe, Daniel"
+            "Daniel Defoe"
           ],
           "publisher": {
             "name": "S. Fauche",
@@ -8895,7 +8895,7 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Defoe, Daniel"
+            "Daniel Defoe"
           ],
           "publisher": {
             "address": "Lyon"
@@ -8916,8 +8916,8 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Lee, Sophia",
-            "La Mare, P.-B. [de]"
+            "Sophia Lee",
+            "P.-B. de La Mare"
           ]
         }
       }
@@ -8934,8 +8934,8 @@
           "pages": 101,
           "volumes": 1,
           "authors": [
-            "Müller von Friedberg, Karl",
-            "Marval, Samuel [de]"
+            "Karl Müller von Friedberg",
+            "Samuel de Marval"
           ],
           "publisher": {
             "name": "L. Fauche-Borel",
@@ -8958,7 +8958,7 @@
           "pages": 248,
           "volumes": 1,
           "authors": [
-            "Black, William"
+            "William Black"
           ],
           "publisher": {
             "name": "Cuchet",
@@ -8980,8 +8980,8 @@
           "type": "French editions",
           "volumes": 4,
           "authors": [
-            "Hughes, Anne",
-            "Cantwell, André-Samuel-Michel"
+            "Anne Hughes",
+            "André-Samuel-Michel Cantwell"
           ],
           "publisher": {
             "name": "Letellier",
@@ -9004,7 +9004,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Algarotti, Francesco"
+            "Francesco Algarotti"
           ]
         }
       }
@@ -9020,8 +9020,8 @@
           "type": "International editions (non-Swiss)",
           "volumes": 1,
           "authors": [
-            "Vasse, Cornélie-Pétronille-Bénédicte Wouters [baronne de]",
-            "Cartwright, H. [Mrs]"
+            "Cornélie-Pétronille-Bénédicte Wouters baronne de Vasse",
+            "H. Mrs Cartwright"
           ],
           "publisher": {
             "name": "Maradan",
@@ -9044,7 +9044,7 @@
           "type": "Dutch editions",
           "volumes": 3,
           "authors": [
-            "Marini, Giovanni Ambrosio"
+            "Giovanni Ambrosio Marini"
           ],
           "publisher": {
             "address": "Amsterdam"
@@ -9071,8 +9071,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Trenck, Franz [von der]",
-            "Chiari, Pietro"
+            "Franz von der Trenck",
+            "Pietro Chiari"
           ]
         }
       }
@@ -9092,9 +9092,9 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Villiers, Jacques-François [de]",
-            "Sims, James",
-            "Jaubert, Nicolas-Antoine"
+            "Jacques-François de Villiers",
+            "James Sims",
+            "Nicolas-Antoine Jaubert"
           ]
         }
       }
@@ -9139,9 +9139,9 @@
           "pages": 1397,
           "volumes": 4,
           "authors": [
-            "Charrière, Isabelle [de]",
-            "Wolff, Elizabeth Bekker",
-            "Deken, Agatha"
+            "Isabelle de Charrière",
+            "Elizabeth Bekker Wolff",
+            "Agatha Deken"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -9164,7 +9164,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "James, William"
+            "William James"
           ]
         }
       }
@@ -9182,8 +9182,8 @@
           "type": "German editions",
           "volumes": 5,
           "authors": [
-            "Campe, Joachim Heinrich",
-            "Arnex, Auguste Simon [d']"
+            "Joachim Heinrich Campe",
+            "Auguste Simon d'Arnex"
           ],
           "publisher": {
             "name": "J. P. Streng",
@@ -9210,7 +9210,7 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Ariosto, Ludovico"
+            "Ludovico Ariosto"
           ]
         }
       }
@@ -9228,7 +9228,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Helme, Elizabeth"
+            "Elizabeth Helme"
           ]
         }
       }
@@ -9244,7 +9244,7 @@
           "pages": 550,
           "volumes": 2,
           "authors": [
-            "Lennox, Charlotte",
+            "Charlotte Lennox",
             "Fleurian [chevalier de]"
           ],
           "publisher": {
@@ -9267,7 +9267,7 @@
           "type": "International editions (non-Swiss)",
           "volumes": 2,
           "authors": [
-            "Hervey, Elizabeth"
+            "Elizabeth Hervey"
           ],
           "publisher": {
             "name": "Maradan",
@@ -9290,8 +9290,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Freire, Francisco José",
-            "Cournand, Antoine [de]"
+            "Francisco José Freire",
+            "Antoine de Cournand"
           ]
         }
       }
@@ -9309,7 +9309,7 @@
           "volumes": 3,
           "authors": [
             "Thucydides",
-            "Ablancourt, Nicolas Perrot [d']"
+            "Nicolas Perrot d'Ablancourt"
           ],
           "publisher": {
             "name": "Bollen",
@@ -9336,7 +9336,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Leti, Gregorio"
+            "Gregorio Leti"
           ]
         }
       }
@@ -9353,8 +9353,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Martyn, Thomas",
-            "Blanc, Samuel Louis"
+            "Thomas Martyn",
+            "Samuel Louis Blanc"
           ]
         }
       }
@@ -9373,8 +9373,8 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Berquin, Arnaud",
-            "Day, Thomas"
+            "Arnaud Berquin",
+            "Thomas Day"
           ]
         }
       }
@@ -9397,16 +9397,16 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Trenck, Friedrich [von der]",
-            "Bock, Jean-Nicolas-Étienne [baron de]"
+            "Friedrich von der Trenck",
+            "Jean-Nicolas-Étienne baron de Bock"
           ]
         },
         "bk0005388": {
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Trenck, Friedrich [von der]",
-            "Bock, Jean-Nicolas-Étienne [baron de]"
+            "Friedrich von der Trenck",
+            "Jean-Nicolas-Étienne baron de Bock"
           ]
         }
       }
@@ -9430,8 +9430,8 @@
           "pages": 222,
           "volumes": 1,
           "authors": [
-            "Zimmermann, Johann Georg [von]",
-            "Mercier, J. B."
+            "Johann Georg von Zimmermann",
+            "J. B. Mercier"
           ],
           "publisher": {
             "name": "François Lacombe",
@@ -9459,7 +9459,7 @@
           "pages": 254,
           "volumes": 1,
           "authors": [
-            "Wagner, Johann Ludwig"
+            "Johann Ludwig Wagner"
           ],
           "publisher": {
             "name": "Emanuel Haller",
@@ -9480,8 +9480,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Restif de la Bretonne, Nicolas-Edmé",
-            "Ligne, Charles Joseph [de]"
+            "Nicolas-Edmé Restif de la Bretonne",
+            "Charles Joseph de Ligne"
           ],
           "publisher": {
             "address": "Paris"
@@ -9502,7 +9502,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Ramsay, Andrew Michael"
+            "Andrew Michael Ramsay"
           ]
         }
       }
@@ -9526,15 +9526,15 @@
           "type": "Place of publication unknown",
           "volumes": 4,
           "authors": [
-            "Montecuccoli, Raimondo",
-            "Adam, Jacques"
+            "Raimondo Montecuccoli",
+            "Jacques Adam"
           ]
         },
         "bk0004797": {
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Montecuccoli, Raimondo"
+            "Raimondo Montecuccoli"
           ]
         }
       }
@@ -9553,8 +9553,8 @@
           "type": "French editions",
           "volumes": 4,
           "authors": [
-            "Marini, Giovanni Ambrosio",
-            "Serré de Rieux, Jean [de]"
+            "Giovanni Ambrosio Marini",
+            "Jean de Serré de Rieux"
           ],
           "publisher": {
             "name": "Bruyset",
@@ -9578,7 +9578,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Fénelon, François de Salignac de La Mothe"
+            "François de Salignac de La Mothe Fénelon"
           ]
         }
       }
@@ -9596,7 +9596,7 @@
           "type": "Dutch editions",
           "volumes": 2,
           "authors": [
-            "Reid, Thomas"
+            "Thomas Reid"
           ],
           "publisher": {
             "name": "Jean Meyer",
@@ -9619,8 +9619,8 @@
           "pages": 271,
           "volumes": 1,
           "authors": [
-            "Miller, Philip",
-            "Tschudi, Louis-Théodore [de]"
+            "Philip Miller",
+            "Louis-Théodore de Tschudi"
           ],
           "publisher": {
             "name": "J. Collignon",
@@ -9648,8 +9648,8 @@
           "type": "British editions",
           "volumes": 14,
           "authors": [
-            "Castéra, Jean Henri",
-            "Bruce, James"
+            "Jean Henri Castéra",
+            "James Bruce"
           ],
           "publisher": {
             "address": "London"
@@ -9667,8 +9667,8 @@
           "type": "German editions",
           "volumes": 2,
           "authors": [
-            "Lang, Joseph Gregor",
-            "Beaunoir, Alexandre Louis Bertrand Robineau [de]"
+            "Joseph Gregor Lang",
+            "Alexandre Louis Bertrand Robineau de Beaunoir"
           ],
           "publisher": {
             "address": "Neuwied"
@@ -9714,7 +9714,7 @@
           "pages": 198,
           "volumes": 1,
           "authors": [
-            "Sterne, Gille Blasius"
+            "Gille Blasius Sterne"
           ],
           "publisher": {
             "name": "Bure l'aîné; Jean Mourer",
@@ -9737,8 +9737,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Craven, Elizabeth Berkeley [lady]",
-            "Durand, P.-Noël"
+            "Elizabeth Berkeley lady Craven",
+            "P.-Noël Durand"
           ]
         }
       }
@@ -9756,7 +9756,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Burke, Edmund"
+            "Edmund Burke"
           ]
         }
       }
@@ -9774,7 +9774,7 @@
           "pages": 183,
           "volumes": 1,
           "authors": [
-            "Schirach, Gottlob Benedict [von]"
+            "Gottlob Benedict von Schirach"
           ]
         }
       }
@@ -9791,8 +9791,8 @@
           "pages": 372,
           "volumes": 1,
           "authors": [
-            "Archenholtz, Johann Wilhelm [von]",
-            "Arnex, Auguste Simon [d']"
+            "Johann Wilhelm von Archenholtz",
+            "Auguste Simon d'Arnex"
           ],
           "publisher": {
             "name": "Emanuel Haller",
@@ -9820,8 +9820,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Luchet, Jean-Pierre-Louis de La Roche du Marin [marquis de]",
-            "Meissner, August Gottlieb"
+            "Jean-Pierre-Louis de La Roche du Marin marquis de Luchet",
+            "August Gottlieb Meissner"
           ],
           "publisher": {
             "name": "Maradan",
@@ -9848,8 +9848,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Estienne, Robert",
-            "Fordyce, James"
+            "Robert Estienne",
+            "James Fordyce"
           ]
         }
       }
@@ -9867,8 +9867,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Sterne, Laurence",
-            "La Boissière, Joseph-Louis [de]"
+            "Laurence Sterne",
+            "Joseph-Louis de La Boissière"
           ]
         }
       }
@@ -9889,8 +9889,8 @@
           "type": "Swiss-International editions",
           "volumes": 4,
           "authors": [
-            "Coxe, William",
-            "Mallet, Paul Henri"
+            "William Coxe",
+            "Paul Henri Mallet"
           ],
           "publisher": {
             "name": "Barde, Manget et Cie; Buisson",
@@ -9901,8 +9901,8 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Coxe, William",
-            "Mallet, Paul Henri"
+            "William Coxe",
+            "Paul Henri Mallet"
           ],
           "publisher": {
             "name": "Barde, Manget et Cie",
@@ -9922,7 +9922,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Griffith, Elizabeth"
+            "Elizabeth Griffith"
           ],
           "publisher": {
             "name": "Mourer",
@@ -9948,8 +9948,8 @@
           "pages": 343,
           "volumes": 1,
           "authors": [
-            "Maffei, Francesco Scipione",
-            "Nonnotte, Claude-François"
+            "Francesco Scipione Maffei",
+            "Claude-François Nonnotte"
           ],
           "publisher": {
             "address": "Avignon"
@@ -9969,7 +9969,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Castillo Solórzano, Alonso [de]"
+            "Alonso de Castillo Solórzano"
           ]
         }
       }
@@ -9987,7 +9987,7 @@
           "type": "Avignon editions",
           "volumes": 3,
           "authors": [
-            "Heister, Lorenz"
+            "Lorenz Heister"
           ],
           "publisher": {
             "name": "J. J. Niel",
@@ -10012,7 +10012,7 @@
           "type": "Italian editions",
           "volumes": 1,
           "authors": [
-            "Villecomte, Denis [de]"
+            "Denis de Villecomte"
           ],
           "publisher": {
             "name": "frères Reycends",
@@ -10054,8 +10054,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Joncourt, Elie [de]",
-            "Anson, George"
+            "Elie de Joncourt",
+            "George Anson"
           ]
         }
       }
@@ -10080,8 +10080,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Livoy, Timothée Hureau [de]",
-            "Muratori, Lodovico Antonio"
+            "Timothée Hureau de Livoy",
+            "Lodovico Antonio Muratori"
           ],
           "publisher": {
             "name": "Vve Reguilliat",
@@ -10114,8 +10114,8 @@
           "pages": 575,
           "volumes": 1,
           "authors": [
-            "Michaelis, Johann David",
-            "Merian, Johann Bernhard"
+            "Johann David Michaelis",
+            "Johann Bernhard Merian"
           ],
           "publisher": {
             "name": "aux dépens de la Compagnie",
@@ -10141,8 +10141,8 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Berquin, Arnaud",
-            "Trimmer, Sarah"
+            "Arnaud Berquin",
+            "Sarah Trimmer"
           ]
         }
       }
@@ -10159,8 +10159,8 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Bourrit, Marc-Théodore",
-            "Falkner, Thomas"
+            "Marc-Théodore Bourrit",
+            "Thomas Falkner"
           ],
           "publisher": {
             "address": "Lausanne"
@@ -10181,8 +10181,8 @@
           "type": "International editions (non-Swiss)",
           "volumes": 1,
           "authors": [
-            "Haywood, Eliza Fowler",
-            "Mauvillon, Éléazar [de]"
+            "Eliza Fowler Haywood",
+            "Éléazar de Mauvillon"
           ],
           "publisher": {
             "name": "Arkstée et Merkus",
@@ -10206,8 +10206,8 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "La Place, Pierre-Antoine [de]",
-            "Reeve, Clara"
+            "Pierre-Antoine de La Place",
+            "Clara Reeve"
           ]
         }
       }
@@ -10229,8 +10229,8 @@
           "type": "German editions",
           "volumes": 1,
           "authors": [
-            "Suard, Jean-Baptiste-Antoine",
-            "Montagu, Mary Wortley"
+            "Jean-Baptiste-Antoine Suard",
+            "Mary Wortley Montagu"
           ],
           "publisher": {
             "address": "Vienna"
@@ -10250,7 +10250,7 @@
           "type": "Other Swiss editions",
           "volumes": 1,
           "authors": [
-            "Velleius Paterculus, Caius"
+            "Caius Velleius Paterculus"
           ],
           "publisher": {
             "address": "Basle"
@@ -10282,8 +10282,8 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Maupertuis, Pierre-Louis Moreau [de]",
-            "Barclay, John"
+            "Pierre-Louis Moreau de Maupertuis",
+            "John Barclay"
           ]
         }
       }
@@ -10302,8 +10302,8 @@
           "type": "Swiss-International editions",
           "volumes": 2,
           "authors": [
-            "Pernety, Antoine-Joseph",
-            "Swedenborg, Emanuel"
+            "Antoine-Joseph Pernety",
+            "Emanuel Swedenborg"
           ],
           "publisher": {
             "name": "Barthelemy Chirol",
@@ -10323,7 +10323,7 @@
           "type": "Place of publication unknown",
           "volumes": 2,
           "authors": [
-            "Van Diemerbroeck, Ijsbrand"
+            "Ijsbrand Van Diemerbroeck"
           ]
         }
       }
@@ -10348,7 +10348,7 @@
           "pages": 344,
           "volumes": 1,
           "authors": [
-            "Weikard, Melchior Adam"
+            "Melchior Adam Weikard"
           ],
           "publisher": {
             "name": "d'Andræ",
@@ -10368,7 +10368,7 @@
           "type": "Other Swiss editions",
           "volumes": 19,
           "authors": [
-            "Hume, David"
+            "David Hume"
           ],
           "publisher": {
             "address": "Yverdon"
@@ -10390,8 +10390,8 @@
           "type": "Place of publication unknown",
           "volumes": 3,
           "authors": [
-            "Le Tourneur, Pierre-Prime-Félicien",
-            "Sparrman, Anders"
+            "Pierre-Prime-Félicien Le Tourneur",
+            "Anders Sparrman"
           ]
         }
       },
@@ -10417,7 +10417,7 @@
           "pages": 58,
           "volumes": 1,
           "authors": [
-            "Samwell, David"
+            "David Samwell"
           ],
           "publisher": {
             "address": "London; Paris"
@@ -10450,8 +10450,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Brissot de Warville, Jacques-Pierre",
-            "Macintosh, William"
+            "Jacques-Pierre Brissot de Warville",
+            "William Macintosh"
           ],
           "publisher": {
             "name": "Regnaut",
@@ -10483,8 +10483,8 @@
           "type": "Dutch editions",
           "volumes": 1,
           "authors": [
-            "Holbach, Paul Henri Dietrich [d']",
-            "Toland, John"
+            "Paul Henri Dietrich d'Holbach",
+            "John Toland"
           ],
           "publisher": {
             "address": "London"
@@ -10509,7 +10509,7 @@
           "type": "German editions",
           "volumes": 1,
           "authors": [
-            "Wieland, Christoph Martin",
+            "Christoph Martin Wieland",
             "Bouton"
           ],
           "publisher": {
@@ -10531,8 +10531,8 @@
           "pages": 388,
           "volumes": 1,
           "authors": [
-            "Diderot, Denis",
-            "Shaftesbury, Anthony Ashley Cooper [compte de]"
+            "Denis Diderot",
+            "Anthony Ashley Cooper compte de Shaftesbury"
           ],
           "publisher": {
             "address": "London"
@@ -10556,8 +10556,8 @@
           "pages": 250,
           "volumes": 1,
           "authors": [
-            "Filson, John",
-            "Parraud, I.-P."
+            "John Filson",
+            "I.-P. Parraud"
           ],
           "publisher": {
             "name": "Buisson",
@@ -10586,8 +10586,8 @@
           "pages": 782,
           "volumes": 2,
           "authors": [
-            "Graffigny, Françoise [de]",
-            "Deodati de Tovazzi, G. L. "
+            "Françoise de Graffigny",
+            "G. L.  Deodati de Tovazzi"
           ],
           "publisher": {
             "name": "Bruysset frères",
@@ -10610,7 +10610,7 @@
           "type": "Dutch editions",
           "volumes": 3,
           "authors": [
-            "Nordberg, Jöran Andersson"
+            "Jöran Andersson Nordberg"
           ],
           "publisher": {
             "name": "P. de Hondt",
@@ -10633,8 +10633,8 @@
           "type": "French editions",
           "volumes": 2,
           "authors": [
-            "Algarotti, Francesco",
-            "Du Perron de Castera, Louis-Adrien"
+            "Francesco Algarotti",
+            "Louis-Adrien Du Perron de Castera"
           ],
           "publisher": {
             "address": "Paris"
@@ -10658,7 +10658,7 @@
           "pages": 296,
           "volumes": 1,
           "authors": [
-            "Chubb, Thomas"
+            "Thomas Chubb"
           ],
           "publisher": {
             "name": "F. Changuion",
@@ -10691,7 +10691,7 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Lewis, William",
+            "William Lewis",
             "Chalettes",
             "Espuller [baron d']"
           ],
@@ -10715,8 +10715,8 @@
           "pages": 261,
           "volumes": 1,
           "authors": [
-            "Wezel, Johann Karl",
-            "Dyck, Johann Gottfried"
+            "Johann Karl Wezel",
+            "Johann Gottfried Dyck"
           ]
         }
       }
@@ -10732,8 +10732,8 @@
           "type": "French editions",
           "volumes": 1,
           "authors": [
-            "Smith, Robert",
-            "Duval-Le Roy, Nicolas-Claude"
+            "Robert Smith",
+            "Nicolas-Claude Duval-Le Roy"
           ],
           "publisher": {
             "address": "Brest"
@@ -10759,7 +10759,7 @@
           "type": "Place of publication unknown",
           "volumes": 1,
           "authors": [
-            "Clarke, Samuel"
+            "Samuel Clarke"
           ]
         }
       }
@@ -10778,8 +10778,8 @@
           "type": "French editions",
           "volumes": 3,
           "authors": [
-            "Bartoli, Daniello",
-            "Delivoy, Timothée"
+            "Daniello Bartoli",
+            "Timothée Delivoy"
           ],
           "publisher": {
             "name": "Hérissant le fils",
@@ -10807,7 +10807,7 @@
           "pages": 143,
           "volumes": 1,
           "authors": [
-            "Cradock, Joseph"
+            "Joseph Cradock"
           ],
           "publisher": {
             "name": "François Grasset & comp.",
@@ -10827,8 +10827,8 @@
           "type": "Place of publication unknown",
           "volumes": 5,
           "authors": [
-            "Burney, Fanny",
-            "Rieu, Henri"
+            "Fanny Burney",
+            "Henri Rieu"
           ]
         }
       }
@@ -10848,9 +10848,9 @@
           "pages": 254,
           "volumes": 1,
           "authors": [
-            "Cook, James",
-            "Hawkesworth, John",
-            "Banks, Joseph"
+            "James Cook",
+            "John Hawkesworth",
+            "Joseph Banks"
           ],
           "publisher": {
             "name": "Société Typographique de Neuchâtel",
@@ -10886,7 +10886,7 @@
           "type": "Other Swiss editions",
           "volumes": 2,
           "authors": [
-            "Nogaret, François-Félix"
+            "François-Félix Nogaret"
           ],
           "publisher": {
             "address": "London"
@@ -10897,7 +10897,7 @@
           "pages": 136,
           "volumes": 1,
           "authors": [
-            "Nogaret, François-Félix"
+            "François-Félix Nogaret"
           ],
           "publisher": {
             "address": "London"
